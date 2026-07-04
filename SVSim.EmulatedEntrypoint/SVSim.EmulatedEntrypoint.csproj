@@ -63,8 +63,17 @@
     </None>
   </ItemGroup>
 
-  <Target Name="PostBuild" AfterTargets="PostBuildEvent">
-    <Exec Command="COPY &quot;$(ProjectDir)\lib\*&quot; &quot;$(TargetDir)&quot;" />
+  <!-- Copy the Steamworks native libs into the build AND publish output. Was previously
+       an `<Exec Command="COPY ...">` that only ran on Windows; the MSBuild `<Copy>` task
+       is cross-platform, so CI can build on ubuntu-latest without a shell fallback. -->
+  <ItemGroup>
+    <SteamworksNativeLibs Include="$(ProjectDir)lib\**\*" />
+  </ItemGroup>
+  <Target Name="CopySteamworksLibsToOutput" AfterTargets="Build">
+    <Copy SourceFiles="@(SteamworksNativeLibs)" DestinationFolder="$(TargetDir)" SkipUnchangedFiles="true" />
+  </Target>
+  <Target Name="CopySteamworksLibsToPublish" AfterTargets="Publish">
+    <Copy SourceFiles="@(SteamworksNativeLibs)" DestinationFolder="$(PublishDir)" SkipUnchangedFiles="true" />
   </Target>
 
 </Project>
