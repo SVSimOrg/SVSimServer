@@ -467,9 +467,9 @@ public class AdminControllerTests
             SteamId = steamId,
             MissionMeta = new ImportMissionMeta
             {
-                HasReceivedPickTwoMission = true,
+                HasReceivedPickTwoMission = 1,       // wire "1"/"0"; controller normalizes to bool
                 MissionReceiveType = 2,
-                MissionChangeTime = 1_700_000_000L
+                MissionChangeTime = "2023-11-14 22:13:20"  // wire "yyyy-MM-dd HH:mm:ss"; parsed as UTC
             }
         });
         resp.EnsureSuccessStatusCode();
@@ -484,9 +484,10 @@ public class AdminControllerTests
         Assert.That(viewer.MissionData, Is.Not.Null);
         Assert.That(viewer.MissionData!.HasReceivedPickTwoMission, Is.True);
         Assert.That(viewer.MissionData.MissionReceiveType, Is.EqualTo(2));
-        // MissionChangeTime is DateTime in storage; verify it survives the round-trip from unix seconds.
+        // MissionChangeTime is DateTime in storage; the datetime string parses as UTC
+        // (AssumeUniversal | AdjustToUniversal in AdminController.Pass A).
         Assert.That(viewer.MissionData.MissionChangeTime,
-            Is.EqualTo(DateTimeOffset.FromUnixTimeSeconds(1_700_000_000L).UtcDateTime));
+            Is.EqualTo(new DateTime(2023, 11, 14, 22, 13, 20, DateTimeKind.Utc)));
     }
 
     [Test]
@@ -1051,7 +1052,7 @@ public class AdminControllerTests
         var req = new ImportViewerRequest
         {
             SteamId = steamId,
-            MissionMeta = new ImportMissionMeta { HasReceivedPickTwoMission = true, MissionReceiveType = 1, MissionChangeTime = 1L },
+            MissionMeta = new ImportMissionMeta { HasReceivedPickTwoMission = 1, MissionReceiveType = 1, MissionChangeTime = "2023-01-01 00:00:00" },
             Missions = new List<ImportMission> { new() { MissionId = 8001, MissionStatus = 1, TotalCount = 5 } },
             Achievements = new List<ImportAchievement> { new() { AchievementType = 800, Level = 1, NowAchievedLevel = 1, ResultAnnounceSawLevel = 0, TotalCount = 9 } },
             StoryProgress = new List<ImportStoryProgress> { new() { StoryApiType = 1, StoryId = 50, IsFinish = true } }
