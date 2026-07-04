@@ -1,0 +1,9 @@
+[
+  {"id": 8, "player_first_turn": 0, "player_start_pp": 0, "enemy_start_pp": 0,
+   "player_start_life": 20, "enemy_start_life": 10,
+   "player_attach_skill": "", "enemy_attach_skill": "",
+   "id_override_in_battle_log": "", "banish_effect_override": "",
+   "token_draw_effect_override": "", "special_token_draw_effect_override": "",
+   "result_skip": 0, "vs_effect_override": 0, "class_destroy_effect_override": 0,
+   "note": "test sbs"}
+]

@@ -1,0 +1,14 @@
+[
+  { "win_count": 0, "reward_group": 1, "weight": 1, "reward_type": 4, "reward_id": 80001, "reward_num": 1 },
+  { "win_count": 0, "reward_group": 2, "weight": 1, "reward_type": 9, "reward_id": 0, "reward_num": 100 },
+  { "win_count": 1, "reward_group": 1, "weight": 1, "reward_type": 4, "reward_id": 80001, "reward_num": 1 },
+  { "win_count": 1, "reward_group": 2, "weight": 1, "reward_type": 9, "reward_id": 0, "reward_num": 300 },
+  { "win_count": 2, "reward_group": 1, "weight": 1, "reward_type": 4, "reward_id": 80001, "reward_num": 1 },
+  { "win_count": 2, "reward_group": 2, "weight": 1, "reward_type": 9, "reward_id": 0, "reward_num": 500 },
+  { "win_count": 3, "reward_group": 1, "weight": 1, "reward_type": 4, "reward_id": 80001, "reward_num": 1 },
+  { "win_count": 3, "reward_group": 2, "weight": 1, "reward_type": 9, "reward_id": 0, "reward_num": 700 },
+  { "win_count": 4, "reward_group": 1, "weight": 1, "reward_type": 4, "reward_id": 80001, "reward_num": 1 },
+  { "win_count": 4, "reward_group": 2, "weight": 1, "reward_type": 9, "reward_id": 0, "reward_num": 850 },
+  { "win_count": 5, "reward_group": 1, "weight": 1, "reward_type": 4, "reward_id": 80001, "reward_num": 1 },
+  { "win_count": 5, "reward_group": 2, "weight": 1, "reward_type": 9, "reward_id": 0, "reward_num": 1000 }
+]

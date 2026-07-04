@@ -1,0 +1,1289 @@
+[
+  {
+    "season_id": 23,
+    "track": "normal",
+    "level": 2,
+    "reward_type": 9,
+    "reward_detail_id": 0,
+    "reward_number": 50,
+    "is_appeal_exclusion": false
+  },
+  {
+    "season_id": 23,
+    "track": "normal",
+    "level": 3,
+    "reward_type": 4,
+    "reward_detail_id": 80001,
+    "reward_number": 1,
+    "is_appeal_exclusion": false
+  },
+  {
+    "season_id": 23,
+    "track": "normal",
+    "level": 5,
+    "reward_type": 9,
+    "reward_detail_id": 0,
+    "reward_number": 50,
+    "is_appeal_exclusion": false
+  },
+  {
+    "season_id": 23,
+    "track": "normal",
+    "level": 6,
+    "reward_type": 4,
+    "reward_detail_id": 1,
+    "reward_number": 1,
+    "is_appeal_exclusion": false
+  },
+  {
+    "season_id": 23,
+    "track": "normal",
+    "level": 7,
+    "reward_type": 9,
+    "reward_detail_id": 0,
+    "reward_number": 50,
+    "is_appeal_exclusion": false
+  },
+  {
+    "season_id": 23,
+    "track": "normal",
+    "level": 9,
+    "reward_type": 9,
+    "reward_detail_id": 0,
+    "reward_number": 50,
+    "is_appeal_exclusion": false
+  },
+  {
+    "season_id": 23,
+    "track": "normal",
+    "level": 11,
+    "reward_type": 4,
+    "reward_detail_id": 80001,
+    "reward_number": 1,
+    "is_appeal_exclusion": false
+  },
+  {
+    "season_id": 23,
+    "track": "normal",
+    "level": 13,
+    "reward_type": 9,
+    "reward_detail_id": 0,
+    "reward_number": 50,
+    "is_appeal_exclusion": false
+  },
+  {
+    "season_id": 23,
+    "track": "normal",
+    "level": 15,
+    "reward_type": 4,
+    "reward_detail_id": 1,
+    "reward_number": 1,
+    "is_appeal_exclusion": false
+  },
+  {
+    "season_id": 23,
+    "track": "normal",
+    "level": 17,
+    "reward_type": 7,
+    "reward_detail_id": 200000180,
+    "reward_number": 1,
+    "is_appeal_exclusion": false
+  },
+  {
+    "season_id": 23,
+    "track": "normal",
+    "level": 19,
+    "reward_type": 4,
+    "reward_detail_id": 80001,
+    "reward_number": 1,
+    "is_appeal_exclusion": false
+  },
+  {
+    "season_id": 23,
+    "track": "normal",
+    "level": 21,
+    "reward_type": 9,
+    "reward_detail_id": 0,
+    "reward_number": 50,
+    "is_appeal_exclusion": false
+  },
+  {
+    "season_id": 23,
+    "track": "normal",
+    "level": 23,
+    "reward_type": 9,
+    "reward_detail_id": 0,
+    "reward_number": 50,
+    "is_appeal_exclusion": false
+  },
+  {
+    "season_id": 23,
+    "track": "normal",
+    "level": 25,
+    "reward_type": 6,
+    "reward_detail_id": 200000180,
+    "reward_number": 1,
+    "is_appeal_exclusion": false
+  },
+  {
+    "season_id": 23,
+    "track": "normal",
+    "level": 27,
+    "reward_type": 4,
+    "reward_detail_id": 80001,
+    "reward_number": 1,
+    "is_appeal_exclusion": false
+  },
+  {
+    "season_id": 23,
+    "track": "normal",
+    "level": 29,
+    "reward_type": 9,
+    "reward_detail_id": 0,
+    "reward_number": 50,
+    "is_appeal_exclusion": false
+  },
+  {
+    "season_id": 23,
+    "track": "normal",
+    "level": 30,
+    "reward_type": 4,
+    "reward_detail_id": 80001,
+    "reward_number": 1,
+    "is_appeal_exclusion": false
+  },
+  {
+    "season_id": 23,
+    "track": "normal",
+    "level": 31,
+    "reward_type": 9,
+    "reward_detail_id": 0,
+    "reward_number": 50,
+    "is_appeal_exclusion": false
+  },
+  {
+    "season_id": 23,
+    "track": "normal",
+    "level": 33,
+    "reward_type": 4,
+    "reward_detail_id": 1,
+    "reward_number": 1,
+    "is_appeal_exclusion": false
+  },
+  {
+    "season_id": 23,
+    "track": "normal",
+    "level": 35,
+    "reward_type": 9,
+    "reward_detail_id": 0,
+    "reward_number": 50,
+    "is_appeal_exclusion": false
+  },
+  {
+    "season_id": 23,
+    "track": "normal",
+    "level": 37,
+    "reward_type": 4,
+    "reward_detail_id": 80001,
+    "reward_number": 1,
+    "is_appeal_exclusion": false
+  },
+  {
+    "season_id": 23,
+    "track": "normal",
+    "level": 39,
+    "reward_type": 9,
+    "reward_detail_id": 0,
+    "reward_number": 50,
+    "is_appeal_exclusion": false
+  },
+  {
+    "season_id": 23,
+    "track": "normal",
+    "level": 41,
+    "reward_type": 4,
+    "reward_detail_id": 80001,
+    "reward_number": 1,
+    "is_appeal_exclusion": false
+  },
+  {
+    "season_id": 23,
+    "track": "normal",
+    "level": 43,
+    "reward_type": 9,
+    "reward_detail_id": 0,
+    "reward_number": 50,
+    "is_appeal_exclusion": false
+  },
+  {
+    "season_id": 23,
+    "track": "normal",
+    "level": 45,
+    "reward_type": 4,
+    "reward_detail_id": 1001,
+    "reward_number": 1,
+    "is_appeal_exclusion": false
+  },
+  {
+    "season_id": 23,
+    "track": "normal",
+    "level": 47,
+    "reward_type": 9,
+    "reward_detail_id": 0,
+    "reward_number": 50,
+    "is_appeal_exclusion": false
+  },
+  {
+    "season_id": 23,
+    "track": "normal",
+    "level": 49,
+    "reward_type": 4,
+    "reward_detail_id": 80001,
+    "reward_number": 1,
+    "is_appeal_exclusion": false
+  },
+  {
+    "season_id": 23,
+    "track": "normal",
+    "level": 51,
+    "reward_type": 9,
+    "reward_detail_id": 0,
+    "reward_number": 50,
+    "is_appeal_exclusion": false
+  },
+  {
+    "season_id": 23,
+    "track": "normal",
+    "level": 53,
+    "reward_type": 4,
+    "reward_detail_id": 80001,
+    "reward_number": 1,
+    "is_appeal_exclusion": false
+  },
+  {
+    "season_id": 23,
+    "track": "normal",
+    "level": 55,
+    "reward_type": 9,
+    "reward_detail_id": 0,
+    "reward_number": 50,
+    "is_appeal_exclusion": false
+  },
+  {
+    "season_id": 23,
+    "track": "normal",
+    "level": 57,
+    "reward_type": 4,
+    "reward_detail_id": 80001,
+    "reward_number": 1,
+    "is_appeal_exclusion": false
+  },
+  {
+    "season_id": 23,
+    "track": "normal",
+    "level": 59,
+    "reward_type": 9,
+    "reward_detail_id": 0,
+    "reward_number": 50,
+    "is_appeal_exclusion": false
+  },
+  {
+    "season_id": 23,
+    "track": "normal",
+    "level": 60,
+    "reward_type": 4,
+    "reward_detail_id": 80001,
+    "reward_number": 1,
+    "is_appeal_exclusion": false
+  },
+  {
+    "season_id": 23,
+    "track": "normal",
+    "level": 61,
+    "reward_type": 9,
+    "reward_detail_id": 0,
+    "reward_number": 50,
+    "is_appeal_exclusion": false
+  },
+  {
+    "season_id": 23,
+    "track": "normal",
+    "level": 63,
+    "reward_type": 4,
+    "reward_detail_id": 80001,
+    "reward_number": 1,
+    "is_appeal_exclusion": false
+  },
+  {
+    "season_id": 23,
+    "track": "normal",
+    "level": 65,
+    "reward_type": 4,
+    "reward_detail_id": 1001,
+    "reward_number": 1,
+    "is_appeal_exclusion": false
+  },
+  {
+    "season_id": 23,
+    "track": "normal",
+    "level": 67,
+    "reward_type": 9,
+    "reward_detail_id": 0,
+    "reward_number": 50,
+    "is_appeal_exclusion": false
+  },
+  {
+    "season_id": 23,
+    "track": "normal",
+    "level": 69,
+    "reward_type": 4,
+    "reward_detail_id": 80001,
+    "reward_number": 1,
+    "is_appeal_exclusion": false
+  },
+  {
+    "season_id": 23,
+    "track": "normal",
+    "level": 71,
+    "reward_type": 9,
+    "reward_detail_id": 0,
+    "reward_number": 50,
+    "is_appeal_exclusion": false
+  },
+  {
+    "season_id": 23,
+    "track": "normal",
+    "level": 73,
+    "reward_type": 4,
+    "reward_detail_id": 80001,
+    "reward_number": 1,
+    "is_appeal_exclusion": false
+  },
+  {
+    "season_id": 23,
+    "track": "normal",
+    "level": 75,
+    "reward_type": 9,
+    "reward_detail_id": 0,
+    "reward_number": 50,
+    "is_appeal_exclusion": false
+  },
+  {
+    "season_id": 23,
+    "track": "normal",
+    "level": 77,
+    "reward_type": 4,
+    "reward_detail_id": 80001,
+    "reward_number": 1,
+    "is_appeal_exclusion": false
+  },
+  {
+    "season_id": 23,
+    "track": "normal",
+    "level": 79,
+    "reward_type": 9,
+    "reward_detail_id": 0,
+    "reward_number": 50,
+    "is_appeal_exclusion": false
+  },
+  {
+    "season_id": 23,
+    "track": "normal",
+    "level": 80,
+    "reward_type": 4,
+    "reward_detail_id": 90001,
+    "reward_number": 1,
+    "is_appeal_exclusion": false
+  },
+  {
+    "season_id": 23,
+    "track": "premium",
+    "level": 2,
+    "reward_type": 9,
+    "reward_detail_id": 0,
+    "reward_number": 20,
+    "is_appeal_exclusion": false
+  },
+  {
+    "season_id": 23,
+    "track": "premium",
+    "level": 3,
+    "reward_type": 9,
+    "reward_detail_id": 0,
+    "reward_number": 20,
+    "is_appeal_exclusion": false
+  },
+  {
+    "season_id": 23,
+    "track": "premium",
+    "level": 4,
+    "reward_type": 4,
+    "reward_detail_id": 1,
+    "reward_number": 1,
+    "is_appeal_exclusion": false
+  },
+  {
+    "season_id": 23,
+    "track": "premium",
+    "level": 5,
+    "reward_type": 9,
+    "reward_detail_id": 0,
+    "reward_number": 20,
+    "is_appeal_exclusion": false
+  },
+  {
+    "season_id": 23,
+    "track": "premium",
+    "level": 6,
+    "reward_type": 9,
+    "reward_detail_id": 0,
+    "reward_number": 20,
+    "is_appeal_exclusion": false
+  },
+  {
+    "season_id": 23,
+    "track": "premium",
+    "level": 7,
+    "reward_type": 9,
+    "reward_detail_id": 0,
+    "reward_number": 20,
+    "is_appeal_exclusion": false
+  },
+  {
+    "season_id": 23,
+    "track": "premium",
+    "level": 8,
+    "reward_type": 4,
+    "reward_detail_id": 80001,
+    "reward_number": 1,
+    "is_appeal_exclusion": false
+  },
+  {
+    "season_id": 23,
+    "track": "premium",
+    "level": 9,
+    "reward_type": 9,
+    "reward_detail_id": 0,
+    "reward_number": 20,
+    "is_appeal_exclusion": false
+  },
+  {
+    "season_id": 23,
+    "track": "premium",
+    "level": 10,
+    "reward_type": 7,
+    "reward_detail_id": 200000096,
+    "reward_number": 1,
+    "is_appeal_exclusion": true
+  },
+  {
+    "season_id": 23,
+    "track": "premium",
+    "level": 11,
+    "reward_type": 9,
+    "reward_detail_id": 0,
+    "reward_number": 20,
+    "is_appeal_exclusion": false
+  },
+  {
+    "season_id": 23,
+    "track": "premium",
+    "level": 12,
+    "reward_type": 4,
+    "reward_detail_id": 80001,
+    "reward_number": 1,
+    "is_appeal_exclusion": false
+  },
+  {
+    "season_id": 23,
+    "track": "premium",
+    "level": 13,
+    "reward_type": 9,
+    "reward_detail_id": 0,
+    "reward_number": 20,
+    "is_appeal_exclusion": false
+  },
+  {
+    "season_id": 23,
+    "track": "premium",
+    "level": 14,
+    "reward_type": 9,
+    "reward_detail_id": 0,
+    "reward_number": 50,
+    "is_appeal_exclusion": false
+  },
+  {
+    "season_id": 23,
+    "track": "premium",
+    "level": 15,
+    "reward_type": 6,
+    "reward_detail_id": 200000093,
+    "reward_number": 1,
+    "is_appeal_exclusion": true
+  },
+  {
+    "season_id": 23,
+    "track": "premium",
+    "level": 16,
+    "reward_type": 4,
+    "reward_detail_id": 80001,
+    "reward_number": 1,
+    "is_appeal_exclusion": false
+  },
+  {
+    "season_id": 23,
+    "track": "premium",
+    "level": 17,
+    "reward_type": 9,
+    "reward_detail_id": 0,
+    "reward_number": 20,
+    "is_appeal_exclusion": false
+  },
+  {
+    "season_id": 23,
+    "track": "premium",
+    "level": 18,
+    "reward_type": 9,
+    "reward_detail_id": 0,
+    "reward_number": 50,
+    "is_appeal_exclusion": false
+  },
+  {
+    "season_id": 23,
+    "track": "premium",
+    "level": 19,
+    "reward_type": 9,
+    "reward_detail_id": 0,
+    "reward_number": 20,
+    "is_appeal_exclusion": false
+  },
+  {
+    "season_id": 23,
+    "track": "premium",
+    "level": 20,
+    "reward_type": 4,
+    "reward_detail_id": 80001,
+    "reward_number": 1,
+    "is_appeal_exclusion": false
+  },
+  {
+    "season_id": 23,
+    "track": "premium",
+    "level": 21,
+    "reward_type": 9,
+    "reward_detail_id": 0,
+    "reward_number": 20,
+    "is_appeal_exclusion": false
+  },
+  {
+    "season_id": 23,
+    "track": "premium",
+    "level": 22,
+    "reward_type": 9,
+    "reward_detail_id": 0,
+    "reward_number": 50,
+    "is_appeal_exclusion": false
+  },
+  {
+    "season_id": 23,
+    "track": "premium",
+    "level": 23,
+    "reward_type": 9,
+    "reward_detail_id": 0,
+    "reward_number": 20,
+    "is_appeal_exclusion": false
+  },
+  {
+    "season_id": 23,
+    "track": "premium",
+    "level": 24,
+    "reward_type": 4,
+    "reward_detail_id": 80001,
+    "reward_number": 1,
+    "is_appeal_exclusion": false
+  },
+  {
+    "season_id": 23,
+    "track": "premium",
+    "level": 25,
+    "reward_type": 10,
+    "reward_detail_id": 4504,
+    "reward_number": 1,
+    "is_appeal_exclusion": true
+  },
+  {
+    "season_id": 23,
+    "track": "premium",
+    "level": 26,
+    "reward_type": 4,
+    "reward_detail_id": 80001,
+    "reward_number": 1,
+    "is_appeal_exclusion": false
+  },
+  {
+    "season_id": 23,
+    "track": "premium",
+    "level": 27,
+    "reward_type": 9,
+    "reward_detail_id": 0,
+    "reward_number": 20,
+    "is_appeal_exclusion": false
+  },
+  {
+    "season_id": 23,
+    "track": "premium",
+    "level": 28,
+    "reward_type": 9,
+    "reward_detail_id": 0,
+    "reward_number": 50,
+    "is_appeal_exclusion": false
+  },
+  {
+    "season_id": 23,
+    "track": "premium",
+    "level": 29,
+    "reward_type": 9,
+    "reward_detail_id": 0,
+    "reward_number": 20,
+    "is_appeal_exclusion": false
+  },
+  {
+    "season_id": 23,
+    "track": "premium",
+    "level": 30,
+    "reward_type": 4,
+    "reward_detail_id": 80001,
+    "reward_number": 1,
+    "is_appeal_exclusion": false
+  },
+  {
+    "season_id": 23,
+    "track": "premium",
+    "level": 31,
+    "reward_type": 9,
+    "reward_detail_id": 0,
+    "reward_number": 20,
+    "is_appeal_exclusion": false
+  },
+  {
+    "season_id": 23,
+    "track": "premium",
+    "level": 32,
+    "reward_type": 9,
+    "reward_detail_id": 0,
+    "reward_number": 50,
+    "is_appeal_exclusion": false
+  },
+  {
+    "season_id": 23,
+    "track": "premium",
+    "level": 33,
+    "reward_type": 9,
+    "reward_detail_id": 0,
+    "reward_number": 20,
+    "is_appeal_exclusion": false
+  },
+  {
+    "season_id": 23,
+    "track": "premium",
+    "level": 34,
+    "reward_type": 4,
+    "reward_detail_id": 80001,
+    "reward_number": 1,
+    "is_appeal_exclusion": false
+  },
+  {
+    "season_id": 23,
+    "track": "premium",
+    "level": 35,
+    "reward_type": 7,
+    "reward_detail_id": 200000280,
+    "reward_number": 1,
+    "is_appeal_exclusion": false
+  },
+  {
+    "season_id": 23,
+    "track": "premium",
+    "level": 36,
+    "reward_type": 9,
+    "reward_detail_id": 0,
+    "reward_number": 50,
+    "is_appeal_exclusion": false
+  },
+  {
+    "season_id": 23,
+    "track": "premium",
+    "level": 37,
+    "reward_type": 9,
+    "reward_detail_id": 0,
+    "reward_number": 20,
+    "is_appeal_exclusion": false
+  },
+  {
+    "season_id": 23,
+    "track": "premium",
+    "level": 38,
+    "reward_type": 4,
+    "reward_detail_id": 80001,
+    "reward_number": 1,
+    "is_appeal_exclusion": false
+  },
+  {
+    "season_id": 23,
+    "track": "premium",
+    "level": 39,
+    "reward_type": 9,
+    "reward_detail_id": 0,
+    "reward_number": 20,
+    "is_appeal_exclusion": false
+  },
+  {
+    "season_id": 23,
+    "track": "premium",
+    "level": 40,
+    "reward_type": 6,
+    "reward_detail_id": 200000280,
+    "reward_number": 1,
+    "is_appeal_exclusion": false
+  },
+  {
+    "season_id": 23,
+    "track": "premium",
+    "level": 41,
+    "reward_type": 9,
+    "reward_detail_id": 0,
+    "reward_number": 20,
+    "is_appeal_exclusion": false
+  },
+  {
+    "season_id": 23,
+    "track": "premium",
+    "level": 42,
+    "reward_type": 4,
+    "reward_detail_id": 80001,
+    "reward_number": 1,
+    "is_appeal_exclusion": false
+  },
+  {
+    "season_id": 23,
+    "track": "premium",
+    "level": 43,
+    "reward_type": 9,
+    "reward_detail_id": 0,
+    "reward_number": 20,
+    "is_appeal_exclusion": false
+  },
+  {
+    "season_id": 23,
+    "track": "premium",
+    "level": 44,
+    "reward_type": 9,
+    "reward_detail_id": 0,
+    "reward_number": 50,
+    "is_appeal_exclusion": false
+  },
+  {
+    "season_id": 23,
+    "track": "premium",
+    "level": 45,
+    "reward_type": 4,
+    "reward_detail_id": 80001,
+    "reward_number": 1,
+    "is_appeal_exclusion": false
+  },
+  {
+    "season_id": 23,
+    "track": "premium",
+    "level": 46,
+    "reward_type": 9,
+    "reward_detail_id": 0,
+    "reward_number": 20,
+    "is_appeal_exclusion": false
+  },
+  {
+    "season_id": 23,
+    "track": "premium",
+    "level": 47,
+    "reward_type": 4,
+    "reward_detail_id": 80001,
+    "reward_number": 1,
+    "is_appeal_exclusion": false
+  },
+  {
+    "season_id": 23,
+    "track": "premium",
+    "level": 48,
+    "reward_type": 9,
+    "reward_detail_id": 0,
+    "reward_number": 20,
+    "is_appeal_exclusion": false
+  },
+  {
+    "season_id": 23,
+    "track": "premium",
+    "level": 49,
+    "reward_type": 9,
+    "reward_detail_id": 0,
+    "reward_number": 50,
+    "is_appeal_exclusion": false
+  },
+  {
+    "season_id": 23,
+    "track": "premium",
+    "level": 50,
+    "reward_type": 4,
+    "reward_detail_id": 1000,
+    "reward_number": 1,
+    "is_appeal_exclusion": false
+  },
+  {
+    "season_id": 23,
+    "track": "premium",
+    "level": 51,
+    "reward_type": 9,
+    "reward_detail_id": 0,
+    "reward_number": 20,
+    "is_appeal_exclusion": false
+  },
+  {
+    "season_id": 23,
+    "track": "premium",
+    "level": 52,
+    "reward_type": 9,
+    "reward_detail_id": 0,
+    "reward_number": 50,
+    "is_appeal_exclusion": false
+  },
+  {
+    "season_id": 23,
+    "track": "premium",
+    "level": 53,
+    "reward_type": 9,
+    "reward_detail_id": 0,
+    "reward_number": 20,
+    "is_appeal_exclusion": false
+  },
+  {
+    "season_id": 23,
+    "track": "premium",
+    "level": 54,
+    "reward_type": 4,
+    "reward_detail_id": 80001,
+    "reward_number": 1,
+    "is_appeal_exclusion": false
+  },
+  {
+    "season_id": 23,
+    "track": "premium",
+    "level": 55,
+    "reward_type": 9,
+    "reward_detail_id": 0,
+    "reward_number": 20,
+    "is_appeal_exclusion": false
+  },
+  {
+    "season_id": 23,
+    "track": "premium",
+    "level": 56,
+    "reward_type": 9,
+    "reward_detail_id": 0,
+    "reward_number": 50,
+    "is_appeal_exclusion": false
+  },
+  {
+    "season_id": 23,
+    "track": "premium",
+    "level": 57,
+    "reward_type": 9,
+    "reward_detail_id": 0,
+    "reward_number": 20,
+    "is_appeal_exclusion": false
+  },
+  {
+    "season_id": 23,
+    "track": "premium",
+    "level": 58,
+    "reward_type": 4,
+    "reward_detail_id": 80001,
+    "reward_number": 1,
+    "is_appeal_exclusion": false
+  },
+  {
+    "season_id": 23,
+    "track": "premium",
+    "level": 59,
+    "reward_type": 9,
+    "reward_detail_id": 0,
+    "reward_number": 20,
+    "is_appeal_exclusion": false
+  },
+  {
+    "season_id": 23,
+    "track": "premium",
+    "level": 60,
+    "reward_type": 4,
+    "reward_detail_id": 1001,
+    "reward_number": 1,
+    "is_appeal_exclusion": false
+  },
+  {
+    "season_id": 23,
+    "track": "premium",
+    "level": 61,
+    "reward_type": 9,
+    "reward_detail_id": 0,
+    "reward_number": 20,
+    "is_appeal_exclusion": false
+  },
+  {
+    "season_id": 23,
+    "track": "premium",
+    "level": 62,
+    "reward_type": 4,
+    "reward_detail_id": 80001,
+    "reward_number": 1,
+    "is_appeal_exclusion": false
+  },
+  {
+    "season_id": 23,
+    "track": "premium",
+    "level": 63,
+    "reward_type": 9,
+    "reward_detail_id": 0,
+    "reward_number": 20,
+    "is_appeal_exclusion": false
+  },
+  {
+    "season_id": 23,
+    "track": "premium",
+    "level": 64,
+    "reward_type": 9,
+    "reward_detail_id": 0,
+    "reward_number": 50,
+    "is_appeal_exclusion": false
+  },
+  {
+    "season_id": 23,
+    "track": "premium",
+    "level": 65,
+    "reward_type": 9,
+    "reward_detail_id": 0,
+    "reward_number": 20,
+    "is_appeal_exclusion": false
+  },
+  {
+    "season_id": 23,
+    "track": "premium",
+    "level": 66,
+    "reward_type": 4,
+    "reward_detail_id": 80001,
+    "reward_number": 1,
+    "is_appeal_exclusion": false
+  },
+  {
+    "season_id": 23,
+    "track": "premium",
+    "level": 67,
+    "reward_type": 9,
+    "reward_detail_id": 0,
+    "reward_number": 20,
+    "is_appeal_exclusion": false
+  },
+  {
+    "season_id": 23,
+    "track": "premium",
+    "level": 68,
+    "reward_type": 9,
+    "reward_detail_id": 0,
+    "reward_number": 50,
+    "is_appeal_exclusion": false
+  },
+  {
+    "season_id": 23,
+    "track": "premium",
+    "level": 69,
+    "reward_type": 9,
+    "reward_detail_id": 0,
+    "reward_number": 20,
+    "is_appeal_exclusion": false
+  },
+  {
+    "season_id": 23,
+    "track": "premium",
+    "level": 70,
+    "reward_type": 4,
+    "reward_detail_id": 1001,
+    "reward_number": 1,
+    "is_appeal_exclusion": false
+  },
+  {
+    "season_id": 23,
+    "track": "premium",
+    "level": 71,
+    "reward_type": 9,
+    "reward_detail_id": 0,
+    "reward_number": 20,
+    "is_appeal_exclusion": false
+  },
+  {
+    "season_id": 23,
+    "track": "premium",
+    "level": 72,
+    "reward_type": 9,
+    "reward_detail_id": 0,
+    "reward_number": 50,
+    "is_appeal_exclusion": false
+  },
+  {
+    "season_id": 23,
+    "track": "premium",
+    "level": 73,
+    "reward_type": 9,
+    "reward_detail_id": 0,
+    "reward_number": 20,
+    "is_appeal_exclusion": false
+  },
+  {
+    "season_id": 23,
+    "track": "premium",
+    "level": 74,
+    "reward_type": 4,
+    "reward_detail_id": 80001,
+    "reward_number": 1,
+    "is_appeal_exclusion": false
+  },
+  {
+    "season_id": 23,
+    "track": "premium",
+    "level": 75,
+    "reward_type": 4,
+    "reward_detail_id": 1000,
+    "reward_number": 1,
+    "is_appeal_exclusion": false
+  },
+  {
+    "season_id": 23,
+    "track": "premium",
+    "level": 76,
+    "reward_type": 9,
+    "reward_detail_id": 0,
+    "reward_number": 50,
+    "is_appeal_exclusion": false
+  },
+  {
+    "season_id": 23,
+    "track": "premium",
+    "level": 77,
+    "reward_type": 9,
+    "reward_detail_id": 0,
+    "reward_number": 20,
+    "is_appeal_exclusion": false
+  },
+  {
+    "season_id": 23,
+    "track": "premium",
+    "level": 78,
+    "reward_type": 4,
+    "reward_detail_id": 80001,
+    "reward_number": 1,
+    "is_appeal_exclusion": false
+  },
+  {
+    "season_id": 23,
+    "track": "premium",
+    "level": 79,
+    "reward_type": 9,
+    "reward_detail_id": 0,
+    "reward_number": 20,
+    "is_appeal_exclusion": false
+  },
+  {
+    "season_id": 23,
+    "track": "premium",
+    "level": 80,
+    "reward_type": 9,
+    "reward_detail_id": 0,
+    "reward_number": 50,
+    "is_appeal_exclusion": false
+  },
+  {
+    "season_id": 23,
+    "track": "premium",
+    "level": 81,
+    "reward_type": 9,
+    "reward_detail_id": 0,
+    "reward_number": 30,
+    "is_appeal_exclusion": false
+  },
+  {
+    "season_id": 23,
+    "track": "premium",
+    "level": 82,
+    "reward_type": 9,
+    "reward_detail_id": 0,
+    "reward_number": 30,
+    "is_appeal_exclusion": false
+  },
+  {
+    "season_id": 23,
+    "track": "premium",
+    "level": 83,
+    "reward_type": 9,
+    "reward_detail_id": 0,
+    "reward_number": 30,
+    "is_appeal_exclusion": false
+  },
+  {
+    "season_id": 23,
+    "track": "premium",
+    "level": 84,
+    "reward_type": 9,
+    "reward_detail_id": 0,
+    "reward_number": 30,
+    "is_appeal_exclusion": false
+  },
+  {
+    "season_id": 23,
+    "track": "premium",
+    "level": 85,
+    "reward_type": 9,
+    "reward_detail_id": 0,
+    "reward_number": 30,
+    "is_appeal_exclusion": false
+  },
+  {
+    "season_id": 23,
+    "track": "premium",
+    "level": 86,
+    "reward_type": 9,
+    "reward_detail_id": 0,
+    "reward_number": 30,
+    "is_appeal_exclusion": false
+  },
+  {
+    "season_id": 23,
+    "track": "premium",
+    "level": 87,
+    "reward_type": 9,
+    "reward_detail_id": 0,
+    "reward_number": 30,
+    "is_appeal_exclusion": false
+  },
+  {
+    "season_id": 23,
+    "track": "premium",
+    "level": 88,
+    "reward_type": 9,
+    "reward_detail_id": 0,
+    "reward_number": 30,
+    "is_appeal_exclusion": false
+  },
+  {
+    "season_id": 23,
+    "track": "premium",
+    "level": 89,
+    "reward_type": 9,
+    "reward_detail_id": 0,
+    "reward_number": 30,
+    "is_appeal_exclusion": false
+  },
+  {
+    "season_id": 23,
+    "track": "premium",
+    "level": 90,
+    "reward_type": 4,
+    "reward_detail_id": 1001,
+    "reward_number": 1,
+    "is_appeal_exclusion": false
+  },
+  {
+    "season_id": 23,
+    "track": "premium",
+    "level": 91,
+    "reward_type": 9,
+    "reward_detail_id": 0,
+    "reward_number": 30,
+    "is_appeal_exclusion": false
+  },
+  {
+    "season_id": 23,
+    "track": "premium",
+    "level": 92,
+    "reward_type": 9,
+    "reward_detail_id": 0,
+    "reward_number": 30,
+    "is_appeal_exclusion": false
+  },
+  {
+    "season_id": 23,
+    "track": "premium",
+    "level": 93,
+    "reward_type": 9,
+    "reward_detail_id": 0,
+    "reward_number": 30,
+    "is_appeal_exclusion": false
+  },
+  {
+    "season_id": 23,
+    "track": "premium",
+    "level": 94,
+    "reward_type": 9,
+    "reward_detail_id": 0,
+    "reward_number": 30,
+    "is_appeal_exclusion": false
+  },
+  {
+    "season_id": 23,
+    "track": "premium",
+    "level": 95,
+    "reward_type": 9,
+    "reward_detail_id": 0,
+    "reward_number": 30,
+    "is_appeal_exclusion": false
+  },
+  {
+    "season_id": 23,
+    "track": "premium",
+    "level": 96,
+    "reward_type": 9,
+    "reward_detail_id": 0,
+    "reward_number": 30,
+    "is_appeal_exclusion": false
+  },
+  {
+    "season_id": 23,
+    "track": "premium",
+    "level": 97,
+    "reward_type": 9,
+    "reward_detail_id": 0,
+    "reward_number": 30,
+    "is_appeal_exclusion": false
+  },
+  {
+    "season_id": 23,
+    "track": "premium",
+    "level": 98,
+    "reward_type": 9,
+    "reward_detail_id": 0,
+    "reward_number": 30,
+    "is_appeal_exclusion": false
+  },
+  {
+    "season_id": 23,
+    "track": "premium",
+    "level": 99,
+    "reward_type": 9,
+    "reward_detail_id": 0,
+    "reward_number": 30,
+    "is_appeal_exclusion": false
+  },
+  {
+    "season_id": 23,
+    "track": "premium",
+    "level": 100,
+    "reward_type": 4,
+    "reward_detail_id": 1000,
+    "reward_number": 2,
+    "is_appeal_exclusion": false
+  }
+]

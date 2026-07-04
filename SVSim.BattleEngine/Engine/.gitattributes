@@ -1,0 +1,2 @@
+# Verbatim engine copies: never normalize line endings (keeps sha256 manifest valid).
+*.cs -text

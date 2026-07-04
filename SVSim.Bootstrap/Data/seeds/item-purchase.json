@@ -1,0 +1,38 @@
+[
+  {
+    "purchase_id": 1,
+    "require_item_type": 1,
+    "require_item_id": 0,
+    "require_item_num": 5000,
+    "purchase_item_type": 4,
+    "purchase_item_id": 1000,
+    "purchase_item_num": 1,
+    "purchase_name": "[b]One Time Only![/b] Seer's Globe x1",
+    "is_monthly_reset": false,
+    "purchase_limit": 1
+  },
+  {
+    "purchase_id": 100002,
+    "require_item_type": 4,
+    "require_item_id": 1001,
+    "require_item_num": 5,
+    "purchase_item_type": 4,
+    "purchase_item_id": 1000,
+    "purchase_item_num": 1,
+    "purchase_name": "",
+    "is_monthly_reset": true,
+    "purchase_limit": 3
+  },
+  {
+    "purchase_id": 100003,
+    "require_item_type": 1,
+    "require_item_id": 0,
+    "require_item_num": 30000,
+    "purchase_item_type": 4,
+    "purchase_item_id": 1000,
+    "purchase_item_num": 1,
+    "purchase_name": "",
+    "is_monthly_reset": true,
+    "purchase_limit": 10
+  }
+]

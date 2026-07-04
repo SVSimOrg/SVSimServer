@@ -1,0 +1,1955 @@
+[
+  {
+    "pack_id": 10000,
+    "short_code": "Basic",
+    "animation_rate_pct": 8.0,
+    "has_bonus_slot": false,
+    "special_kind": null
+  },
+  {
+    "pack_id": 10001,
+    "short_code": "CLC",
+    "animation_rate_pct": 8.0,
+    "has_bonus_slot": false,
+    "special_kind": null
+  },
+  {
+    "pack_id": 10002,
+    "short_code": "DRK",
+    "animation_rate_pct": 8.0,
+    "has_bonus_slot": false,
+    "special_kind": null
+  },
+  {
+    "pack_id": 10003,
+    "short_code": "ROB",
+    "animation_rate_pct": 8.0,
+    "has_bonus_slot": false,
+    "special_kind": null
+  },
+  {
+    "pack_id": 10004,
+    "short_code": "TOG",
+    "animation_rate_pct": 8.0,
+    "has_bonus_slot": false,
+    "special_kind": null
+  },
+  {
+    "pack_id": 10005,
+    "short_code": "WLD",
+    "animation_rate_pct": 8.0,
+    "has_bonus_slot": false,
+    "special_kind": null
+  },
+  {
+    "pack_id": 10006,
+    "short_code": "SFL",
+    "animation_rate_pct": 8.0,
+    "has_bonus_slot": false,
+    "special_kind": null
+  },
+  {
+    "pack_id": 10007,
+    "short_code": "CGS",
+    "animation_rate_pct": 8.0,
+    "has_bonus_slot": false,
+    "special_kind": null
+  },
+  {
+    "pack_id": 10008,
+    "short_code": "DBN",
+    "animation_rate_pct": 8.0,
+    "has_bonus_slot": false,
+    "special_kind": null
+  },
+  {
+    "pack_id": 10009,
+    "short_code": "BOS",
+    "animation_rate_pct": 8.0,
+    "has_bonus_slot": false,
+    "special_kind": null
+  },
+  {
+    "pack_id": 10010,
+    "short_code": "OOT",
+    "animation_rate_pct": 8.0,
+    "has_bonus_slot": false,
+    "special_kind": null
+  },
+  {
+    "pack_id": 10011,
+    "short_code": "ALT",
+    "animation_rate_pct": 8.0,
+    "has_bonus_slot": false,
+    "special_kind": null
+  },
+  {
+    "pack_id": 10012,
+    "short_code": "STR",
+    "animation_rate_pct": 8.0,
+    "has_bonus_slot": false,
+    "special_kind": null
+  },
+  {
+    "pack_id": 10013,
+    "short_code": "ROG",
+    "animation_rate_pct": 8.0,
+    "has_bonus_slot": false,
+    "special_kind": null
+  },
+  {
+    "pack_id": 10014,
+    "short_code": "VEC",
+    "animation_rate_pct": 8.0,
+    "has_bonus_slot": false,
+    "special_kind": null
+  },
+  {
+    "pack_id": 10015,
+    "short_code": "UCL",
+    "animation_rate_pct": 8.0,
+    "has_bonus_slot": false,
+    "special_kind": null
+  },
+  {
+    "pack_id": 10016,
+    "short_code": "WUP",
+    "animation_rate_pct": 8.0,
+    "has_bonus_slot": false,
+    "special_kind": null
+  },
+  {
+    "pack_id": 10017,
+    "short_code": "FOH",
+    "animation_rate_pct": 8.0,
+    "has_bonus_slot": false,
+    "special_kind": null
+  },
+  {
+    "pack_id": 10018,
+    "short_code": "SOR",
+    "animation_rate_pct": 8.0,
+    "has_bonus_slot": false,
+    "special_kind": null
+  },
+  {
+    "pack_id": 10019,
+    "short_code": "ETA",
+    "animation_rate_pct": 8.0,
+    "has_bonus_slot": false,
+    "special_kind": null
+  },
+  {
+    "pack_id": 10020,
+    "short_code": "DOV",
+    "animation_rate_pct": 8.0,
+    "has_bonus_slot": false,
+    "special_kind": null
+  },
+  {
+    "pack_id": 10021,
+    "short_code": "RSC",
+    "animation_rate_pct": 8.0,
+    "has_bonus_slot": false,
+    "special_kind": null
+  },
+  {
+    "pack_id": 10022,
+    "short_code": "DOC",
+    "animation_rate_pct": 8.0,
+    "has_bonus_slot": false,
+    "special_kind": null
+  },
+  {
+    "pack_id": 10023,
+    "short_code": "OOS",
+    "animation_rate_pct": 8.0,
+    "has_bonus_slot": false,
+    "special_kind": null
+  },
+  {
+    "pack_id": 10024,
+    "short_code": "EOP",
+    "animation_rate_pct": 8.0,
+    "has_bonus_slot": false,
+    "special_kind": null
+  },
+  {
+    "pack_id": 10025,
+    "short_code": "RGW",
+    "animation_rate_pct": 8.0,
+    "has_bonus_slot": false,
+    "special_kind": null
+  },
+  {
+    "pack_id": 10026,
+    "short_code": "CDB",
+    "animation_rate_pct": 8.0,
+    "has_bonus_slot": false,
+    "special_kind": null
+  },
+  {
+    "pack_id": 10027,
+    "short_code": "EAA",
+    "animation_rate_pct": 8.0,
+    "has_bonus_slot": false,
+    "special_kind": null
+  },
+  {
+    "pack_id": 10028,
+    "short_code": "AOA",
+    "animation_rate_pct": 8.0,
+    "has_bonus_slot": false,
+    "special_kind": null
+  },
+  {
+    "pack_id": 10029,
+    "short_code": "HOR",
+    "animation_rate_pct": 8.0,
+    "has_bonus_slot": false,
+    "special_kind": null
+  },
+  {
+    "pack_id": 10030,
+    "short_code": "ORS",
+    "animation_rate_pct": 8.0,
+    "has_bonus_slot": false,
+    "special_kind": null
+  },
+  {
+    "pack_id": 10031,
+    "short_code": "RSL",
+    "animation_rate_pct": 8.0,
+    "has_bonus_slot": false,
+    "special_kind": null
+  },
+  {
+    "pack_id": 10032,
+    "short_code": "HOS",
+    "animation_rate_pct": 8.0,
+    "has_bonus_slot": false,
+    "special_kind": null
+  },
+  {
+    "pack_id": 15016,
+    "short_code": "ADDWUP",
+    "animation_rate_pct": 8.0,
+    "has_bonus_slot": false,
+    "special_kind": null
+  },
+  {
+    "pack_id": 15017,
+    "short_code": "ADDFOH",
+    "animation_rate_pct": 8.0,
+    "has_bonus_slot": false,
+    "special_kind": null
+  },
+  {
+    "pack_id": 15018,
+    "short_code": "ADDSOR",
+    "animation_rate_pct": 8.0,
+    "has_bonus_slot": false,
+    "special_kind": null
+  },
+  {
+    "pack_id": 15019,
+    "short_code": "ADDETA",
+    "animation_rate_pct": 8.0,
+    "has_bonus_slot": false,
+    "special_kind": null
+  },
+  {
+    "pack_id": 15020,
+    "short_code": "ADDDOV",
+    "animation_rate_pct": 8.0,
+    "has_bonus_slot": false,
+    "special_kind": null
+  },
+  {
+    "pack_id": 15021,
+    "short_code": "ADDRSC",
+    "animation_rate_pct": 8.0,
+    "has_bonus_slot": false,
+    "special_kind": null
+  },
+  {
+    "pack_id": 15022,
+    "short_code": "ADDDOC",
+    "animation_rate_pct": 8.0,
+    "has_bonus_slot": false,
+    "special_kind": null
+  },
+  {
+    "pack_id": 15023,
+    "short_code": "ADDOOS",
+    "animation_rate_pct": 8.0,
+    "has_bonus_slot": false,
+    "special_kind": null
+  },
+  {
+    "pack_id": 15024,
+    "short_code": "ADDEOP",
+    "animation_rate_pct": 8.0,
+    "has_bonus_slot": false,
+    "special_kind": null
+  },
+  {
+    "pack_id": 15025,
+    "short_code": "ADDRGW",
+    "animation_rate_pct": 8.0,
+    "has_bonus_slot": false,
+    "special_kind": null
+  },
+  {
+    "pack_id": 15026,
+    "short_code": "ADDCDB",
+    "animation_rate_pct": 8.0,
+    "has_bonus_slot": false,
+    "special_kind": null
+  },
+  {
+    "pack_id": 15027,
+    "short_code": "ADDEAA",
+    "animation_rate_pct": 8.0,
+    "has_bonus_slot": false,
+    "special_kind": null
+  },
+  {
+    "pack_id": 15028,
+    "short_code": "ADDAOA",
+    "animation_rate_pct": 8.0,
+    "has_bonus_slot": false,
+    "special_kind": null
+  },
+  {
+    "pack_id": 15029,
+    "short_code": "ADDHOR",
+    "animation_rate_pct": 8.0,
+    "has_bonus_slot": false,
+    "special_kind": null
+  },
+  {
+    "pack_id": 15030,
+    "short_code": "ADDORS",
+    "animation_rate_pct": 8.0,
+    "has_bonus_slot": false,
+    "special_kind": null
+  },
+  {
+    "pack_id": 15031,
+    "short_code": "ADDRSL",
+    "animation_rate_pct": 8.0,
+    "has_bonus_slot": false,
+    "special_kind": null
+  },
+  {
+    "pack_id": 15032,
+    "short_code": "ADDHOS",
+    "animation_rate_pct": 8.0,
+    "has_bonus_slot": false,
+    "special_kind": null
+  },
+  {
+    "pack_id": 16006,
+    "short_code": "SFL",
+    "animation_rate_pct": 8.0,
+    "has_bonus_slot": false,
+    "special_kind": null
+  },
+  {
+    "pack_id": 16007,
+    "short_code": "CGS",
+    "animation_rate_pct": 8.0,
+    "has_bonus_slot": false,
+    "special_kind": null
+  },
+  {
+    "pack_id": 16008,
+    "short_code": "DBN",
+    "animation_rate_pct": 8.0,
+    "has_bonus_slot": false,
+    "special_kind": null
+  },
+  {
+    "pack_id": 16009,
+    "short_code": "BOS",
+    "animation_rate_pct": 8.0,
+    "has_bonus_slot": false,
+    "special_kind": null
+  },
+  {
+    "pack_id": 16010,
+    "short_code": "OOT",
+    "animation_rate_pct": 8.0,
+    "has_bonus_slot": false,
+    "special_kind": null
+  },
+  {
+    "pack_id": 16011,
+    "short_code": "ALT",
+    "animation_rate_pct": 8.0,
+    "has_bonus_slot": false,
+    "special_kind": null
+  },
+  {
+    "pack_id": 16012,
+    "short_code": "STR",
+    "animation_rate_pct": 8.0,
+    "has_bonus_slot": false,
+    "special_kind": null
+  },
+  {
+    "pack_id": 16013,
+    "short_code": "ROG",
+    "animation_rate_pct": 8.0,
+    "has_bonus_slot": false,
+    "special_kind": null
+  },
+  {
+    "pack_id": 16014,
+    "short_code": "VEC",
+    "animation_rate_pct": 8.0,
+    "has_bonus_slot": false,
+    "special_kind": null
+  },
+  {
+    "pack_id": 16015,
+    "short_code": "UCL",
+    "animation_rate_pct": 8.0,
+    "has_bonus_slot": false,
+    "special_kind": null
+  },
+  {
+    "pack_id": 16016,
+    "short_code": "WUP",
+    "animation_rate_pct": 8.0,
+    "has_bonus_slot": false,
+    "special_kind": null
+  },
+  {
+    "pack_id": 16017,
+    "short_code": "FOH",
+    "animation_rate_pct": 8.0,
+    "has_bonus_slot": false,
+    "special_kind": null
+  },
+  {
+    "pack_id": 16018,
+    "short_code": "SOR",
+    "animation_rate_pct": 8.0,
+    "has_bonus_slot": false,
+    "special_kind": null
+  },
+  {
+    "pack_id": 16019,
+    "short_code": "ETA",
+    "animation_rate_pct": 8.0,
+    "has_bonus_slot": false,
+    "special_kind": null
+  },
+  {
+    "pack_id": 16020,
+    "short_code": "DOV",
+    "animation_rate_pct": 8.0,
+    "has_bonus_slot": false,
+    "special_kind": null
+  },
+  {
+    "pack_id": 16021,
+    "short_code": "RSC",
+    "animation_rate_pct": 8.0,
+    "has_bonus_slot": false,
+    "special_kind": null
+  },
+  {
+    "pack_id": 16022,
+    "short_code": "DOC",
+    "animation_rate_pct": 8.0,
+    "has_bonus_slot": false,
+    "special_kind": null
+  },
+  {
+    "pack_id": 16023,
+    "short_code": "OOS",
+    "animation_rate_pct": 8.0,
+    "has_bonus_slot": false,
+    "special_kind": null
+  },
+  {
+    "pack_id": 16024,
+    "short_code": "EOP",
+    "animation_rate_pct": 8.0,
+    "has_bonus_slot": false,
+    "special_kind": null
+  },
+  {
+    "pack_id": 16025,
+    "short_code": "RGW",
+    "animation_rate_pct": 8.0,
+    "has_bonus_slot": false,
+    "special_kind": null
+  },
+  {
+    "pack_id": 16026,
+    "short_code": "CDB",
+    "animation_rate_pct": 8.0,
+    "has_bonus_slot": false,
+    "special_kind": null
+  },
+  {
+    "pack_id": 16027,
+    "short_code": "EAA",
+    "animation_rate_pct": 8.0,
+    "has_bonus_slot": false,
+    "special_kind": null
+  },
+  {
+    "pack_id": 16028,
+    "short_code": "AOA",
+    "animation_rate_pct": 8.0,
+    "has_bonus_slot": false,
+    "special_kind": null
+  },
+  {
+    "pack_id": 16029,
+    "short_code": "HOR",
+    "animation_rate_pct": 8.0,
+    "has_bonus_slot": false,
+    "special_kind": null
+  },
+  {
+    "pack_id": 16030,
+    "short_code": "ORS",
+    "animation_rate_pct": 8.0,
+    "has_bonus_slot": false,
+    "special_kind": null
+  },
+  {
+    "pack_id": 16031,
+    "short_code": "RSL",
+    "animation_rate_pct": 8.0,
+    "has_bonus_slot": false,
+    "special_kind": null
+  },
+  {
+    "pack_id": 16032,
+    "short_code": "HOS",
+    "animation_rate_pct": 8.0,
+    "has_bonus_slot": false,
+    "special_kind": null
+  },
+  {
+    "pack_id": 20001,
+    "short_code": "EAA",
+    "animation_rate_pct": 8.0,
+    "has_bonus_slot": false,
+    "special_kind": null
+  },
+  {
+    "pack_id": 20002,
+    "short_code": "ORS",
+    "animation_rate_pct": 8.0,
+    "has_bonus_slot": false,
+    "special_kind": null
+  },
+  {
+    "pack_id": 30019,
+    "short_code": "ETASET",
+    "animation_rate_pct": 8.0,
+    "has_bonus_slot": false,
+    "special_kind": null
+  },
+  {
+    "pack_id": 30020,
+    "short_code": "DOVSET",
+    "animation_rate_pct": 8.0,
+    "has_bonus_slot": false,
+    "special_kind": null
+  },
+  {
+    "pack_id": 30021,
+    "short_code": "RSCSET",
+    "animation_rate_pct": 8.0,
+    "has_bonus_slot": false,
+    "special_kind": null
+  },
+  {
+    "pack_id": 30022,
+    "short_code": "DOCSET",
+    "animation_rate_pct": 8.0,
+    "has_bonus_slot": false,
+    "special_kind": null
+  },
+  {
+    "pack_id": 30023,
+    "short_code": "OOSSET",
+    "animation_rate_pct": 8.0,
+    "has_bonus_slot": false,
+    "special_kind": null
+  },
+  {
+    "pack_id": 30024,
+    "short_code": "EOPSET",
+    "animation_rate_pct": 8.0,
+    "has_bonus_slot": false,
+    "special_kind": null
+  },
+  {
+    "pack_id": 30025,
+    "short_code": "RGWSET",
+    "animation_rate_pct": 8.0,
+    "has_bonus_slot": false,
+    "special_kind": null
+  },
+  {
+    "pack_id": 30026,
+    "short_code": "CDBSET",
+    "animation_rate_pct": 8.0,
+    "has_bonus_slot": false,
+    "special_kind": null
+  },
+  {
+    "pack_id": 30027,
+    "short_code": "EAASET",
+    "animation_rate_pct": 8.0,
+    "has_bonus_slot": false,
+    "special_kind": null
+  },
+  {
+    "pack_id": 30028,
+    "short_code": "AOASET",
+    "animation_rate_pct": 8.0,
+    "has_bonus_slot": false,
+    "special_kind": null
+  },
+  {
+    "pack_id": 30029,
+    "short_code": "HORSET",
+    "animation_rate_pct": 8.0,
+    "has_bonus_slot": false,
+    "special_kind": null
+  },
+  {
+    "pack_id": 30030,
+    "short_code": "ORSSET",
+    "animation_rate_pct": 8.0,
+    "has_bonus_slot": false,
+    "special_kind": null
+  },
+  {
+    "pack_id": 30031,
+    "short_code": "RSLSET",
+    "animation_rate_pct": 8.0,
+    "has_bonus_slot": false,
+    "special_kind": null
+  },
+  {
+    "pack_id": 30032,
+    "short_code": "HOSSET",
+    "animation_rate_pct": 8.0,
+    "has_bonus_slot": false,
+    "special_kind": null
+  },
+  {
+    "pack_id": 70001,
+    "short_code": "Promo",
+    "animation_rate_pct": 8.0,
+    "has_bonus_slot": false,
+    "special_kind": null
+  },
+  {
+    "pack_id": 70002,
+    "short_code": "Promo",
+    "animation_rate_pct": 8.0,
+    "has_bonus_slot": false,
+    "special_kind": null
+  },
+  {
+    "pack_id": 70003,
+    "short_code": "Promo",
+    "animation_rate_pct": 8.0,
+    "has_bonus_slot": false,
+    "special_kind": null
+  },
+  {
+    "pack_id": 70004,
+    "short_code": "Promo",
+    "animation_rate_pct": 8.0,
+    "has_bonus_slot": false,
+    "special_kind": null
+  },
+  {
+    "pack_id": 70005,
+    "short_code": "Promo",
+    "animation_rate_pct": 8.0,
+    "has_bonus_slot": false,
+    "special_kind": null
+  },
+  {
+    "pack_id": 70006,
+    "short_code": "Promo",
+    "animation_rate_pct": 8.0,
+    "has_bonus_slot": false,
+    "special_kind": null
+  },
+  {
+    "pack_id": 70007,
+    "short_code": "Promo",
+    "animation_rate_pct": 8.0,
+    "has_bonus_slot": false,
+    "special_kind": null
+  },
+  {
+    "pack_id": 70008,
+    "short_code": "Promo",
+    "animation_rate_pct": 8.0,
+    "has_bonus_slot": false,
+    "special_kind": null
+  },
+  {
+    "pack_id": 70009,
+    "short_code": "Promo",
+    "animation_rate_pct": 8.0,
+    "has_bonus_slot": false,
+    "special_kind": null
+  },
+  {
+    "pack_id": 70010,
+    "short_code": "Promo",
+    "animation_rate_pct": 8.0,
+    "has_bonus_slot": false,
+    "special_kind": null
+  },
+  {
+    "pack_id": 70011,
+    "short_code": "Promo",
+    "animation_rate_pct": 8.0,
+    "has_bonus_slot": false,
+    "special_kind": null
+  },
+  {
+    "pack_id": 70012,
+    "short_code": "Promo",
+    "animation_rate_pct": 8.0,
+    "has_bonus_slot": false,
+    "special_kind": null
+  },
+  {
+    "pack_id": 70013,
+    "short_code": "Promo",
+    "animation_rate_pct": 8.0,
+    "has_bonus_slot": false,
+    "special_kind": null
+  },
+  {
+    "pack_id": 70014,
+    "short_code": "Promo",
+    "animation_rate_pct": 8.0,
+    "has_bonus_slot": false,
+    "special_kind": null
+  },
+  {
+    "pack_id": 70015,
+    "short_code": "Promo",
+    "animation_rate_pct": 8.0,
+    "has_bonus_slot": false,
+    "special_kind": null
+  },
+  {
+    "pack_id": 70016,
+    "short_code": "Promo",
+    "animation_rate_pct": 8.0,
+    "has_bonus_slot": false,
+    "special_kind": null
+  },
+  {
+    "pack_id": 70017,
+    "short_code": "Promo",
+    "animation_rate_pct": 8.0,
+    "has_bonus_slot": false,
+    "special_kind": null
+  },
+  {
+    "pack_id": 70018,
+    "short_code": "Promo",
+    "animation_rate_pct": 8.0,
+    "has_bonus_slot": false,
+    "special_kind": null
+  },
+  {
+    "pack_id": 70019,
+    "short_code": "Promo",
+    "animation_rate_pct": 8.0,
+    "has_bonus_slot": false,
+    "special_kind": null
+  },
+  {
+    "pack_id": 70020,
+    "short_code": "Promo",
+    "animation_rate_pct": 8.0,
+    "has_bonus_slot": false,
+    "special_kind": null
+  },
+  {
+    "pack_id": 70021,
+    "short_code": "Promo",
+    "animation_rate_pct": 8.0,
+    "has_bonus_slot": false,
+    "special_kind": null
+  },
+  {
+    "pack_id": 70022,
+    "short_code": "Promo",
+    "animation_rate_pct": 8.0,
+    "has_bonus_slot": false,
+    "special_kind": null
+  },
+  {
+    "pack_id": 70023,
+    "short_code": "Promo",
+    "animation_rate_pct": 8.0,
+    "has_bonus_slot": false,
+    "special_kind": null
+  },
+  {
+    "pack_id": 70024,
+    "short_code": "Promo",
+    "animation_rate_pct": 8.0,
+    "has_bonus_slot": false,
+    "special_kind": null
+  },
+  {
+    "pack_id": 70025,
+    "short_code": "Promo",
+    "animation_rate_pct": 8.0,
+    "has_bonus_slot": false,
+    "special_kind": null
+  },
+  {
+    "pack_id": 70026,
+    "short_code": "Promo",
+    "animation_rate_pct": 8.0,
+    "has_bonus_slot": false,
+    "special_kind": null
+  },
+  {
+    "pack_id": 70027,
+    "short_code": "Promo",
+    "animation_rate_pct": 8.0,
+    "has_bonus_slot": false,
+    "special_kind": null
+  },
+  {
+    "pack_id": 70028,
+    "short_code": "Promo",
+    "animation_rate_pct": 8.0,
+    "has_bonus_slot": false,
+    "special_kind": null
+  },
+  {
+    "pack_id": 70029,
+    "short_code": "Promo",
+    "animation_rate_pct": 8.0,
+    "has_bonus_slot": false,
+    "special_kind": null
+  },
+  {
+    "pack_id": 70030,
+    "short_code": "Promo",
+    "animation_rate_pct": 8.0,
+    "has_bonus_slot": false,
+    "special_kind": null
+  },
+  {
+    "pack_id": 80007,
+    "short_code": "TRC",
+    "animation_rate_pct": 8.0,
+    "has_bonus_slot": false,
+    "special_kind": null
+  },
+  {
+    "pack_id": 80008,
+    "short_code": "TRC",
+    "animation_rate_pct": 8.0,
+    "has_bonus_slot": false,
+    "special_kind": null
+  },
+  {
+    "pack_id": 80009,
+    "short_code": "TRC",
+    "animation_rate_pct": 8.0,
+    "has_bonus_slot": false,
+    "special_kind": null
+  },
+  {
+    "pack_id": 80010,
+    "short_code": "TRC",
+    "animation_rate_pct": 8.0,
+    "has_bonus_slot": false,
+    "special_kind": null
+  },
+  {
+    "pack_id": 80011,
+    "short_code": "TRC",
+    "animation_rate_pct": 8.0,
+    "has_bonus_slot": false,
+    "special_kind": null
+  },
+  {
+    "pack_id": 80012,
+    "short_code": "TRC",
+    "animation_rate_pct": 8.0,
+    "has_bonus_slot": false,
+    "special_kind": null
+  },
+  {
+    "pack_id": 80013,
+    "short_code": "TRC",
+    "animation_rate_pct": 8.0,
+    "has_bonus_slot": false,
+    "special_kind": null
+  },
+  {
+    "pack_id": 80014,
+    "short_code": "TRC",
+    "animation_rate_pct": 8.0,
+    "has_bonus_slot": false,
+    "special_kind": null
+  },
+  {
+    "pack_id": 80015,
+    "short_code": "TRC",
+    "animation_rate_pct": 8.0,
+    "has_bonus_slot": false,
+    "special_kind": null
+  },
+  {
+    "pack_id": 80016,
+    "short_code": "TRC",
+    "animation_rate_pct": 8.0,
+    "has_bonus_slot": false,
+    "special_kind": null
+  },
+  {
+    "pack_id": 80017,
+    "short_code": "TRC",
+    "animation_rate_pct": 8.0,
+    "has_bonus_slot": false,
+    "special_kind": null
+  },
+  {
+    "pack_id": 80018,
+    "short_code": "TRC",
+    "animation_rate_pct": 8.0,
+    "has_bonus_slot": false,
+    "special_kind": null
+  },
+  {
+    "pack_id": 80019,
+    "short_code": "TRC",
+    "animation_rate_pct": 8.0,
+    "has_bonus_slot": false,
+    "special_kind": null
+  },
+  {
+    "pack_id": 80020,
+    "short_code": "TRC",
+    "animation_rate_pct": 8.0,
+    "has_bonus_slot": false,
+    "special_kind": null
+  },
+  {
+    "pack_id": 80021,
+    "short_code": "TRC",
+    "animation_rate_pct": 8.0,
+    "has_bonus_slot": false,
+    "special_kind": null
+  },
+  {
+    "pack_id": 80022,
+    "short_code": "TRC",
+    "animation_rate_pct": 8.0,
+    "has_bonus_slot": false,
+    "special_kind": null
+  },
+  {
+    "pack_id": 80023,
+    "short_code": "TRC",
+    "animation_rate_pct": 8.0,
+    "has_bonus_slot": false,
+    "special_kind": null
+  },
+  {
+    "pack_id": 80024,
+    "short_code": "TRC",
+    "animation_rate_pct": 8.0,
+    "has_bonus_slot": false,
+    "special_kind": null
+  },
+  {
+    "pack_id": 80025,
+    "short_code": "TRC",
+    "animation_rate_pct": 8.0,
+    "has_bonus_slot": false,
+    "special_kind": null
+  },
+  {
+    "pack_id": 80026,
+    "short_code": "TRC",
+    "animation_rate_pct": 8.0,
+    "has_bonus_slot": false,
+    "special_kind": null
+  },
+  {
+    "pack_id": 80027,
+    "short_code": "TRC",
+    "animation_rate_pct": 8.0,
+    "has_bonus_slot": false,
+    "special_kind": null
+  },
+  {
+    "pack_id": 80028,
+    "short_code": "TRC",
+    "animation_rate_pct": 8.0,
+    "has_bonus_slot": false,
+    "special_kind": null
+  },
+  {
+    "pack_id": 80029,
+    "short_code": "TRC",
+    "animation_rate_pct": 8.0,
+    "has_bonus_slot": false,
+    "special_kind": null
+  },
+  {
+    "pack_id": 80030,
+    "short_code": "TRC",
+    "animation_rate_pct": 8.0,
+    "has_bonus_slot": false,
+    "special_kind": null
+  },
+  {
+    "pack_id": 80031,
+    "short_code": "TRC",
+    "animation_rate_pct": 8.0,
+    "has_bonus_slot": false,
+    "special_kind": null
+  },
+  {
+    "pack_id": 80032,
+    "short_code": "TRC",
+    "animation_rate_pct": 8.0,
+    "has_bonus_slot": false,
+    "special_kind": null
+  },
+  {
+    "pack_id": 80047,
+    "short_code": "TRC",
+    "animation_rate_pct": 8.0,
+    "has_bonus_slot": false,
+    "special_kind": null
+  },
+  {
+    "pack_id": 80050,
+    "short_code": "TRC",
+    "animation_rate_pct": 8.0,
+    "has_bonus_slot": false,
+    "special_kind": null
+  },
+  {
+    "pack_id": 80056,
+    "short_code": "TRC",
+    "animation_rate_pct": 8.0,
+    "has_bonus_slot": false,
+    "special_kind": null
+  },
+  {
+    "pack_id": 90000,
+    "short_code": "Token",
+    "animation_rate_pct": 8.0,
+    "has_bonus_slot": false,
+    "special_kind": null
+  },
+  {
+    "pack_id": 90001,
+    "short_code": "LCP",
+    "animation_rate_pct": 8.0,
+    "has_bonus_slot": false,
+    "special_kind": null
+  },
+  {
+    "pack_id": 90002,
+    "short_code": "8th",
+    "animation_rate_pct": 8.0,
+    "has_bonus_slot": false,
+    "special_kind": null
+  },
+  {
+    "pack_id": 91003,
+    "short_code": "SKIN",
+    "animation_rate_pct": 8.0,
+    "has_bonus_slot": true,
+    "special_kind": "leader_card"
+  },
+  {
+    "pack_id": 91008,
+    "short_code": "6th",
+    "animation_rate_pct": 8.0,
+    "has_bonus_slot": true,
+    "special_kind": "leader_card"
+  },
+  {
+    "pack_id": 92001,
+    "short_code": "4th",
+    "animation_rate_pct": 8.0,
+    "has_bonus_slot": false,
+    "special_kind": "leader_card"
+  },
+  {
+    "pack_id": 93025,
+    "short_code": "RSP",
+    "animation_rate_pct": 8.0,
+    "has_bonus_slot": false,
+    "special_kind": null
+  },
+  {
+    "pack_id": 93026,
+    "short_code": "RSP",
+    "animation_rate_pct": 8.0,
+    "has_bonus_slot": false,
+    "special_kind": null
+  },
+  {
+    "pack_id": 93027,
+    "short_code": "RSP",
+    "animation_rate_pct": 8.0,
+    "has_bonus_slot": false,
+    "special_kind": null
+  },
+  {
+    "pack_id": 93028,
+    "short_code": "RSP",
+    "animation_rate_pct": 8.0,
+    "has_bonus_slot": false,
+    "special_kind": null
+  },
+  {
+    "pack_id": 93029,
+    "short_code": "RSP",
+    "animation_rate_pct": 8.0,
+    "has_bonus_slot": false,
+    "special_kind": null
+  },
+  {
+    "pack_id": 93030,
+    "short_code": "RSP",
+    "animation_rate_pct": 8.0,
+    "has_bonus_slot": false,
+    "special_kind": null
+  },
+  {
+    "pack_id": 93031,
+    "short_code": "RSP",
+    "animation_rate_pct": 8.0,
+    "has_bonus_slot": false,
+    "special_kind": null
+  },
+  {
+    "pack_id": 93032,
+    "short_code": "RSP",
+    "animation_rate_pct": 8.0,
+    "has_bonus_slot": false,
+    "special_kind": null
+  },
+  {
+    "pack_id": 93034,
+    "short_code": "TRSP",
+    "animation_rate_pct": 8.0,
+    "has_bonus_slot": false,
+    "special_kind": null
+  },
+  {
+    "pack_id": 93035,
+    "short_code": "TRSP",
+    "animation_rate_pct": 8.0,
+    "has_bonus_slot": false,
+    "special_kind": null
+  },
+  {
+    "pack_id": 93036,
+    "short_code": "TRSP",
+    "animation_rate_pct": 8.0,
+    "has_bonus_slot": false,
+    "special_kind": null
+  },
+  {
+    "pack_id": 93037,
+    "short_code": "TRSP",
+    "animation_rate_pct": 8.0,
+    "has_bonus_slot": false,
+    "special_kind": null
+  },
+  {
+    "pack_id": 93038,
+    "short_code": "TRSP",
+    "animation_rate_pct": 8.0,
+    "has_bonus_slot": false,
+    "special_kind": null
+  },
+  {
+    "pack_id": 93039,
+    "short_code": "TRSP",
+    "animation_rate_pct": 8.0,
+    "has_bonus_slot": false,
+    "special_kind": null
+  },
+  {
+    "pack_id": 93040,
+    "short_code": "TRSP",
+    "animation_rate_pct": 8.0,
+    "has_bonus_slot": false,
+    "special_kind": null
+  },
+  {
+    "pack_id": 93041,
+    "short_code": "TRSP",
+    "animation_rate_pct": 8.0,
+    "has_bonus_slot": false,
+    "special_kind": null
+  },
+  {
+    "pack_id": 93042,
+    "short_code": "TRSP",
+    "animation_rate_pct": 8.0,
+    "has_bonus_slot": false,
+    "special_kind": null
+  },
+  {
+    "pack_id": 93043,
+    "short_code": "TRSP",
+    "animation_rate_pct": 8.0,
+    "has_bonus_slot": false,
+    "special_kind": null
+  },
+  {
+    "pack_id": 93044,
+    "short_code": "TRSP",
+    "animation_rate_pct": 8.0,
+    "has_bonus_slot": false,
+    "special_kind": null
+  },
+  {
+    "pack_id": 93045,
+    "short_code": "TRSP",
+    "animation_rate_pct": 8.0,
+    "has_bonus_slot": false,
+    "special_kind": null
+  },
+  {
+    "pack_id": 93046,
+    "short_code": "TRSP",
+    "animation_rate_pct": 8.0,
+    "has_bonus_slot": false,
+    "special_kind": null
+  },
+  {
+    "pack_id": 93047,
+    "short_code": "TRSP",
+    "animation_rate_pct": 8.0,
+    "has_bonus_slot": false,
+    "special_kind": null
+  },
+  {
+    "pack_id": 93048,
+    "short_code": "TRSP",
+    "animation_rate_pct": 8.0,
+    "has_bonus_slot": false,
+    "special_kind": null
+  },
+  {
+    "pack_id": 93049,
+    "short_code": "TRSP",
+    "animation_rate_pct": 8.0,
+    "has_bonus_slot": false,
+    "special_kind": null
+  },
+  {
+    "pack_id": 93050,
+    "short_code": "TRSP",
+    "animation_rate_pct": 8.0,
+    "has_bonus_slot": false,
+    "special_kind": null
+  },
+  {
+    "pack_id": 93051,
+    "short_code": "TRSP",
+    "animation_rate_pct": 8.0,
+    "has_bonus_slot": false,
+    "special_kind": null
+  },
+  {
+    "pack_id": 93052,
+    "short_code": "TRSP",
+    "animation_rate_pct": 8.0,
+    "has_bonus_slot": false,
+    "special_kind": null
+  },
+  {
+    "pack_id": 93053,
+    "short_code": "TRSP",
+    "animation_rate_pct": 8.0,
+    "has_bonus_slot": false,
+    "special_kind": null
+  },
+  {
+    "pack_id": 93054,
+    "short_code": "TRSP",
+    "animation_rate_pct": 8.0,
+    "has_bonus_slot": false,
+    "special_kind": null
+  },
+  {
+    "pack_id": 93055,
+    "short_code": "TRSP",
+    "animation_rate_pct": 8.0,
+    "has_bonus_slot": false,
+    "special_kind": null
+  },
+  {
+    "pack_id": 93056,
+    "short_code": "TRSP",
+    "animation_rate_pct": 8.0,
+    "has_bonus_slot": false,
+    "special_kind": null
+  },
+  {
+    "pack_id": 93057,
+    "short_code": "TRSP",
+    "animation_rate_pct": 8.0,
+    "has_bonus_slot": false,
+    "special_kind": null
+  },
+  {
+    "pack_id": 93058,
+    "short_code": "TRSP",
+    "animation_rate_pct": 8.0,
+    "has_bonus_slot": false,
+    "special_kind": null
+  },
+  {
+    "pack_id": 93059,
+    "short_code": "TRSP",
+    "animation_rate_pct": 8.0,
+    "has_bonus_slot": false,
+    "special_kind": null
+  },
+  {
+    "pack_id": 93074,
+    "short_code": "TRSP",
+    "animation_rate_pct": 8.0,
+    "has_bonus_slot": false,
+    "special_kind": null
+  },
+  {
+    "pack_id": 93077,
+    "short_code": "TRSP",
+    "animation_rate_pct": 8.0,
+    "has_bonus_slot": false,
+    "special_kind": null
+  },
+  {
+    "pack_id": 93083,
+    "short_code": "TRSP",
+    "animation_rate_pct": 8.0,
+    "has_bonus_slot": false,
+    "special_kind": null
+  },
+  {
+    "pack_id": 94001,
+    "short_code": "LTOEAA",
+    "animation_rate_pct": 8.0,
+    "has_bonus_slot": false,
+    "special_kind": "limited_time_leader"
+  },
+  {
+    "pack_id": 94002,
+    "short_code": "LTOAOA",
+    "animation_rate_pct": 8.0,
+    "has_bonus_slot": false,
+    "special_kind": "limited_time_leader"
+  },
+  {
+    "pack_id": 94003,
+    "short_code": "LTOORS",
+    "animation_rate_pct": 8.0,
+    "has_bonus_slot": false,
+    "special_kind": "limited_time_leader"
+  },
+  {
+    "pack_id": 94004,
+    "short_code": "LTORSL",
+    "animation_rate_pct": 8.0,
+    "has_bonus_slot": false,
+    "special_kind": "limited_time_leader"
+  },
+  {
+    "pack_id": 95001,
+    "short_code": "7th",
+    "animation_rate_pct": 8.0,
+    "has_bonus_slot": false,
+    "special_kind": "leader_card"
+  },
+  {
+    "pack_id": 95002,
+    "short_code": "8th",
+    "animation_rate_pct": 8.0,
+    "has_bonus_slot": false,
+    "special_kind": "leader_card"
+  },
+  {
+    "pack_id": 96001,
+    "short_code": "8th",
+    "animation_rate_pct": 8.0,
+    "has_bonus_slot": true,
+    "special_kind": "leader_card"
+  },
+  {
+    "pack_id": 97001,
+    "short_code": "SET",
+    "animation_rate_pct": 8.0,
+    "has_bonus_slot": true,
+    "special_kind": "leader_card"
+  },
+  {
+    "pack_id": 97002,
+    "short_code": "SET",
+    "animation_rate_pct": 8.0,
+    "has_bonus_slot": true,
+    "special_kind": "leader_card"
+  },
+  {
+    "pack_id": 97003,
+    "short_code": "SET",
+    "animation_rate_pct": 8.0,
+    "has_bonus_slot": true,
+    "special_kind": "leader_card"
+  },
+  {
+    "pack_id": 97004,
+    "short_code": "SET",
+    "animation_rate_pct": 8.0,
+    "has_bonus_slot": true,
+    "special_kind": "leader_card"
+  },
+  {
+    "pack_id": 97005,
+    "short_code": "SET",
+    "animation_rate_pct": 8.0,
+    "has_bonus_slot": true,
+    "special_kind": "leader_card"
+  },
+  {
+    "pack_id": 97006,
+    "short_code": "SET",
+    "animation_rate_pct": 8.0,
+    "has_bonus_slot": true,
+    "special_kind": "leader_card"
+  },
+  {
+    "pack_id": 97007,
+    "short_code": "SET",
+    "animation_rate_pct": 8.0,
+    "has_bonus_slot": true,
+    "special_kind": "leader_card"
+  },
+  {
+    "pack_id": 97008,
+    "short_code": "SET",
+    "animation_rate_pct": 8.0,
+    "has_bonus_slot": true,
+    "special_kind": "leader_card"
+  },
+  {
+    "pack_id": 97009,
+    "short_code": "SET",
+    "animation_rate_pct": 8.0,
+    "has_bonus_slot": true,
+    "special_kind": "leader_card"
+  },
+  {
+    "pack_id": 97010,
+    "short_code": "SET",
+    "animation_rate_pct": 8.0,
+    "has_bonus_slot": true,
+    "special_kind": "leader_card"
+  },
+  {
+    "pack_id": 97011,
+    "short_code": "SET",
+    "animation_rate_pct": 8.0,
+    "has_bonus_slot": true,
+    "special_kind": "leader_card"
+  },
+  {
+    "pack_id": 97012,
+    "short_code": "SET",
+    "animation_rate_pct": 8.0,
+    "has_bonus_slot": true,
+    "special_kind": "leader_card"
+  },
+  {
+    "pack_id": 97013,
+    "short_code": "SET",
+    "animation_rate_pct": 8.0,
+    "has_bonus_slot": true,
+    "special_kind": "leader_card"
+  },
+  {
+    "pack_id": 97014,
+    "short_code": "SET",
+    "animation_rate_pct": 8.0,
+    "has_bonus_slot": true,
+    "special_kind": "leader_card"
+  },
+  {
+    "pack_id": 97015,
+    "short_code": "SET",
+    "animation_rate_pct": 8.0,
+    "has_bonus_slot": true,
+    "special_kind": "leader_card"
+  },
+  {
+    "pack_id": 97016,
+    "short_code": "SET",
+    "animation_rate_pct": 8.0,
+    "has_bonus_slot": true,
+    "special_kind": "leader_card"
+  },
+  {
+    "pack_id": 97017,
+    "short_code": "SET",
+    "animation_rate_pct": 8.0,
+    "has_bonus_slot": true,
+    "special_kind": "leader_card"
+  },
+  {
+    "pack_id": 97018,
+    "short_code": "SET",
+    "animation_rate_pct": 8.0,
+    "has_bonus_slot": true,
+    "special_kind": "leader_card"
+  },
+  {
+    "pack_id": 97019,
+    "short_code": "SET",
+    "animation_rate_pct": 8.0,
+    "has_bonus_slot": true,
+    "special_kind": "leader_card"
+  },
+  {
+    "pack_id": 97020,
+    "short_code": "SET",
+    "animation_rate_pct": 8.0,
+    "has_bonus_slot": true,
+    "special_kind": "leader_card"
+  },
+  {
+    "pack_id": 97021,
+    "short_code": "SET",
+    "animation_rate_pct": 8.0,
+    "has_bonus_slot": true,
+    "special_kind": "leader_card"
+  },
+  {
+    "pack_id": 97022,
+    "short_code": "SET",
+    "animation_rate_pct": 8.0,
+    "has_bonus_slot": true,
+    "special_kind": "leader_card"
+  },
+  {
+    "pack_id": 97023,
+    "short_code": "SET",
+    "animation_rate_pct": 8.0,
+    "has_bonus_slot": true,
+    "special_kind": "leader_card"
+  },
+  {
+    "pack_id": 97024,
+    "short_code": "SET",
+    "animation_rate_pct": 8.0,
+    "has_bonus_slot": true,
+    "special_kind": "leader_card"
+  },
+  {
+    "pack_id": 98001,
+    "short_code": "SET",
+    "animation_rate_pct": 8.0,
+    "has_bonus_slot": true,
+    "special_kind": "leader_card"
+  },
+  {
+    "pack_id": 98002,
+    "short_code": "SET",
+    "animation_rate_pct": 8.0,
+    "has_bonus_slot": true,
+    "special_kind": "leader_card"
+  },
+  {
+    "pack_id": 98003,
+    "short_code": "SET",
+    "animation_rate_pct": 8.0,
+    "has_bonus_slot": true,
+    "special_kind": "leader_card"
+  },
+  {
+    "pack_id": 98004,
+    "short_code": "SET",
+    "animation_rate_pct": 8.0,
+    "has_bonus_slot": true,
+    "special_kind": "leader_card"
+  },
+  {
+    "pack_id": 98005,
+    "short_code": "SET",
+    "animation_rate_pct": 8.0,
+    "has_bonus_slot": true,
+    "special_kind": "leader_card"
+  },
+  {
+    "pack_id": 98006,
+    "short_code": "SET",
+    "animation_rate_pct": 8.0,
+    "has_bonus_slot": true,
+    "special_kind": "leader_card"
+  },
+  {
+    "pack_id": 98007,
+    "short_code": "SET",
+    "animation_rate_pct": 8.0,
+    "has_bonus_slot": true,
+    "special_kind": "leader_card"
+  },
+  {
+    "pack_id": 98008,
+    "short_code": "SET",
+    "animation_rate_pct": 8.0,
+    "has_bonus_slot": true,
+    "special_kind": "leader_card"
+  },
+  {
+    "pack_id": 98009,
+    "short_code": "SET",
+    "animation_rate_pct": 8.0,
+    "has_bonus_slot": true,
+    "special_kind": "leader_card"
+  },
+  {
+    "pack_id": 98010,
+    "short_code": "SET",
+    "animation_rate_pct": 8.0,
+    "has_bonus_slot": true,
+    "special_kind": "leader_card"
+  },
+  {
+    "pack_id": 98011,
+    "short_code": "SET",
+    "animation_rate_pct": 8.0,
+    "has_bonus_slot": true,
+    "special_kind": "leader_card"
+  },
+  {
+    "pack_id": 98012,
+    "short_code": "SET",
+    "animation_rate_pct": 8.0,
+    "has_bonus_slot": true,
+    "special_kind": "leader_card"
+  },
+  {
+    "pack_id": 98013,
+    "short_code": "SET",
+    "animation_rate_pct": 8.0,
+    "has_bonus_slot": true,
+    "special_kind": "leader_card"
+  },
+  {
+    "pack_id": 98014,
+    "short_code": "SET",
+    "animation_rate_pct": 8.0,
+    "has_bonus_slot": true,
+    "special_kind": "leader_card"
+  },
+  {
+    "pack_id": 98015,
+    "short_code": "SET",
+    "animation_rate_pct": 8.0,
+    "has_bonus_slot": true,
+    "special_kind": "leader_card"
+  },
+  {
+    "pack_id": 98016,
+    "short_code": "SET",
+    "animation_rate_pct": 8.0,
+    "has_bonus_slot": true,
+    "special_kind": "leader_card"
+  },
+  {
+    "pack_id": 98017,
+    "short_code": "SET",
+    "animation_rate_pct": 8.0,
+    "has_bonus_slot": true,
+    "special_kind": "leader_card"
+  },
+  {
+    "pack_id": 98018,
+    "short_code": "SET",
+    "animation_rate_pct": 8.0,
+    "has_bonus_slot": true,
+    "special_kind": "leader_card"
+  },
+  {
+    "pack_id": 98019,
+    "short_code": "SET",
+    "animation_rate_pct": 8.0,
+    "has_bonus_slot": true,
+    "special_kind": "leader_card"
+  },
+  {
+    "pack_id": 98020,
+    "short_code": "SET",
+    "animation_rate_pct": 8.0,
+    "has_bonus_slot": true,
+    "special_kind": "leader_card"
+  },
+  {
+    "pack_id": 98021,
+    "short_code": "SET",
+    "animation_rate_pct": 8.0,
+    "has_bonus_slot": true,
+    "special_kind": "leader_card"
+  },
+  {
+    "pack_id": 98022,
+    "short_code": "SET",
+    "animation_rate_pct": 8.0,
+    "has_bonus_slot": true,
+    "special_kind": "leader_card"
+  },
+  {
+    "pack_id": 98023,
+    "short_code": "SET",
+    "animation_rate_pct": 8.0,
+    "has_bonus_slot": true,
+    "special_kind": "leader_card"
+  },
+  {
+    "pack_id": 98024,
+    "short_code": "SET",
+    "animation_rate_pct": 8.0,
+    "has_bonus_slot": true,
+    "special_kind": "leader_card"
+  },
+  {
+    "pack_id": 99007,
+    "short_code": "LCP",
+    "animation_rate_pct": 8.0,
+    "has_bonus_slot": false,
+    "special_kind": null
+  },
+  {
+    "pack_id": 99008,
+    "short_code": "LCP",
+    "animation_rate_pct": 8.0,
+    "has_bonus_slot": false,
+    "special_kind": null
+  },
+  {
+    "pack_id": 99009,
+    "short_code": "LCP",
+    "animation_rate_pct": 8.0,
+    "has_bonus_slot": false,
+    "special_kind": null
+  },
+  {
+    "pack_id": 99010,
+    "short_code": "LCP",
+    "animation_rate_pct": 8.0,
+    "has_bonus_slot": false,
+    "special_kind": null
+  },
+  {
+    "pack_id": 99011,
+    "short_code": "LCP",
+    "animation_rate_pct": 8.0,
+    "has_bonus_slot": false,
+    "special_kind": null
+  },
+  {
+    "pack_id": 99012,
+    "short_code": "LCP",
+    "animation_rate_pct": 8.0,
+    "has_bonus_slot": false,
+    "special_kind": null
+  },
+  {
+    "pack_id": 99013,
+    "short_code": "LCP",
+    "animation_rate_pct": 8.0,
+    "has_bonus_slot": false,
+    "special_kind": null
+  },
+  {
+    "pack_id": 99014,
+    "short_code": "LCP",
+    "animation_rate_pct": 8.0,
+    "has_bonus_slot": false,
+    "special_kind": null
+  },
+  {
+    "pack_id": 99015,
+    "short_code": "LCP",
+    "animation_rate_pct": 8.0,
+    "has_bonus_slot": false,
+    "special_kind": null
+  },
+  {
+    "pack_id": 99016,
+    "short_code": "LCP",
+    "animation_rate_pct": 8.0,
+    "has_bonus_slot": false,
+    "special_kind": null
+  },
+  {
+    "pack_id": 99017,
+    "short_code": "LCP",
+    "animation_rate_pct": 8.0,
+    "has_bonus_slot": false,
+    "special_kind": null
+  },
+  {
+    "pack_id": 99018,
+    "short_code": "LCP",
+    "animation_rate_pct": 8.0,
+    "has_bonus_slot": false,
+    "special_kind": null
+  },
+  {
+    "pack_id": 99019,
+    "short_code": "LCP",
+    "animation_rate_pct": 8.0,
+    "has_bonus_slot": false,
+    "special_kind": null
+  },
+  {
+    "pack_id": 99020,
+    "short_code": "LCP",
+    "animation_rate_pct": 8.0,
+    "has_bonus_slot": false,
+    "special_kind": null
+  },
+  {
+    "pack_id": 99021,
+    "short_code": "LCP",
+    "animation_rate_pct": 8.0,
+    "has_bonus_slot": false,
+    "special_kind": null
+  },
+  {
+    "pack_id": 99022,
+    "short_code": "LCP",
+    "animation_rate_pct": 8.0,
+    "has_bonus_slot": false,
+    "special_kind": null
+  },
+  {
+    "pack_id": 99023,
+    "short_code": "LCP",
+    "animation_rate_pct": 8.0,
+    "has_bonus_slot": false,
+    "special_kind": null
+  },
+  {
+    "pack_id": 99024,
+    "short_code": "LCP",
+    "animation_rate_pct": 8.0,
+    "has_bonus_slot": false,
+    "special_kind": null
+  },
+  {
+    "pack_id": 99025,
+    "short_code": "LCP",
+    "animation_rate_pct": 8.0,
+    "has_bonus_slot": false,
+    "special_kind": null
+  },
+  {
+    "pack_id": 99026,
+    "short_code": "LCP",
+    "animation_rate_pct": 8.0,
+    "has_bonus_slot": false,
+    "special_kind": null
+  },
+  {
+    "pack_id": 99027,
+    "short_code": "LCP",
+    "animation_rate_pct": 8.0,
+    "has_bonus_slot": false,
+    "special_kind": null
+  },
+  {
+    "pack_id": 99028,
+    "short_code": "LCP",
+    "animation_rate_pct": 8.0,
+    "has_bonus_slot": false,
+    "special_kind": null
+  },
+  {
+    "pack_id": 99029,
+    "short_code": "LCP",
+    "animation_rate_pct": 8.0,
+    "has_bonus_slot": false,
+    "special_kind": null
+  },
+  {
+    "pack_id": 99030,
+    "short_code": "LCP",
+    "animation_rate_pct": 8.0,
+    "has_bonus_slot": false,
+    "special_kind": null
+  },
+  {
+    "pack_id": 99031,
+    "short_code": "LCP",
+    "animation_rate_pct": 8.0,
+    "has_bonus_slot": false,
+    "special_kind": null
+  },
+  {
+    "pack_id": 99032,
+    "short_code": "LCP",
+    "animation_rate_pct": 8.0,
+    "has_bonus_slot": false,
+    "special_kind": null
+  },
+  {
+    "pack_id": 99047,
+    "short_code": "LCP",
+    "animation_rate_pct": 8.0,
+    "has_bonus_slot": false,
+    "special_kind": null
+  },
+  {
+    "pack_id": 99050,
+    "short_code": "LCP",
+    "animation_rate_pct": 8.0,
+    "has_bonus_slot": false,
+    "special_kind": null
+  },
+  {
+    "pack_id": 99056,
+    "short_code": "LCP",
+    "animation_rate_pct": 8.0,
+    "has_bonus_slot": false,
+    "special_kind": null
+  }
+]

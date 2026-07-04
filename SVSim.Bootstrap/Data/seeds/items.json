@@ -1,0 +1,362 @@
+[
+  {
+    "item_id": 1,
+    "name": "Challenge Ticket",
+    "type": 1,
+    "thumbnail_path": "ticket_1"
+  },
+  {
+    "item_id": 2,
+    "name": "Grand Prix Ticket",
+    "type": 4,
+    "thumbnail_path": "ticket_colosseum"
+  },
+  {
+    "item_id": 1000,
+    "name": "Seer's Globe",
+    "type": 3,
+    "thumbnail_path": "thumbnail_orb"
+  },
+  {
+    "item_id": 1001,
+    "name": "Seer's Globe Shards",
+    "type": 5,
+    "thumbnail_path": "thumbnail_orb_piece"
+  },
+  {
+    "item_id": 2001,
+    "name": "Umamusume Bingo Ticket",
+    "type": 6,
+    "thumbnail_path": "ticket_2001"
+  },
+  {
+    "item_id": 2002,
+    "name": "Chiikawa Bingo Ticket",
+    "type": 6,
+    "thumbnail_path": "ticket_2002"
+  },
+  {
+    "item_id": 2003,
+    "name": "7th Anniversary Ticket",
+    "type": 6,
+    "thumbnail_path": "ticket_2003"
+  },
+  {
+    "item_id": 2004,
+    "name": "Fennie Bingo Ticket",
+    "type": 6,
+    "thumbnail_path": "ticket_2004"
+  },
+  {
+    "item_id": 10001,
+    "name": "Classic Card Pack Ticket",
+    "type": 2,
+    "thumbnail_path": "ticket_10001"
+  },
+  {
+    "item_id": 10002,
+    "name": "Darkness Evolved Card Pack Ticket",
+    "type": 2,
+    "thumbnail_path": "ticket_10002"
+  },
+  {
+    "item_id": 10003,
+    "name": "Rise of Bahamut Card Pack Ticket",
+    "type": 2,
+    "thumbnail_path": "ticket_10003"
+  },
+  {
+    "item_id": 10004,
+    "name": "Tempest of the Gods Card Pack Ticket",
+    "type": 2,
+    "thumbnail_path": "ticket_10004"
+  },
+  {
+    "item_id": 10005,
+    "name": "Wonderland Dreams Card Pack Ticket",
+    "type": 2,
+    "thumbnail_path": "ticket_10005"
+  },
+  {
+    "item_id": 10006,
+    "name": "Starforged Legends Card Pack Ticket",
+    "type": 2,
+    "thumbnail_path": "ticket_10006"
+  },
+  {
+    "item_id": 10007,
+    "name": "Chronogenesis Card Pack Ticket",
+    "type": 2,
+    "thumbnail_path": "ticket_10007"
+  },
+  {
+    "item_id": 10008,
+    "name": "Dawnbreak, Nightedge Card Pack Ticket",
+    "type": 2,
+    "thumbnail_path": "ticket_10008"
+  },
+  {
+    "item_id": 10009,
+    "name": "Brigade of the Sky Card Pack Ticket",
+    "type": 2,
+    "thumbnail_path": "ticket_10009"
+  },
+  {
+    "item_id": 10010,
+    "name": "Omen of the Ten Card Pack Ticket",
+    "type": 2,
+    "thumbnail_path": "ticket_10010"
+  },
+  {
+    "item_id": 10011,
+    "name": "Altersphere Card Pack Ticket",
+    "type": 2,
+    "thumbnail_path": "ticket_10011"
+  },
+  {
+    "item_id": 10012,
+    "name": "Steel Rebellion Card Pack Ticket",
+    "type": 2,
+    "thumbnail_path": "ticket_10012"
+  },
+  {
+    "item_id": 10013,
+    "name": "Rebirth of Glory Card Pack Ticket",
+    "type": 2,
+    "thumbnail_path": "ticket_10013"
+  },
+  {
+    "item_id": 10014,
+    "name": "Verdant Conflict Card Pack Ticket",
+    "type": 2,
+    "thumbnail_path": "ticket_10014"
+  },
+  {
+    "item_id": 10015,
+    "name": "Ultimate Colosseum Card Pack Ticket",
+    "type": 2,
+    "thumbnail_path": "ticket_10015"
+  },
+  {
+    "item_id": 10016,
+    "name": "World Uprooted Card Pack Ticket",
+    "type": 2,
+    "thumbnail_path": "ticket_10016"
+  },
+  {
+    "item_id": 10017,
+    "name": "Fortune's Hand Card Pack Ticket",
+    "type": 2,
+    "thumbnail_path": "ticket_10017"
+  },
+  {
+    "item_id": 10018,
+    "name": "Storm Over Rivayle Card Pack Ticket",
+    "type": 2,
+    "thumbnail_path": "ticket_10018"
+  },
+  {
+    "item_id": 10019,
+    "name": "Eternal Awakening Card Pack Ticket",
+    "type": 2,
+    "thumbnail_path": "ticket_10019"
+  },
+  {
+    "item_id": 10020,
+    "name": "Darkness Over Vellsar Card Pack Ticket",
+    "type": 2,
+    "thumbnail_path": "ticket_10020"
+  },
+  {
+    "item_id": 10021,
+    "name": "Renascent Chronicles Card Pack Ticket",
+    "type": 2,
+    "thumbnail_path": "ticket_10021"
+  },
+  {
+    "item_id": 10022,
+    "name": "Dawn of Calamity Card Pack Ticket",
+    "type": 2,
+    "thumbnail_path": "ticket_10022"
+  },
+  {
+    "item_id": 10023,
+    "name": "Omen of Storms Card Pack Ticket",
+    "type": 2,
+    "thumbnail_path": "ticket_10023"
+  },
+  {
+    "item_id": 10024,
+    "name": "Edge of Paradise Card Pack Ticket",
+    "type": 2,
+    "thumbnail_path": "ticket_10024"
+  },
+  {
+    "item_id": 10025,
+    "name": "Roar of the Godwyrm Card Pack Ticket",
+    "type": 2,
+    "thumbnail_path": "ticket_10025"
+  },
+  {
+    "item_id": 10026,
+    "name": "Celestial Dragonblade Card Pack Ticket",
+    "type": 2,
+    "thumbnail_path": "ticket_10026"
+  },
+  {
+    "item_id": 10027,
+    "name": "Eightfold Abyss: Azvaldt Card Pack Ticket",
+    "type": 2,
+    "thumbnail_path": "ticket_10027"
+  },
+  {
+    "item_id": 10028,
+    "name": "Academy of Ages Card Pack Ticket",
+    "type": 2,
+    "thumbnail_path": "ticket_10028"
+  },
+  {
+    "item_id": 10029,
+    "name": "Heroes of Rivenbrandt Card Pack Ticket",
+    "type": 2,
+    "thumbnail_path": "ticket_10029"
+  },
+  {
+    "item_id": 10030,
+    "name": "Order Shift Card Pack Ticket",
+    "type": 2,
+    "thumbnail_path": "ticket_10030"
+  },
+  {
+    "item_id": 10031,
+    "name": "Resurgent Legends Card Pack Ticket",
+    "type": 2,
+    "thumbnail_path": "ticket_10031"
+  },
+  {
+    "item_id": 10032,
+    "name": "Heroes of Shadowverse Card Pack Ticket",
+    "type": 2,
+    "thumbnail_path": "ticket_10032"
+  },
+  {
+    "item_id": 60001,
+    "name": "4th Birthday Temporary Deck Ticket",
+    "type": 6,
+    "thumbnail_path": "ticket_60001"
+  },
+  {
+    "item_id": 60019,
+    "name": "Eternal Awakening Temporary Deck Ticket",
+    "type": 6,
+    "thumbnail_path": "ticket_60019"
+  },
+  {
+    "item_id": 60020,
+    "name": "Darkness Over Vellsar Temporary Deck Ticket",
+    "type": 6,
+    "thumbnail_path": "ticket_60020"
+  },
+  {
+    "item_id": 60021,
+    "name": "Renascent Chronicles Temporary Deck Ticket",
+    "type": 6,
+    "thumbnail_path": "ticket_60021"
+  },
+  {
+    "item_id": 60022,
+    "name": "Dawn of Calamity Temporary Deck Ticket",
+    "type": 6,
+    "thumbnail_path": "ticket_60022"
+  },
+  {
+    "item_id": 60023,
+    "name": "Omen of Storms Temporary Deck Ticket",
+    "type": 6,
+    "thumbnail_path": "ticket_60023"
+  },
+  {
+    "item_id": 60024,
+    "name": "Edge of Paradise Temporary Deck Ticket",
+    "type": 6,
+    "thumbnail_path": "ticket_60024"
+  },
+  {
+    "item_id": 60025,
+    "name": "Roar of the Godwyrm Temporary Deck Ticket",
+    "type": 6,
+    "thumbnail_path": "ticket_60025"
+  },
+  {
+    "item_id": 60026,
+    "name": "Celestial Dragonblade Temporary Deck Ticket",
+    "type": 6,
+    "thumbnail_path": "ticket_60026"
+  },
+  {
+    "item_id": 60027,
+    "name": "Eightfold Abyss: Azvaldt Temporary Deck Ticket",
+    "type": 6,
+    "thumbnail_path": "ticket_60027"
+  },
+  {
+    "item_id": 60028,
+    "name": "Academy of Ages Temporary Deck Ticket",
+    "type": 6,
+    "thumbnail_path": "ticket_60028"
+  },
+  {
+    "item_id": 60029,
+    "name": "Heroes of Rivenbrandt Temporary Deck Ticket",
+    "type": 6,
+    "thumbnail_path": "ticket_60029"
+  },
+  {
+    "item_id": 60030,
+    "name": "Order Shift Temporary Deck Ticket",
+    "type": 6,
+    "thumbnail_path": "ticket_60030"
+  },
+  {
+    "item_id": 60031,
+    "name": "Resurgent Legends Temporary Deck Ticket",
+    "type": 6,
+    "thumbnail_path": "ticket_60031"
+  },
+  {
+    "item_id": 60032,
+    "name": "Heroes of Shadowverse Temporary Deck Ticket",
+    "type": 6,
+    "thumbnail_path": "ticket_60032"
+  },
+  {
+    "item_id": 70001,
+    "name": "4th Birthday Leader Ticket",
+    "type": 7,
+    "thumbnail_path": "ticket_70001"
+  },
+  {
+    "item_id": 70002,
+    "name": "Champion's Battle Leader Ticket",
+    "type": 7,
+    "thumbnail_path": "ticket_70002"
+  },
+  {
+    "item_id": 80001,
+    "name": "Throwback Rotation Card Pack Ticket",
+    "type": 2,
+    "thumbnail_path": "ticket_80001"
+  },
+  {
+    "item_id": 90001,
+    "name": "Legendary Card Pack Ticket",
+    "type": 2,
+    "thumbnail_path": "ticket_90001"
+  },
+  {
+    "item_id": 92001,
+    "name": "4th Birthday Card Pack Ticket",
+    "type": 2,
+    "thumbnail_path": "ticket_92001"
+  }
+]

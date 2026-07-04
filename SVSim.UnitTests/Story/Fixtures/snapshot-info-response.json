@@ -1,0 +1,18 @@
+{
+  "story_master_list":[
+    {"story_id":"100","section_id":"1","chara_id":"2","chapter_id":"1","is_lock":false,
+     "next_chapter_id":"2","required_chapter_id":"","selection_display_position":"",
+     "selection_text_id":"","show_coordinate":"1","x_coordinate":"100","y_coordinate":"-100",
+     "is_camera_ movable":"1","show_subtitles":"0","battle_exists":true,
+     "enemy_chara_id":"500010","enemy_class":"2","enemy_ai_id":"2001","bg_file_name":"6",
+     "chapter_effect_path":"","chapter_clear_text_id":"","battle3dfield_id":"4","bgm_id":"0",
+     "special_battle_setting_id":"","release_point":"0",
+     "battle_settings":[{"deck_class_id":2,"player_emotion_override":0,"enemy_emotion_override":0,
+       "skin_id_override":0,"battle3dfield_id_override":0,"bgm_id_override":0,"deck_skin_id_override":0}],
+     "story_reward":[{"reward_type":"1","reward_detail_id":"0","reward_number":"100"}],
+     "is_maintenance_chapter":false,"is_released":true,"is_skipped":false,"is_finish":false,
+     "unlock_text":"","is_play_another_end_appearance_animation":false,
+     "is_released_another_end":false,"is_skip_enabled":true}
+  ],
+  "maintenance_card_list":[]
+}

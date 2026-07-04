@@ -1,0 +1,35 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <!-- NU1903 (MessagePack 2.5.172 has a moderate-severity vulnerability) is the only
+         audit hit at this revision. Suppress so MSBuildWorkspace (used by tools/engine-port/
+         ClosureAnalyzer) doesn't bail out before wiring the extern-alias project reference,
+         which silently breaks cross-project symbol resolution for this whole project. -->
+    <NoWarn>$(NoWarn);NU1903</NoWarn>
+  </PropertyGroup>
+  <ItemGroup>
+    <FrameworkReference Include="Microsoft.AspNetCore.App" />
+    <PackageReference Include="MessagePack" Version="2.5.172" />
+  </ItemGroup>
+  <ItemGroup>
+    <!-- Aliased: the copied decompiled engine puts a huge type surface in the GLOBAL namespace
+         (BattlePlayer, MessagePackSerializer, ...) which would otherwise leak into and collide
+         with every node file. The extern alias confines it; only Sessions/Engine/* opts in.
+         PrivateAssets=compile: the engine is an implementation detail of the node — hide its TYPES
+         from the COMPILE closure of consumers (SVSim.EmulatedEntrypoint references BattleNode and
+         would otherwise re-hit the MessagePackSerializer global-namespace collision), while still
+         flowing the RUNTIME asset so SVSim.BattleEngine.dll deploys into consumers' output. -->
+    <ProjectReference Include="..\SVSim.BattleEngine\SVSim.BattleEngine.csproj" Aliases="engine" PrivateAssets="compile" />
+  </ItemGroup>
+  <ItemGroup>
+    <InternalsVisibleTo Include="SVSim.UnitTests" />
+    <InternalsVisibleTo Include="SVSim.BattleEngine.Tests" />
+  </ItemGroup>
+  <ItemGroup>
+    <!-- EngineGlobalInit reads the loader's card-master dump from AppContext.BaseDirectory/Data/cards.json
+         to populate the engine's static CardMaster. Ship it in the node's output. -->
+    <None Include="..\SVSim.Bootstrap\Data\cards.json" Link="Data\cards.json" CopyToOutputDirectory="PreserveNewest" />
+  </ItemGroup>
+</Project>

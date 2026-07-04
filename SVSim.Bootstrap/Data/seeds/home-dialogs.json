@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "title_text_id": "HomeDialog_0066",
+    "image": "home_dialog_000312",
+    "button_list": [
+      { "button_text_id": "HomeDialog_0002", "scene": "card_pack", "status": "80032" }
+    ],
+    "begin_time": "2026-06-01 02:00:00",
+    "end_time": "2026-07-01 01:59:59",
+    "type": 1,
+    "priority": 0
+  }
+]

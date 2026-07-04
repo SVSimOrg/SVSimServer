@@ -1,0 +1,5918 @@
+[
+  {
+    "series_id": 3001,
+    "is_new": false,
+    "products": [
+      {
+        "product_id": 300101,
+        "name_key": "sleeve_1",
+        "price_crystal": 0,
+        "price_rupy": 0,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 6,
+            "reward_detail_id": 3001011,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 6,
+            "reward_detail_id": 3001012,
+            "reward_number": 1
+          }
+        ]
+      },
+      {
+        "product_id": 300102,
+        "name_key": "sleeve_2",
+        "price_crystal": 0,
+        "price_rupy": 0,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 6,
+            "reward_detail_id": 3001021,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 6,
+            "reward_detail_id": 3001022,
+            "reward_number": 1
+          },
+          {
+            "order_index": 2,
+            "reward_type": 6,
+            "reward_detail_id": 3001023,
+            "reward_number": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "series_id": 3004,
+    "is_new": false,
+    "products": [
+      {
+        "product_id": 300401,
+        "name_key": "sleeve_7",
+        "price_crystal": 0,
+        "price_rupy": 0,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 6,
+            "reward_detail_id": 3004011,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 6,
+            "reward_detail_id": 3004012,
+            "reward_number": 1
+          },
+          {
+            "order_index": 2,
+            "reward_type": 6,
+            "reward_detail_id": 3004013,
+            "reward_number": 1
+          }
+        ]
+      },
+      {
+        "product_id": 300402,
+        "name_key": "sleeve_8",
+        "price_crystal": 0,
+        "price_rupy": 0,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 6,
+            "reward_detail_id": 3004021,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 6,
+            "reward_detail_id": 3004022,
+            "reward_number": 1
+          },
+          {
+            "order_index": 2,
+            "reward_type": 6,
+            "reward_detail_id": 3004023,
+            "reward_number": 1
+          }
+        ]
+      },
+      {
+        "product_id": 300403,
+        "name_key": "sleeve_97",
+        "price_crystal": 0,
+        "price_rupy": 0,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 7,
+            "reward_detail_id": 400000011,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 6,
+            "reward_detail_id": 3004031,
+            "reward_number": 1
+          }
+        ]
+      },
+      {
+        "product_id": 300404,
+        "name_key": "sleeve_98",
+        "price_crystal": 0,
+        "price_rupy": 0,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 7,
+            "reward_detail_id": 400000012,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 6,
+            "reward_detail_id": 3004032,
+            "reward_number": 1
+          }
+        ]
+      },
+      {
+        "product_id": 300405,
+        "name_key": "sleeve_99",
+        "price_crystal": 0,
+        "price_rupy": 0,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 7,
+            "reward_detail_id": 400000013,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 6,
+            "reward_detail_id": 3004033,
+            "reward_number": 1
+          }
+        ]
+      },
+      {
+        "product_id": 300406,
+        "name_key": "sleeve_100",
+        "price_crystal": 0,
+        "price_rupy": 0,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 7,
+            "reward_detail_id": 400000014,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 6,
+            "reward_detail_id": 3004034,
+            "reward_number": 1
+          }
+        ]
+      },
+      {
+        "product_id": 300407,
+        "name_key": "sleeve_101",
+        "price_crystal": 0,
+        "price_rupy": 0,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 7,
+            "reward_detail_id": 400000015,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 6,
+            "reward_detail_id": 3004035,
+            "reward_number": 1
+          }
+        ]
+      },
+      {
+        "product_id": 300408,
+        "name_key": "sleeve_102",
+        "price_crystal": 0,
+        "price_rupy": 0,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 7,
+            "reward_detail_id": 400000016,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 6,
+            "reward_detail_id": 3004036,
+            "reward_number": 1
+          }
+        ]
+      },
+      {
+        "product_id": 300409,
+        "name_key": "sleeve_103",
+        "price_crystal": 0,
+        "price_rupy": 0,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 7,
+            "reward_detail_id": 400000017,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 6,
+            "reward_detail_id": 3004037,
+            "reward_number": 1
+          }
+        ]
+      },
+      {
+        "product_id": 300410,
+        "name_key": "sleeve_104",
+        "price_crystal": 0,
+        "price_rupy": 0,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 7,
+            "reward_detail_id": 400000018,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 6,
+            "reward_detail_id": 3004038,
+            "reward_number": 1
+          }
+        ]
+      },
+      {
+        "product_id": 300411,
+        "name_key": "sleeve_105",
+        "price_crystal": 0,
+        "price_rupy": 0,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 7,
+            "reward_detail_id": 400000019,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 6,
+            "reward_detail_id": 3004039,
+            "reward_number": 1
+          }
+        ]
+      },
+      {
+        "product_id": 300412,
+        "name_key": "sleeve_106",
+        "price_crystal": 0,
+        "price_rupy": 0,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 7,
+            "reward_detail_id": 400000020,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 6,
+            "reward_detail_id": 3004040,
+            "reward_number": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "series_id": 3010,
+    "is_new": false,
+    "products": [
+      {
+        "product_id": 301001,
+        "name_key": "sleeve_11",
+        "price_crystal": 400,
+        "price_rupy": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 7,
+            "reward_detail_id": 101021010,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 6,
+            "reward_detail_id": 101021010,
+            "reward_number": 1
+          }
+        ]
+      },
+      {
+        "product_id": 301002,
+        "name_key": "sleeve_12",
+        "price_crystal": 400,
+        "price_rupy": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 7,
+            "reward_detail_id": 101031010,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 6,
+            "reward_detail_id": 101031010,
+            "reward_number": 1
+          }
+        ]
+      },
+      {
+        "product_id": 301003,
+        "name_key": "sleeve_13",
+        "price_crystal": 400,
+        "price_rupy": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 7,
+            "reward_detail_id": 900311010,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 6,
+            "reward_detail_id": 900311010,
+            "reward_number": 1
+          }
+        ]
+      },
+      {
+        "product_id": 301004,
+        "name_key": "sleeve_14",
+        "price_crystal": 400,
+        "price_rupy": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 7,
+            "reward_detail_id": 900241010,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 6,
+            "reward_detail_id": 900241010,
+            "reward_number": 1
+          }
+        ]
+      },
+      {
+        "product_id": 301005,
+        "name_key": "sleeve_15",
+        "price_crystal": 400,
+        "price_rupy": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 7,
+            "reward_detail_id": 102732020,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 6,
+            "reward_detail_id": 102732020,
+            "reward_number": 1
+          }
+        ]
+      },
+      {
+        "product_id": 301006,
+        "name_key": "sleeve_16",
+        "price_crystal": 400,
+        "price_rupy": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 7,
+            "reward_detail_id": 102131030,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 6,
+            "reward_detail_id": 102131030,
+            "reward_number": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "series_id": 3012,
+    "is_new": false,
+    "products": [
+      {
+        "product_id": 301201,
+        "name_key": "sleeve_20",
+        "price_crystal": 400,
+        "price_rupy": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 7,
+            "reward_detail_id": 103521040,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 6,
+            "reward_detail_id": 103521040,
+            "reward_number": 1
+          }
+        ]
+      },
+      {
+        "product_id": 301202,
+        "name_key": "sleeve_21",
+        "price_crystal": 400,
+        "price_rupy": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 7,
+            "reward_detail_id": 103121030,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 6,
+            "reward_detail_id": 103121030,
+            "reward_number": 1
+          }
+        ]
+      },
+      {
+        "product_id": 301203,
+        "name_key": "sleeve_22",
+        "price_crystal": 400,
+        "price_rupy": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 7,
+            "reward_detail_id": 103011060,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 6,
+            "reward_detail_id": 103011060,
+            "reward_number": 1
+          }
+        ]
+      },
+      {
+        "product_id": 301204,
+        "name_key": "sleeve_23",
+        "price_crystal": 400,
+        "price_rupy": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 7,
+            "reward_detail_id": 103021020,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 6,
+            "reward_detail_id": 103021020,
+            "reward_number": 1
+          }
+        ]
+      },
+      {
+        "product_id": 301205,
+        "name_key": "sleeve_24",
+        "price_crystal": 400,
+        "price_rupy": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 7,
+            "reward_detail_id": 103631030,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 6,
+            "reward_detail_id": 103631030,
+            "reward_number": 1
+          }
+        ]
+      },
+      {
+        "product_id": 301206,
+        "name_key": "sleeve_25",
+        "price_crystal": 400,
+        "price_rupy": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 7,
+            "reward_detail_id": 103431030,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 6,
+            "reward_detail_id": 103431030,
+            "reward_number": 1
+          }
+        ]
+      },
+      {
+        "product_id": 301207,
+        "name_key": "sleeve_26",
+        "price_crystal": 400,
+        "price_rupy": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 7,
+            "reward_detail_id": 104621020,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 6,
+            "reward_detail_id": 104621020,
+            "reward_number": 1
+          }
+        ]
+      },
+      {
+        "product_id": 301208,
+        "name_key": "sleeve_27",
+        "price_crystal": 400,
+        "price_rupy": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 7,
+            "reward_detail_id": 104531020,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 6,
+            "reward_detail_id": 104531020,
+            "reward_number": 1
+          }
+        ]
+      },
+      {
+        "product_id": 301209,
+        "name_key": "sleeve_28",
+        "price_crystal": 400,
+        "price_rupy": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 7,
+            "reward_detail_id": 104721020,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 6,
+            "reward_detail_id": 104721020,
+            "reward_number": 1
+          }
+        ]
+      },
+      {
+        "product_id": 301210,
+        "name_key": "sleeve_29",
+        "price_crystal": 400,
+        "price_rupy": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 7,
+            "reward_detail_id": 104231030,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 6,
+            "reward_detail_id": 104231030,
+            "reward_number": 1
+          }
+        ]
+      },
+      {
+        "product_id": 301211,
+        "name_key": "sleeve_30",
+        "price_crystal": 400,
+        "price_rupy": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 7,
+            "reward_detail_id": 104321020,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 6,
+            "reward_detail_id": 104321020,
+            "reward_number": 1
+          }
+        ]
+      },
+      {
+        "product_id": 301212,
+        "name_key": "sleeve_31",
+        "price_crystal": 400,
+        "price_rupy": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 7,
+            "reward_detail_id": 104431030,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 6,
+            "reward_detail_id": 104431030,
+            "reward_number": 1
+          }
+        ]
+      },
+      {
+        "product_id": 301213,
+        "name_key": "sleeve_32",
+        "price_crystal": 400,
+        "price_rupy": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 7,
+            "reward_detail_id": 1054210300,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 6,
+            "reward_detail_id": 1054210300,
+            "reward_number": 1
+          }
+        ]
+      },
+      {
+        "product_id": 301214,
+        "name_key": "sleeve_33",
+        "price_crystal": 400,
+        "price_rupy": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 7,
+            "reward_detail_id": 1051310100,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 6,
+            "reward_detail_id": 1051310100,
+            "reward_number": 1
+          }
+        ]
+      },
+      {
+        "product_id": 301215,
+        "name_key": "sleeve_34",
+        "price_crystal": 400,
+        "price_rupy": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 7,
+            "reward_detail_id": 1056210100,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 6,
+            "reward_detail_id": 1056210100,
+            "reward_number": 1
+          }
+        ]
+      },
+      {
+        "product_id": 301216,
+        "name_key": "sleeve_35",
+        "price_crystal": 400,
+        "price_rupy": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 7,
+            "reward_detail_id": 1052210300,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 6,
+            "reward_detail_id": 1052210300,
+            "reward_number": 1
+          }
+        ]
+      },
+      {
+        "product_id": 301217,
+        "name_key": "sleeve_36",
+        "price_crystal": 400,
+        "price_rupy": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 7,
+            "reward_detail_id": 1055310200,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 6,
+            "reward_detail_id": 1055310200,
+            "reward_number": 1
+          }
+        ]
+      },
+      {
+        "product_id": 301218,
+        "name_key": "sleeve_37",
+        "price_crystal": 400,
+        "price_rupy": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 7,
+            "reward_detail_id": 1050310200,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 6,
+            "reward_detail_id": 1050310200,
+            "reward_number": 1
+          }
+        ]
+      },
+      {
+        "product_id": 301219,
+        "name_key": "sleeve_40",
+        "price_crystal": 400,
+        "price_rupy": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 7,
+            "reward_detail_id": 1063310200,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 6,
+            "reward_detail_id": 1063310200,
+            "reward_number": 1
+          }
+        ]
+      },
+      {
+        "product_id": 301220,
+        "name_key": "sleeve_41",
+        "price_crystal": 400,
+        "price_rupy": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 7,
+            "reward_detail_id": 1067310100,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 6,
+            "reward_detail_id": 1067310100,
+            "reward_number": 1
+          }
+        ]
+      },
+      {
+        "product_id": 301221,
+        "name_key": "sleeve_42",
+        "price_crystal": 400,
+        "price_rupy": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 7,
+            "reward_detail_id": 1064110100,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 6,
+            "reward_detail_id": 1064110100,
+            "reward_number": 1
+          }
+        ]
+      },
+      {
+        "product_id": 301222,
+        "name_key": "sleeve_43",
+        "price_crystal": 400,
+        "price_rupy": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 7,
+            "reward_detail_id": 1061310200,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 6,
+            "reward_detail_id": 1061310200,
+            "reward_number": 1
+          }
+        ]
+      },
+      {
+        "product_id": 301223,
+        "name_key": "sleeve_44",
+        "price_crystal": 400,
+        "price_rupy": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 7,
+            "reward_detail_id": 1065310200,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 6,
+            "reward_detail_id": 1065310200,
+            "reward_number": 1
+          }
+        ]
+      },
+      {
+        "product_id": 301224,
+        "name_key": "sleeve_45",
+        "price_crystal": 400,
+        "price_rupy": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 7,
+            "reward_detail_id": 1066210200,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 6,
+            "reward_detail_id": 1066210200,
+            "reward_number": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "series_id": 3013,
+    "is_new": false,
+    "products": [
+      {
+        "product_id": 301301,
+        "name_key": "sleeve_38",
+        "price_crystal": 0,
+        "price_rupy": 0,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 6,
+            "reward_detail_id": 3030002,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 7,
+            "reward_detail_id": 400001003,
+            "reward_number": 1
+          },
+          {
+            "order_index": 2,
+            "reward_type": 7,
+            "reward_detail_id": 400001002,
+            "reward_number": 1
+          },
+          {
+            "order_index": 3,
+            "reward_type": 7,
+            "reward_detail_id": 400001004,
+            "reward_number": 1
+          }
+        ]
+      },
+      {
+        "product_id": 301302,
+        "name_key": "sleeve_39",
+        "price_crystal": 0,
+        "price_rupy": 0,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 7,
+            "reward_detail_id": 400001005,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 7,
+            "reward_detail_id": 400001007,
+            "reward_number": 1
+          },
+          {
+            "order_index": 2,
+            "reward_type": 7,
+            "reward_detail_id": 400001006,
+            "reward_number": 1
+          },
+          {
+            "order_index": 3,
+            "reward_type": 7,
+            "reward_detail_id": 400001008,
+            "reward_number": 1
+          }
+        ]
+      },
+      {
+        "product_id": 301303,
+        "name_key": "sleeve_119",
+        "price_crystal": 0,
+        "price_rupy": 0,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 6,
+            "reward_detail_id": 3030001,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 7,
+            "reward_detail_id": 400001001,
+            "reward_number": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "series_id": 3014,
+    "is_new": false,
+    "products": [
+      {
+        "product_id": 301401,
+        "name_key": "sleeve_46",
+        "price_crystal": 400,
+        "price_rupy": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 7,
+            "reward_detail_id": 1070210100,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 6,
+            "reward_detail_id": 1070210100,
+            "reward_number": 1
+          }
+        ]
+      },
+      {
+        "product_id": 301402,
+        "name_key": "sleeve_47",
+        "price_crystal": 400,
+        "price_rupy": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 7,
+            "reward_detail_id": 1078210600,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 6,
+            "reward_detail_id": 1078210600,
+            "reward_number": 1
+          }
+        ]
+      },
+      {
+        "product_id": 301403,
+        "name_key": "sleeve_48",
+        "price_crystal": 400,
+        "price_rupy": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 7,
+            "reward_detail_id": 1072310100,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 6,
+            "reward_detail_id": 1072310100,
+            "reward_number": 1
+          }
+        ]
+      },
+      {
+        "product_id": 301404,
+        "name_key": "sleeve_49",
+        "price_crystal": 400,
+        "price_rupy": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 7,
+            "reward_detail_id": 1071310100,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 6,
+            "reward_detail_id": 1071310100,
+            "reward_number": 1
+          }
+        ]
+      },
+      {
+        "product_id": 301405,
+        "name_key": "sleeve_50",
+        "price_crystal": 400,
+        "price_rupy": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 7,
+            "reward_detail_id": 1074210200,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 6,
+            "reward_detail_id": 1074210200,
+            "reward_number": 1
+          }
+        ]
+      },
+      {
+        "product_id": 301406,
+        "name_key": "sleeve_51",
+        "price_crystal": 400,
+        "price_rupy": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 7,
+            "reward_detail_id": 1073310100,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 6,
+            "reward_detail_id": 1073310100,
+            "reward_number": 1
+          }
+        ]
+      },
+      {
+        "product_id": 301407,
+        "name_key": "sleeve_52",
+        "price_crystal": 400,
+        "price_rupy": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 7,
+            "reward_detail_id": 1080110200,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 6,
+            "reward_detail_id": 1080110200,
+            "reward_number": 1
+          }
+        ]
+      },
+      {
+        "product_id": 301408,
+        "name_key": "sleeve_53",
+        "price_crystal": 400,
+        "price_rupy": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 7,
+            "reward_detail_id": 1088310100,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 6,
+            "reward_detail_id": 1088310100,
+            "reward_number": 1
+          }
+        ]
+      },
+      {
+        "product_id": 301409,
+        "name_key": "sleeve_54",
+        "price_crystal": 400,
+        "price_rupy": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 7,
+            "reward_detail_id": 1085310200,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 6,
+            "reward_detail_id": 1085310200,
+            "reward_number": 1
+          }
+        ]
+      },
+      {
+        "product_id": 301410,
+        "name_key": "sleeve_55",
+        "price_crystal": 400,
+        "price_rupy": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 7,
+            "reward_detail_id": 1087320100,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 6,
+            "reward_detail_id": 1087320100,
+            "reward_number": 1
+          }
+        ]
+      },
+      {
+        "product_id": 301411,
+        "name_key": "sleeve_56",
+        "price_crystal": 400,
+        "price_rupy": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 7,
+            "reward_detail_id": 1086210100,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 6,
+            "reward_detail_id": 1086210100,
+            "reward_number": 1
+          }
+        ]
+      },
+      {
+        "product_id": 301412,
+        "name_key": "sleeve_57",
+        "price_crystal": 400,
+        "price_rupy": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 7,
+            "reward_detail_id": 1082210300,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 6,
+            "reward_detail_id": 1082210300,
+            "reward_number": 1
+          }
+        ]
+      },
+      {
+        "product_id": 301413,
+        "name_key": "sleeve_58",
+        "price_crystal": 400,
+        "price_rupy": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 7,
+            "reward_detail_id": 1098210200,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 6,
+            "reward_detail_id": 1098210200,
+            "reward_number": 1
+          }
+        ]
+      },
+      {
+        "product_id": 301414,
+        "name_key": "sleeve_59",
+        "price_crystal": 400,
+        "price_rupy": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 7,
+            "reward_detail_id": 1091210100,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 6,
+            "reward_detail_id": 1091210100,
+            "reward_number": 1
+          }
+        ]
+      },
+      {
+        "product_id": 301415,
+        "name_key": "sleeve_60",
+        "price_crystal": 400,
+        "price_rupy": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 7,
+            "reward_detail_id": 1097310100,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 6,
+            "reward_detail_id": 1097310100,
+            "reward_number": 1
+          }
+        ]
+      },
+      {
+        "product_id": 301416,
+        "name_key": "sleeve_61",
+        "price_crystal": 400,
+        "price_rupy": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 7,
+            "reward_detail_id": 900231040,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 7,
+            "reward_detail_id": 900231050,
+            "reward_number": 1
+          },
+          {
+            "order_index": 2,
+            "reward_type": 7,
+            "reward_detail_id": 900231060,
+            "reward_number": 1
+          },
+          {
+            "order_index": 3,
+            "reward_type": 7,
+            "reward_detail_id": 900231070,
+            "reward_number": 1
+          },
+          {
+            "order_index": 4,
+            "reward_type": 6,
+            "reward_detail_id": 1092340100,
+            "reward_number": 1
+          }
+        ]
+      },
+      {
+        "product_id": 301417,
+        "name_key": "sleeve_62",
+        "price_crystal": 400,
+        "price_rupy": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 7,
+            "reward_detail_id": 1094310300,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 6,
+            "reward_detail_id": 1094310300,
+            "reward_number": 1
+          }
+        ]
+      },
+      {
+        "product_id": 301418,
+        "name_key": "sleeve_63",
+        "price_crystal": 400,
+        "price_rupy": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 7,
+            "reward_detail_id": 1093210200,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 6,
+            "reward_detail_id": 1093210200,
+            "reward_number": 1
+          }
+        ]
+      },
+      {
+        "product_id": 301419,
+        "name_key": "sleeve_64",
+        "price_crystal": 400,
+        "price_rupy": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 7,
+            "reward_detail_id": 1106110200,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 6,
+            "reward_detail_id": 1106110200,
+            "reward_number": 1
+          }
+        ]
+      },
+      {
+        "product_id": 301420,
+        "name_key": "sleeve_65",
+        "price_crystal": 400,
+        "price_rupy": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 7,
+            "reward_detail_id": 1101210200,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 6,
+            "reward_detail_id": 1101210200,
+            "reward_number": 1
+          }
+        ]
+      },
+      {
+        "product_id": 301421,
+        "name_key": "sleeve_66",
+        "price_crystal": 400,
+        "price_rupy": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 7,
+            "reward_detail_id": 1103110100,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 6,
+            "reward_detail_id": 1103110100,
+            "reward_number": 1
+          }
+        ]
+      },
+      {
+        "product_id": 301422,
+        "name_key": "sleeve_67",
+        "price_crystal": 400,
+        "price_rupy": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 7,
+            "reward_detail_id": 1107310100,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 6,
+            "reward_detail_id": 1107310100,
+            "reward_number": 1
+          }
+        ]
+      },
+      {
+        "product_id": 301423,
+        "name_key": "sleeve_68",
+        "price_crystal": 400,
+        "price_rupy": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 7,
+            "reward_detail_id": 1102310200,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 6,
+            "reward_detail_id": 1102310200,
+            "reward_number": 1
+          }
+        ]
+      },
+      {
+        "product_id": 301424,
+        "name_key": "sleeve_69",
+        "price_crystal": 400,
+        "price_rupy": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 7,
+            "reward_detail_id": 1105310100,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 6,
+            "reward_detail_id": 1105310100,
+            "reward_number": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "series_id": 3015,
+    "is_new": false,
+    "products": [
+      {
+        "product_id": 301425,
+        "name_key": "sleeve_70",
+        "price_crystal": 400,
+        "price_rupy": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 7,
+            "reward_detail_id": 1118310100,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 6,
+            "reward_detail_id": 1118310100,
+            "reward_number": 1
+          }
+        ]
+      },
+      {
+        "product_id": 301426,
+        "name_key": "sleeve_71",
+        "price_crystal": 400,
+        "price_rupy": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 7,
+            "reward_detail_id": 1110310100,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 6,
+            "reward_detail_id": 1110310100,
+            "reward_number": 1
+          }
+        ]
+      },
+      {
+        "product_id": 301427,
+        "name_key": "sleeve_72",
+        "price_crystal": 400,
+        "price_rupy": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 7,
+            "reward_detail_id": 1117210200,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 6,
+            "reward_detail_id": 1117210200,
+            "reward_number": 1
+          }
+        ]
+      },
+      {
+        "product_id": 301428,
+        "name_key": "sleeve_73",
+        "price_crystal": 400,
+        "price_rupy": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 7,
+            "reward_detail_id": 1116110300,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 6,
+            "reward_detail_id": 1116110300,
+            "reward_number": 1
+          }
+        ]
+      },
+      {
+        "product_id": 301429,
+        "name_key": "sleeve_74",
+        "price_crystal": 400,
+        "price_rupy": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 7,
+            "reward_detail_id": 1114110300,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 6,
+            "reward_detail_id": 1114110300,
+            "reward_number": 1
+          }
+        ]
+      },
+      {
+        "product_id": 301430,
+        "name_key": "sleeve_75",
+        "price_crystal": 400,
+        "price_rupy": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 7,
+            "reward_detail_id": 1113310200,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 6,
+            "reward_detail_id": 1113310200,
+            "reward_number": 1
+          }
+        ]
+      },
+      {
+        "product_id": 301431,
+        "name_key": "sleeve_79",
+        "price_crystal": 400,
+        "price_rupy": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 7,
+            "reward_detail_id": 1124110300,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 6,
+            "reward_detail_id": 1124110300,
+            "reward_number": 1
+          }
+        ]
+      },
+      {
+        "product_id": 301432,
+        "name_key": "sleeve_80",
+        "price_crystal": 400,
+        "price_rupy": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 7,
+            "reward_detail_id": 1125210100,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 6,
+            "reward_detail_id": 1125210100,
+            "reward_number": 1
+          }
+        ]
+      },
+      {
+        "product_id": 301433,
+        "name_key": "sleeve_81",
+        "price_crystal": 400,
+        "price_rupy": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 7,
+            "reward_detail_id": 1122310200,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 6,
+            "reward_detail_id": 1122310200,
+            "reward_number": 1
+          }
+        ]
+      },
+      {
+        "product_id": 301434,
+        "name_key": "sleeve_82",
+        "price_crystal": 400,
+        "price_rupy": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 7,
+            "reward_detail_id": 1128310100,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 6,
+            "reward_detail_id": 1128310100,
+            "reward_number": 1
+          }
+        ]
+      },
+      {
+        "product_id": 301435,
+        "name_key": "sleeve_83",
+        "price_crystal": 400,
+        "price_rupy": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 7,
+            "reward_detail_id": 1120310200,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 6,
+            "reward_detail_id": 1120310200,
+            "reward_number": 1
+          }
+        ]
+      },
+      {
+        "product_id": 301436,
+        "name_key": "sleeve_84",
+        "price_crystal": 400,
+        "price_rupy": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 7,
+            "reward_detail_id": 1121310200,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 6,
+            "reward_detail_id": 1121310200,
+            "reward_number": 1
+          }
+        ]
+      },
+      {
+        "product_id": 301501,
+        "name_key": "sleeve_85",
+        "price_crystal": 400,
+        "price_rupy": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 7,
+            "reward_detail_id": 1138110200,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 6,
+            "reward_detail_id": 1138110200,
+            "reward_number": 1
+          }
+        ]
+      },
+      {
+        "product_id": 301502,
+        "name_key": "sleeve_86",
+        "price_crystal": 400,
+        "price_rupy": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 7,
+            "reward_detail_id": 1130310100,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 6,
+            "reward_detail_id": 1130310100,
+            "reward_number": 1
+          }
+        ]
+      },
+      {
+        "product_id": 301503,
+        "name_key": "sleeve_87",
+        "price_crystal": 400,
+        "price_rupy": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 7,
+            "reward_detail_id": 1137110100,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 6,
+            "reward_detail_id": 1137110100,
+            "reward_number": 1
+          }
+        ]
+      },
+      {
+        "product_id": 301504,
+        "name_key": "sleeve_88",
+        "price_crystal": 400,
+        "price_rupy": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 7,
+            "reward_detail_id": 1136310100,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 6,
+            "reward_detail_id": 1136310100,
+            "reward_number": 1
+          }
+        ]
+      },
+      {
+        "product_id": 301505,
+        "name_key": "sleeve_89",
+        "price_crystal": 400,
+        "price_rupy": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 7,
+            "reward_detail_id": 1131310100,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 6,
+            "reward_detail_id": 1131310100,
+            "reward_number": 1
+          }
+        ]
+      },
+      {
+        "product_id": 301506,
+        "name_key": "sleeve_90",
+        "price_crystal": 400,
+        "price_rupy": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 7,
+            "reward_detail_id": 1133310100,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 6,
+            "reward_detail_id": 1133310100,
+            "reward_number": 1
+          }
+        ]
+      },
+      {
+        "product_id": 301507,
+        "name_key": "sleeve_91",
+        "price_crystal": 400,
+        "price_rupy": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 7,
+            "reward_detail_id": 900711140,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 6,
+            "reward_detail_id": 900711140,
+            "reward_number": 1
+          }
+        ]
+      },
+      {
+        "product_id": 301508,
+        "name_key": "sleeve_92",
+        "price_crystal": 400,
+        "price_rupy": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 7,
+            "reward_detail_id": 1142310100,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 6,
+            "reward_detail_id": 1142310100,
+            "reward_number": 1
+          }
+        ]
+      },
+      {
+        "product_id": 301509,
+        "name_key": "sleeve_93",
+        "price_crystal": 400,
+        "price_rupy": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 7,
+            "reward_detail_id": 1143140100,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 6,
+            "reward_detail_id": 1143140100,
+            "reward_number": 1
+          }
+        ]
+      },
+      {
+        "product_id": 301510,
+        "name_key": "sleeve_94",
+        "price_crystal": 400,
+        "price_rupy": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 7,
+            "reward_detail_id": 1144340100,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 6,
+            "reward_detail_id": 1144340100,
+            "reward_number": 1
+          }
+        ]
+      },
+      {
+        "product_id": 301511,
+        "name_key": "sleeve_95",
+        "price_crystal": 400,
+        "price_rupy": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 7,
+            "reward_detail_id": 1140340100,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 6,
+            "reward_detail_id": 1140340100,
+            "reward_number": 1
+          }
+        ]
+      },
+      {
+        "product_id": 301512,
+        "name_key": "sleeve_96",
+        "price_crystal": 400,
+        "price_rupy": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 7,
+            "reward_detail_id": 1148310200,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 6,
+            "reward_detail_id": 1148310200,
+            "reward_number": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "series_id": 3016,
+    "is_new": false,
+    "products": [
+      {
+        "product_id": 301601,
+        "name_key": "sleeve_107",
+        "price_crystal": 400,
+        "price_rupy": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 7,
+            "reward_detail_id": 1152310200,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 6,
+            "reward_detail_id": 1152310200,
+            "reward_number": 1
+          }
+        ]
+      },
+      {
+        "product_id": 301602,
+        "name_key": "sleeve_108",
+        "price_crystal": 400,
+        "price_rupy": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 7,
+            "reward_detail_id": 1157310200,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 6,
+            "reward_detail_id": 1157310200,
+            "reward_number": 1
+          }
+        ]
+      },
+      {
+        "product_id": 301603,
+        "name_key": "sleeve_109",
+        "price_crystal": 400,
+        "price_rupy": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 7,
+            "reward_detail_id": 1155310200,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 6,
+            "reward_detail_id": 1155310200,
+            "reward_number": 1
+          }
+        ]
+      },
+      {
+        "product_id": 301604,
+        "name_key": "sleeve_110",
+        "price_crystal": 400,
+        "price_rupy": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 7,
+            "reward_detail_id": 1156130100,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 6,
+            "reward_detail_id": 1156130100,
+            "reward_number": 1
+          }
+        ]
+      },
+      {
+        "product_id": 301605,
+        "name_key": "sleeve_111",
+        "price_crystal": 400,
+        "price_rupy": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 7,
+            "reward_detail_id": 1150310200,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 6,
+            "reward_detail_id": 1150310200,
+            "reward_number": 1
+          }
+        ]
+      },
+      {
+        "product_id": 301606,
+        "name_key": "sleeve_112",
+        "price_crystal": 400,
+        "price_rupy": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 7,
+            "reward_detail_id": 1153140100,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 6,
+            "reward_detail_id": 1153140100,
+            "reward_number": 1
+          }
+        ]
+      },
+      {
+        "product_id": 301607,
+        "name_key": "sleeve_113",
+        "price_crystal": 400,
+        "price_rupy": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 7,
+            "reward_detail_id": 1164110200,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 6,
+            "reward_detail_id": 1164110200,
+            "reward_number": 1
+          }
+        ]
+      },
+      {
+        "product_id": 301608,
+        "name_key": "sleeve_114",
+        "price_crystal": 400,
+        "price_rupy": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 7,
+            "reward_detail_id": 1160310100,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 6,
+            "reward_detail_id": 1160310100,
+            "reward_number": 1
+          }
+        ]
+      },
+      {
+        "product_id": 301609,
+        "name_key": "sleeve_115",
+        "price_crystal": 400,
+        "price_rupy": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 7,
+            "reward_detail_id": 1161110300,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 6,
+            "reward_detail_id": 1161110300,
+            "reward_number": 1
+          }
+        ]
+      },
+      {
+        "product_id": 301610,
+        "name_key": "sleeve_116",
+        "price_crystal": 400,
+        "price_rupy": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 7,
+            "reward_detail_id": 1165310100,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 6,
+            "reward_detail_id": 1165310100,
+            "reward_number": 1
+          }
+        ]
+      },
+      {
+        "product_id": 301611,
+        "name_key": "sleeve_117",
+        "price_crystal": 400,
+        "price_rupy": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 7,
+            "reward_detail_id": 1167310100,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 6,
+            "reward_detail_id": 1167310100,
+            "reward_number": 1
+          }
+        ]
+      },
+      {
+        "product_id": 301612,
+        "name_key": "sleeve_118",
+        "price_crystal": 400,
+        "price_rupy": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 7,
+            "reward_detail_id": 1166310200,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 6,
+            "reward_detail_id": 1166310200,
+            "reward_number": 1
+          }
+        ]
+      },
+      {
+        "product_id": 301613,
+        "name_key": "sleeve_132",
+        "price_crystal": 400,
+        "price_rupy": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 7,
+            "reward_detail_id": 1172210200,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 6,
+            "reward_detail_id": 1172210200,
+            "reward_number": 1
+          }
+        ]
+      },
+      {
+        "product_id": 301614,
+        "name_key": "sleeve_133",
+        "price_crystal": 400,
+        "price_rupy": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 7,
+            "reward_detail_id": 1177310100,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 6,
+            "reward_detail_id": 1177310100,
+            "reward_number": 1
+          }
+        ]
+      },
+      {
+        "product_id": 301615,
+        "name_key": "sleeve_134",
+        "price_crystal": 400,
+        "price_rupy": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 7,
+            "reward_detail_id": 1174210200,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 6,
+            "reward_detail_id": 1174210200,
+            "reward_number": 1
+          }
+        ]
+      },
+      {
+        "product_id": 301616,
+        "name_key": "sleeve_135",
+        "price_crystal": 400,
+        "price_rupy": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 7,
+            "reward_detail_id": 1176310100,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 6,
+            "reward_detail_id": 1176310100,
+            "reward_number": 1
+          }
+        ]
+      },
+      {
+        "product_id": 301617,
+        "name_key": "sleeve_136",
+        "price_crystal": 400,
+        "price_rupy": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 7,
+            "reward_detail_id": 1175340100,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 6,
+            "reward_detail_id": 1175340100,
+            "reward_number": 1
+          }
+        ]
+      },
+      {
+        "product_id": 301618,
+        "name_key": "sleeve_137",
+        "price_crystal": 400,
+        "price_rupy": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 7,
+            "reward_detail_id": 1170310100,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 6,
+            "reward_detail_id": 1170310100,
+            "reward_number": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "series_id": 3017,
+    "is_new": false,
+    "products": [
+      {
+        "product_id": 301701,
+        "name_key": "sleeve_120",
+        "price_crystal": 0,
+        "price_rupy": 0,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 7,
+            "reward_detail_id": 400003202,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 6,
+            "reward_detail_id": 3057002,
+            "reward_number": 1
+          }
+        ]
+      },
+      {
+        "product_id": 301702,
+        "name_key": "sleeve_121",
+        "price_crystal": 0,
+        "price_rupy": 0,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 7,
+            "reward_detail_id": 400003203,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 6,
+            "reward_detail_id": 3057003,
+            "reward_number": 1
+          }
+        ]
+      },
+      {
+        "product_id": 301703,
+        "name_key": "sleeve_122",
+        "price_crystal": 0,
+        "price_rupy": 0,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 7,
+            "reward_detail_id": 400003204,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 6,
+            "reward_detail_id": 3057004,
+            "reward_number": 1
+          }
+        ]
+      },
+      {
+        "product_id": 301704,
+        "name_key": "sleeve_123",
+        "price_crystal": 0,
+        "price_rupy": 0,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 7,
+            "reward_detail_id": 400003205,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 6,
+            "reward_detail_id": 3057005,
+            "reward_number": 1
+          }
+        ]
+      },
+      {
+        "product_id": 301705,
+        "name_key": "sleeve_124",
+        "price_crystal": 0,
+        "price_rupy": 0,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 7,
+            "reward_detail_id": 400003206,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 6,
+            "reward_detail_id": 3057006,
+            "reward_number": 1
+          }
+        ]
+      },
+      {
+        "product_id": 301706,
+        "name_key": "sleeve_125",
+        "price_crystal": 0,
+        "price_rupy": 0,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 7,
+            "reward_detail_id": 400003207,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 6,
+            "reward_detail_id": 3057007,
+            "reward_number": 1
+          }
+        ]
+      },
+      {
+        "product_id": 301707,
+        "name_key": "sleeve_126",
+        "price_crystal": 0,
+        "price_rupy": 0,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 7,
+            "reward_detail_id": 400003208,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 6,
+            "reward_detail_id": 3057008,
+            "reward_number": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "series_id": 3019,
+    "is_new": false,
+    "products": [
+      {
+        "product_id": 301901,
+        "name_key": "sleeve_138",
+        "price_crystal": 400,
+        "price_rupy": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 7,
+            "reward_detail_id": 1183310100,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 6,
+            "reward_detail_id": 1183310100,
+            "reward_number": 1
+          }
+        ]
+      },
+      {
+        "product_id": 301902,
+        "name_key": "sleeve_139",
+        "price_crystal": 400,
+        "price_rupy": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 7,
+            "reward_detail_id": 1187320100,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 6,
+            "reward_detail_id": 1187320100,
+            "reward_number": 1
+          }
+        ]
+      },
+      {
+        "product_id": 301903,
+        "name_key": "sleeve_140",
+        "price_crystal": 400,
+        "price_rupy": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 7,
+            "reward_detail_id": 1186310200,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 6,
+            "reward_detail_id": 1186310200,
+            "reward_number": 1
+          }
+        ]
+      },
+      {
+        "product_id": 301904,
+        "name_key": "sleeve_141",
+        "price_crystal": 400,
+        "price_rupy": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 7,
+            "reward_detail_id": 1181310200,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 6,
+            "reward_detail_id": 1181310200,
+            "reward_number": 1
+          }
+        ]
+      },
+      {
+        "product_id": 301905,
+        "name_key": "sleeve_142",
+        "price_crystal": 400,
+        "price_rupy": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 7,
+            "reward_detail_id": 1188310100,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 6,
+            "reward_detail_id": 1188310100,
+            "reward_number": 1
+          }
+        ]
+      },
+      {
+        "product_id": 301906,
+        "name_key": "sleeve_143",
+        "price_crystal": 400,
+        "price_rupy": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 7,
+            "reward_detail_id": 1184340100,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 6,
+            "reward_detail_id": 1184340100,
+            "reward_number": 1
+          }
+        ]
+      },
+      {
+        "product_id": 301907,
+        "name_key": "sleeve_144",
+        "price_crystal": 400,
+        "price_rupy": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 7,
+            "reward_detail_id": 1190310100,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 6,
+            "reward_detail_id": 1190310100,
+            "reward_number": 1
+          }
+        ]
+      },
+      {
+        "product_id": 301908,
+        "name_key": "sleeve_145",
+        "price_crystal": 400,
+        "price_rupy": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 7,
+            "reward_detail_id": 1194310100,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 6,
+            "reward_detail_id": 1194310100,
+            "reward_number": 1
+          }
+        ]
+      },
+      {
+        "product_id": 301909,
+        "name_key": "sleeve_146",
+        "price_crystal": 400,
+        "price_rupy": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 7,
+            "reward_detail_id": 1197210200,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 6,
+            "reward_detail_id": 1197210200,
+            "reward_number": 1
+          }
+        ]
+      },
+      {
+        "product_id": 301910,
+        "name_key": "sleeve_147",
+        "price_crystal": 400,
+        "price_rupy": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 7,
+            "reward_detail_id": 1191310100,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 6,
+            "reward_detail_id": 1191310100,
+            "reward_number": 1
+          }
+        ]
+      },
+      {
+        "product_id": 301911,
+        "name_key": "sleeve_148",
+        "price_crystal": 400,
+        "price_rupy": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 7,
+            "reward_detail_id": 1196310300,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 6,
+            "reward_detail_id": 1196310300,
+            "reward_number": 1
+          }
+        ]
+      },
+      {
+        "product_id": 301912,
+        "name_key": "sleeve_149",
+        "price_crystal": 400,
+        "price_rupy": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 7,
+            "reward_detail_id": 1195310300,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 6,
+            "reward_detail_id": 1195310300,
+            "reward_number": 1
+          }
+        ]
+      },
+      {
+        "product_id": 301913,
+        "name_key": "sleeve_150",
+        "price_crystal": 500,
+        "price_rupy": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 7,
+            "reward_detail_id": 713424010,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 6,
+            "reward_detail_id": 713424010,
+            "reward_number": 1
+          },
+          {
+            "order_index": 2,
+            "reward_type": 5,
+            "reward_detail_id": 713424010,
+            "reward_number": 3
+          },
+          {
+            "order_index": 3,
+            "reward_type": 5,
+            "reward_detail_id": 713424011,
+            "reward_number": 3
+          }
+        ]
+      },
+      {
+        "product_id": 301914,
+        "name_key": "sleeve_151",
+        "price_crystal": 500,
+        "price_rupy": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 7,
+            "reward_detail_id": 713531010,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 6,
+            "reward_detail_id": 713531010,
+            "reward_number": 1
+          },
+          {
+            "order_index": 2,
+            "reward_type": 5,
+            "reward_detail_id": 713531010,
+            "reward_number": 3
+          },
+          {
+            "order_index": 3,
+            "reward_type": 5,
+            "reward_detail_id": 713531011,
+            "reward_number": 3
+          }
+        ]
+      },
+      {
+        "product_id": 301915,
+        "name_key": "sleeve_152",
+        "price_crystal": 400,
+        "price_rupy": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 7,
+            "reward_detail_id": 1200310100,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 6,
+            "reward_detail_id": 1200310100,
+            "reward_number": 1
+          }
+        ]
+      },
+      {
+        "product_id": 301916,
+        "name_key": "sleeve_153",
+        "price_crystal": 400,
+        "price_rupy": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 7,
+            "reward_detail_id": 1207330100,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 6,
+            "reward_detail_id": 1207330100,
+            "reward_number": 1
+          }
+        ]
+      },
+      {
+        "product_id": 301917,
+        "name_key": "sleeve_154",
+        "price_crystal": 400,
+        "price_rupy": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 7,
+            "reward_detail_id": 1208310100,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 6,
+            "reward_detail_id": 1208310100,
+            "reward_number": 1
+          }
+        ]
+      },
+      {
+        "product_id": 301918,
+        "name_key": "sleeve_155",
+        "price_crystal": 400,
+        "price_rupy": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 7,
+            "reward_detail_id": 1205310100,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 6,
+            "reward_detail_id": 1205310100,
+            "reward_number": 1
+          }
+        ]
+      },
+      {
+        "product_id": 301919,
+        "name_key": "sleeve_156",
+        "price_crystal": 400,
+        "price_rupy": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 7,
+            "reward_detail_id": 1204310100,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 6,
+            "reward_detail_id": 1204310100,
+            "reward_number": 1
+          }
+        ]
+      },
+      {
+        "product_id": 301920,
+        "name_key": "sleeve_157",
+        "price_crystal": 400,
+        "price_rupy": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 7,
+            "reward_detail_id": 1202310200,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 6,
+            "reward_detail_id": 1202310200,
+            "reward_number": 1
+          }
+        ]
+      },
+      {
+        "product_id": 301921,
+        "name_key": "sleeve_158",
+        "price_crystal": 500,
+        "price_rupy": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 7,
+            "reward_detail_id": 715314010,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 6,
+            "reward_detail_id": 715314010,
+            "reward_number": 1
+          },
+          {
+            "order_index": 2,
+            "reward_type": 5,
+            "reward_detail_id": 715314010,
+            "reward_number": 3
+          },
+          {
+            "order_index": 3,
+            "reward_type": 5,
+            "reward_detail_id": 715314011,
+            "reward_number": 3
+          }
+        ]
+      },
+      {
+        "product_id": 301922,
+        "name_key": "sleeve_159",
+        "price_crystal": 500,
+        "price_rupy": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 7,
+            "reward_detail_id": 715011010,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 6,
+            "reward_detail_id": 715011010,
+            "reward_number": 1
+          },
+          {
+            "order_index": 2,
+            "reward_type": 5,
+            "reward_detail_id": 715011010,
+            "reward_number": 3
+          },
+          {
+            "order_index": 3,
+            "reward_type": 5,
+            "reward_detail_id": 715011011,
+            "reward_number": 3
+          }
+        ]
+      },
+      {
+        "product_id": 301923,
+        "name_key": "sleeve_160",
+        "price_crystal": 400,
+        "price_rupy": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 7,
+            "reward_detail_id": 1215240150,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 7,
+            "reward_detail_id": 1215240160,
+            "reward_number": 1
+          },
+          {
+            "order_index": 2,
+            "reward_type": 6,
+            "reward_detail_id": 1215240100,
+            "reward_number": 1
+          }
+        ]
+      },
+      {
+        "product_id": 301924,
+        "name_key": "sleeve_161",
+        "price_crystal": 400,
+        "price_rupy": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 7,
+            "reward_detail_id": 1218240100,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 6,
+            "reward_detail_id": 1218240100,
+            "reward_number": 1
+          }
+        ]
+      },
+      {
+        "product_id": 301925,
+        "name_key": "sleeve_162",
+        "price_crystal": 400,
+        "price_rupy": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 7,
+            "reward_detail_id": 1214240100,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 6,
+            "reward_detail_id": 1214240100,
+            "reward_number": 1
+          }
+        ]
+      },
+      {
+        "product_id": 301926,
+        "name_key": "sleeve_163",
+        "price_crystal": 400,
+        "price_rupy": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 7,
+            "reward_detail_id": 1215310100,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 6,
+            "reward_detail_id": 1215310100,
+            "reward_number": 1
+          }
+        ]
+      },
+      {
+        "product_id": 301927,
+        "name_key": "sleeve_164",
+        "price_crystal": 400,
+        "price_rupy": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 7,
+            "reward_detail_id": 900242020,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 6,
+            "reward_detail_id": 900242020,
+            "reward_number": 1
+          }
+        ]
+      },
+      {
+        "product_id": 301928,
+        "name_key": "sleeve_165",
+        "price_crystal": 400,
+        "price_rupy": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 7,
+            "reward_detail_id": 900644060,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 6,
+            "reward_detail_id": 900644060,
+            "reward_number": 1
+          }
+        ]
+      },
+      {
+        "product_id": 301929,
+        "name_key": "sleeve_166",
+        "price_crystal": 500,
+        "price_rupy": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 7,
+            "reward_detail_id": 715031010,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 6,
+            "reward_detail_id": 715031010,
+            "reward_number": 1
+          },
+          {
+            "order_index": 2,
+            "reward_type": 5,
+            "reward_detail_id": 715031010,
+            "reward_number": 3
+          },
+          {
+            "order_index": 3,
+            "reward_type": 5,
+            "reward_detail_id": 715031011,
+            "reward_number": 3
+          }
+        ]
+      },
+      {
+        "product_id": 301930,
+        "name_key": "sleeve_167",
+        "price_crystal": 500,
+        "price_rupy": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 7,
+            "reward_detail_id": 715611010,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 6,
+            "reward_detail_id": 715611010,
+            "reward_number": 1
+          },
+          {
+            "order_index": 2,
+            "reward_type": 5,
+            "reward_detail_id": 715611010,
+            "reward_number": 3
+          },
+          {
+            "order_index": 3,
+            "reward_type": 5,
+            "reward_detail_id": 715611011,
+            "reward_number": 3
+          }
+        ]
+      },
+      {
+        "product_id": 301931,
+        "name_key": "sleeve_168",
+        "price_crystal": 400,
+        "price_rupy": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 7,
+            "reward_detail_id": 1225310100,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 6,
+            "reward_detail_id": 1225310100,
+            "reward_number": 1
+          }
+        ]
+      },
+      {
+        "product_id": 301932,
+        "name_key": "sleeve_169",
+        "price_crystal": 400,
+        "price_rupy": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 7,
+            "reward_detail_id": 1222310100,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 6,
+            "reward_detail_id": 1222310100,
+            "reward_number": 1
+          }
+        ]
+      },
+      {
+        "product_id": 301933,
+        "name_key": "sleeve_170",
+        "price_crystal": 400,
+        "price_rupy": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 7,
+            "reward_detail_id": 1224310100,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 6,
+            "reward_detail_id": 1224310100,
+            "reward_number": 1
+          }
+        ]
+      },
+      {
+        "product_id": 301934,
+        "name_key": "sleeve_171",
+        "price_crystal": 400,
+        "price_rupy": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 7,
+            "reward_detail_id": 1227310100,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 6,
+            "reward_detail_id": 1227310100,
+            "reward_number": 1
+          }
+        ]
+      },
+      {
+        "product_id": 301935,
+        "name_key": "sleeve_172",
+        "price_crystal": 400,
+        "price_rupy": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 7,
+            "reward_detail_id": 1220310200,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 6,
+            "reward_detail_id": 1220310200,
+            "reward_number": 1
+          }
+        ]
+      },
+      {
+        "product_id": 301936,
+        "name_key": "sleeve_173",
+        "price_crystal": 400,
+        "price_rupy": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 7,
+            "reward_detail_id": 1226310200,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 6,
+            "reward_detail_id": 1226310200,
+            "reward_number": 1
+          }
+        ]
+      },
+      {
+        "product_id": 301937,
+        "name_key": "sleeve_174",
+        "price_crystal": 500,
+        "price_rupy": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 7,
+            "reward_detail_id": 715721010,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 6,
+            "reward_detail_id": 715721010,
+            "reward_number": 1
+          },
+          {
+            "order_index": 2,
+            "reward_type": 5,
+            "reward_detail_id": 715721010,
+            "reward_number": 3
+          },
+          {
+            "order_index": 3,
+            "reward_type": 5,
+            "reward_detail_id": 715721011,
+            "reward_number": 3
+          }
+        ]
+      },
+      {
+        "product_id": 301938,
+        "name_key": "sleeve_175",
+        "price_crystal": 500,
+        "price_rupy": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 7,
+            "reward_detail_id": 715221010,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 6,
+            "reward_detail_id": 715221010,
+            "reward_number": 1
+          },
+          {
+            "order_index": 2,
+            "reward_type": 5,
+            "reward_detail_id": 715221010,
+            "reward_number": 3
+          },
+          {
+            "order_index": 3,
+            "reward_type": 5,
+            "reward_detail_id": 715221011,
+            "reward_number": 3
+          }
+        ]
+      },
+      {
+        "product_id": 301939,
+        "name_key": "sleeve_176",
+        "price_crystal": 400,
+        "price_rupy": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 7,
+            "reward_detail_id": 1231240100,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 6,
+            "reward_detail_id": 1231240100,
+            "reward_number": 1
+          }
+        ]
+      },
+      {
+        "product_id": 301940,
+        "name_key": "sleeve_177",
+        "price_crystal": 400,
+        "price_rupy": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 7,
+            "reward_detail_id": 1236240100,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 6,
+            "reward_detail_id": 1236240100,
+            "reward_number": 1
+          }
+        ]
+      },
+      {
+        "product_id": 301941,
+        "name_key": "sleeve_178",
+        "price_crystal": 400,
+        "price_rupy": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 7,
+            "reward_detail_id": 1230340100,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 6,
+            "reward_detail_id": 1230340100,
+            "reward_number": 1
+          }
+        ]
+      },
+      {
+        "product_id": 301942,
+        "name_key": "sleeve_179",
+        "price_crystal": 400,
+        "price_rupy": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 7,
+            "reward_detail_id": 1232340100,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 6,
+            "reward_detail_id": 1232340100,
+            "reward_number": 1
+          }
+        ]
+      },
+      {
+        "product_id": 301943,
+        "name_key": "sleeve_180",
+        "price_crystal": 400,
+        "price_rupy": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 7,
+            "reward_detail_id": 1233340100,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 6,
+            "reward_detail_id": 1233340100,
+            "reward_number": 1
+          }
+        ]
+      },
+      {
+        "product_id": 301944,
+        "name_key": "sleeve_181",
+        "price_crystal": 400,
+        "price_rupy": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 7,
+            "reward_detail_id": 1238340100,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 6,
+            "reward_detail_id": 1238340100,
+            "reward_number": 1
+          }
+        ]
+      },
+      {
+        "product_id": 301945,
+        "name_key": "sleeve_182",
+        "price_crystal": 500,
+        "price_rupy": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 7,
+            "reward_detail_id": 715031020,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 6,
+            "reward_detail_id": 715031020,
+            "reward_number": 1
+          },
+          {
+            "order_index": 2,
+            "reward_type": 5,
+            "reward_detail_id": 715031020,
+            "reward_number": 3
+          },
+          {
+            "order_index": 3,
+            "reward_type": 5,
+            "reward_detail_id": 715031021,
+            "reward_number": 3
+          }
+        ]
+      },
+      {
+        "product_id": 301946,
+        "name_key": "sleeve_183",
+        "price_crystal": 500,
+        "price_rupy": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 7,
+            "reward_detail_id": 715121010,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 6,
+            "reward_detail_id": 715121010,
+            "reward_number": 1
+          },
+          {
+            "order_index": 2,
+            "reward_type": 5,
+            "reward_detail_id": 715121010,
+            "reward_number": 3
+          },
+          {
+            "order_index": 3,
+            "reward_type": 5,
+            "reward_detail_id": 715121011,
+            "reward_number": 3
+          }
+        ]
+      },
+      {
+        "product_id": 301947,
+        "name_key": "sleeve_184",
+        "price_crystal": 400,
+        "price_rupy": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 7,
+            "reward_detail_id": 1241210100,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 6,
+            "reward_detail_id": 1241210100,
+            "reward_number": 1
+          }
+        ]
+      },
+      {
+        "product_id": 301948,
+        "name_key": "sleeve_185",
+        "price_crystal": 400,
+        "price_rupy": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 7,
+            "reward_detail_id": 1248340100,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 6,
+            "reward_detail_id": 1248340100,
+            "reward_number": 1
+          }
+        ]
+      },
+      {
+        "product_id": 301949,
+        "name_key": "sleeve_186",
+        "price_crystal": 400,
+        "price_rupy": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 7,
+            "reward_detail_id": 1246210100,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 6,
+            "reward_detail_id": 1246210100,
+            "reward_number": 1
+          }
+        ]
+      },
+      {
+        "product_id": 301950,
+        "name_key": "sleeve_187",
+        "price_crystal": 400,
+        "price_rupy": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 7,
+            "reward_detail_id": 1242340100,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 6,
+            "reward_detail_id": 1242340100,
+            "reward_number": 1
+          }
+        ]
+      },
+      {
+        "product_id": 301951,
+        "name_key": "sleeve_188",
+        "price_crystal": 400,
+        "price_rupy": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 7,
+            "reward_detail_id": 1240310200,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 6,
+            "reward_detail_id": 1240310200,
+            "reward_number": 1
+          }
+        ]
+      },
+      {
+        "product_id": 301952,
+        "name_key": "sleeve_189",
+        "price_crystal": 400,
+        "price_rupy": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 7,
+            "reward_detail_id": 1243310200,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 6,
+            "reward_detail_id": 1243310200,
+            "reward_number": 1
+          }
+        ]
+      },
+      {
+        "product_id": 301953,
+        "name_key": "sleeve_190",
+        "price_crystal": 500,
+        "price_rupy": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 7,
+            "reward_detail_id": 717331010,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 6,
+            "reward_detail_id": 717331010,
+            "reward_number": 1
+          },
+          {
+            "order_index": 2,
+            "reward_type": 5,
+            "reward_detail_id": 717331010,
+            "reward_number": 3
+          },
+          {
+            "order_index": 3,
+            "reward_type": 5,
+            "reward_detail_id": 717331011,
+            "reward_number": 3
+          }
+        ]
+      },
+      {
+        "product_id": 301954,
+        "name_key": "sleeve_191",
+        "price_crystal": 500,
+        "price_rupy": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 7,
+            "reward_detail_id": 717811010,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 6,
+            "reward_detail_id": 717811010,
+            "reward_number": 1
+          },
+          {
+            "order_index": 2,
+            "reward_type": 5,
+            "reward_detail_id": 717811010,
+            "reward_number": 3
+          },
+          {
+            "order_index": 3,
+            "reward_type": 5,
+            "reward_detail_id": 717811011,
+            "reward_number": 3
+          }
+        ]
+      },
+      {
+        "product_id": 301955,
+        "name_key": "sleeve_192",
+        "price_crystal": 400,
+        "price_rupy": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 7,
+            "reward_detail_id": 1250210100,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 6,
+            "reward_detail_id": 1250210100,
+            "reward_number": 1
+          }
+        ]
+      },
+      {
+        "product_id": 301956,
+        "name_key": "sleeve_193",
+        "price_crystal": 400,
+        "price_rupy": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 7,
+            "reward_detail_id": 1252310100,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 6,
+            "reward_detail_id": 1252310100,
+            "reward_number": 1
+          }
+        ]
+      },
+      {
+        "product_id": 301957,
+        "name_key": "sleeve_194",
+        "price_crystal": 400,
+        "price_rupy": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 7,
+            "reward_detail_id": 1253210200,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 6,
+            "reward_detail_id": 1253210200,
+            "reward_number": 1
+          }
+        ]
+      },
+      {
+        "product_id": 301958,
+        "name_key": "sleeve_195",
+        "price_crystal": 400,
+        "price_rupy": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 7,
+            "reward_detail_id": 1257210200,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 6,
+            "reward_detail_id": 1257210200,
+            "reward_number": 1
+          }
+        ]
+      },
+      {
+        "product_id": 301959,
+        "name_key": "sleeve_196",
+        "price_crystal": 400,
+        "price_rupy": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 7,
+            "reward_detail_id": 1254310200,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 6,
+            "reward_detail_id": 1254310200,
+            "reward_number": 1
+          }
+        ]
+      },
+      {
+        "product_id": 301960,
+        "name_key": "sleeve_197",
+        "price_crystal": 400,
+        "price_rupy": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 7,
+            "reward_detail_id": 1250310200,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 6,
+            "reward_detail_id": 1250310200,
+            "reward_number": 1
+          }
+        ]
+      },
+      {
+        "product_id": 301961,
+        "name_key": "sleeve_198",
+        "price_crystal": 500,
+        "price_rupy": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 7,
+            "reward_detail_id": 717221020,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 6,
+            "reward_detail_id": 717221020,
+            "reward_number": 1
+          },
+          {
+            "order_index": 2,
+            "reward_type": 5,
+            "reward_detail_id": 717221020,
+            "reward_number": 3
+          },
+          {
+            "order_index": 3,
+            "reward_type": 5,
+            "reward_detail_id": 717221021,
+            "reward_number": 3
+          }
+        ]
+      },
+      {
+        "product_id": 301962,
+        "name_key": "sleeve_199",
+        "price_crystal": 500,
+        "price_rupy": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 7,
+            "reward_detail_id": 717131010,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 6,
+            "reward_detail_id": 717131010,
+            "reward_number": 1
+          },
+          {
+            "order_index": 2,
+            "reward_type": 5,
+            "reward_detail_id": 717131010,
+            "reward_number": 3
+          },
+          {
+            "order_index": 3,
+            "reward_type": 5,
+            "reward_detail_id": 717131011,
+            "reward_number": 3
+          }
+        ]
+      },
+      {
+        "product_id": 301963,
+        "name_key": "sleeve_200",
+        "price_crystal": 400,
+        "price_rupy": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 7,
+            "reward_detail_id": 1261310200,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 6,
+            "reward_detail_id": 1261310200,
+            "reward_number": 1
+          }
+        ]
+      },
+      {
+        "product_id": 301964,
+        "name_key": "sleeve_201",
+        "price_crystal": 400,
+        "price_rupy": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 7,
+            "reward_detail_id": 1267110100,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 6,
+            "reward_detail_id": 1267110100,
+            "reward_number": 1
+          }
+        ]
+      },
+      {
+        "product_id": 301965,
+        "name_key": "sleeve_202",
+        "price_crystal": 400,
+        "price_rupy": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 7,
+            "reward_detail_id": 1263210200,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 6,
+            "reward_detail_id": 1263210200,
+            "reward_number": 1
+          }
+        ]
+      },
+      {
+        "product_id": 301966,
+        "name_key": "sleeve_203",
+        "price_crystal": 400,
+        "price_rupy": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 7,
+            "reward_detail_id": 1265310200,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 6,
+            "reward_detail_id": 1265310200,
+            "reward_number": 1
+          }
+        ]
+      },
+      {
+        "product_id": 301967,
+        "name_key": "sleeve_204",
+        "price_crystal": 400,
+        "price_rupy": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 7,
+            "reward_detail_id": 1260310200,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 6,
+            "reward_detail_id": 1260310200,
+            "reward_number": 1
+          }
+        ]
+      },
+      {
+        "product_id": 301968,
+        "name_key": "sleeve_205",
+        "price_crystal": 400,
+        "price_rupy": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 7,
+            "reward_detail_id": 1268310200,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 6,
+            "reward_detail_id": 1268310200,
+            "reward_number": 1
+          }
+        ]
+      },
+      {
+        "product_id": 301969,
+        "name_key": "sleeve_206",
+        "price_crystal": 500,
+        "price_rupy": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 7,
+            "reward_detail_id": 717024010,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 6,
+            "reward_detail_id": 717024010,
+            "reward_number": 1
+          },
+          {
+            "order_index": 2,
+            "reward_type": 5,
+            "reward_detail_id": 717024010,
+            "reward_number": 3
+          },
+          {
+            "order_index": 3,
+            "reward_type": 5,
+            "reward_detail_id": 717024011,
+            "reward_number": 3
+          }
+        ]
+      },
+      {
+        "product_id": 301970,
+        "name_key": "sleeve_207",
+        "price_crystal": 500,
+        "price_rupy": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 7,
+            "reward_detail_id": 717811020,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 6,
+            "reward_detail_id": 717811020,
+            "reward_number": 1
+          },
+          {
+            "order_index": 2,
+            "reward_type": 5,
+            "reward_detail_id": 717811020,
+            "reward_number": 3
+          },
+          {
+            "order_index": 3,
+            "reward_type": 5,
+            "reward_detail_id": 717811021,
+            "reward_number": 3
+          }
+        ]
+      },
+      {
+        "product_id": 301971,
+        "name_key": "sleeve_208",
+        "price_crystal": 400,
+        "price_rupy": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 7,
+            "reward_detail_id": 1272210100,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 6,
+            "reward_detail_id": 1272210100,
+            "reward_number": 1
+          }
+        ]
+      },
+      {
+        "product_id": 301972,
+        "name_key": "sleeve_209",
+        "price_crystal": 400,
+        "price_rupy": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 7,
+            "reward_detail_id": 1277310100,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 6,
+            "reward_detail_id": 1277310100,
+            "reward_number": 1
+          }
+        ]
+      },
+      {
+        "product_id": 301973,
+        "name_key": "sleeve_210",
+        "price_crystal": 400,
+        "price_rupy": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 7,
+            "reward_detail_id": 1278110100,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 6,
+            "reward_detail_id": 1278110100,
+            "reward_number": 1
+          }
+        ]
+      },
+      {
+        "product_id": 301974,
+        "name_key": "sleeve_211",
+        "price_crystal": 400,
+        "price_rupy": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 7,
+            "reward_detail_id": 1274310200,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 6,
+            "reward_detail_id": 1274310200,
+            "reward_number": 1
+          }
+        ]
+      },
+      {
+        "product_id": 301975,
+        "name_key": "sleeve_212",
+        "price_crystal": 400,
+        "price_rupy": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 7,
+            "reward_detail_id": 1270340150,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 7,
+            "reward_detail_id": 1270340160,
+            "reward_number": 1
+          },
+          {
+            "order_index": 2,
+            "reward_type": 6,
+            "reward_detail_id": 1270340100,
+            "reward_number": 1
+          }
+        ]
+      },
+      {
+        "product_id": 301976,
+        "name_key": "sleeve_213",
+        "price_crystal": 400,
+        "price_rupy": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 7,
+            "reward_detail_id": 1276340100,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 6,
+            "reward_detail_id": 1276340100,
+            "reward_number": 1
+          }
+        ]
+      },
+      {
+        "product_id": 301977,
+        "name_key": "sleeve_214",
+        "price_crystal": 500,
+        "price_rupy": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 7,
+            "reward_detail_id": 717011010,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 6,
+            "reward_detail_id": 717011010,
+            "reward_number": 1
+          },
+          {
+            "order_index": 2,
+            "reward_type": 5,
+            "reward_detail_id": 717011010,
+            "reward_number": 3
+          },
+          {
+            "order_index": 3,
+            "reward_type": 5,
+            "reward_detail_id": 717011011,
+            "reward_number": 3
+          }
+        ]
+      },
+      {
+        "product_id": 301978,
+        "name_key": "sleeve_215",
+        "price_crystal": 500,
+        "price_rupy": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 7,
+            "reward_detail_id": 717521015,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 7,
+            "reward_detail_id": 717521016,
+            "reward_number": 1
+          },
+          {
+            "order_index": 2,
+            "reward_type": 6,
+            "reward_detail_id": 717521010,
+            "reward_number": 1
+          },
+          {
+            "order_index": 3,
+            "reward_type": 5,
+            "reward_detail_id": 717521010,
+            "reward_number": 3
+          },
+          {
+            "order_index": 4,
+            "reward_type": 5,
+            "reward_detail_id": 717521011,
+            "reward_number": 3
+          }
+        ]
+      },
+      {
+        "product_id": 301979,
+        "name_key": "sleeve_216",
+        "price_crystal": 400,
+        "price_rupy": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 7,
+            "reward_detail_id": 1288310100,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 6,
+            "reward_detail_id": 1288310100,
+            "reward_number": 1
+          }
+        ]
+      },
+      {
+        "product_id": 301980,
+        "name_key": "sleeve_217",
+        "price_crystal": 400,
+        "price_rupy": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 7,
+            "reward_detail_id": 1280310100,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 6,
+            "reward_detail_id": 1280310100,
+            "reward_number": 1
+          }
+        ]
+      },
+      {
+        "product_id": 301981,
+        "name_key": "sleeve_218",
+        "price_crystal": 400,
+        "price_rupy": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 7,
+            "reward_detail_id": 1281310100,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 6,
+            "reward_detail_id": 1281310100,
+            "reward_number": 1
+          }
+        ]
+      },
+      {
+        "product_id": 301982,
+        "name_key": "sleeve_219",
+        "price_crystal": 400,
+        "price_rupy": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 7,
+            "reward_detail_id": 1286240150,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 7,
+            "reward_detail_id": 1286240160,
+            "reward_number": 1
+          },
+          {
+            "order_index": 2,
+            "reward_type": 6,
+            "reward_detail_id": 1286240100,
+            "reward_number": 1
+          }
+        ]
+      },
+      {
+        "product_id": 301983,
+        "name_key": "sleeve_220",
+        "price_crystal": 400,
+        "price_rupy": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 7,
+            "reward_detail_id": 1285340100,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 6,
+            "reward_detail_id": 1285340100,
+            "reward_number": 1
+          }
+        ]
+      },
+      {
+        "product_id": 301984,
+        "name_key": "sleeve_221",
+        "price_crystal": 400,
+        "price_rupy": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 7,
+            "reward_detail_id": 1287310200,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 6,
+            "reward_detail_id": 1287310200,
+            "reward_number": 1
+          }
+        ]
+      },
+      {
+        "product_id": 301985,
+        "name_key": "sleeve_222",
+        "price_crystal": 500,
+        "price_rupy": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 7,
+            "reward_detail_id": 720411010,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 6,
+            "reward_detail_id": 720411010,
+            "reward_number": 1
+          },
+          {
+            "order_index": 2,
+            "reward_type": 5,
+            "reward_detail_id": 720411010,
+            "reward_number": 3
+          },
+          {
+            "order_index": 3,
+            "reward_type": 5,
+            "reward_detail_id": 720411011,
+            "reward_number": 3
+          }
+        ]
+      },
+      {
+        "product_id": 301986,
+        "name_key": "sleeve_223",
+        "price_crystal": 500,
+        "price_rupy": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 7,
+            "reward_detail_id": 720314010,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 6,
+            "reward_detail_id": 720314010,
+            "reward_number": 1
+          },
+          {
+            "order_index": 2,
+            "reward_type": 5,
+            "reward_detail_id": 720314010,
+            "reward_number": 3
+          },
+          {
+            "order_index": 3,
+            "reward_type": 5,
+            "reward_detail_id": 720314011,
+            "reward_number": 3
+          }
+        ]
+      },
+      {
+        "product_id": 301987,
+        "name_key": "sleeve_224",
+        "price_crystal": 400,
+        "price_rupy": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 7,
+            "reward_detail_id": 1290310100,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 6,
+            "reward_detail_id": 1290310100,
+            "reward_number": 1
+          }
+        ]
+      },
+      {
+        "product_id": 301988,
+        "name_key": "sleeve_225",
+        "price_crystal": 400,
+        "price_rupy": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 7,
+            "reward_detail_id": 1291310100,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 6,
+            "reward_detail_id": 1291310100,
+            "reward_number": 1
+          }
+        ]
+      },
+      {
+        "product_id": 301989,
+        "name_key": "sleeve_226",
+        "price_crystal": 400,
+        "price_rupy": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 7,
+            "reward_detail_id": 1298210200,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 6,
+            "reward_detail_id": 1298210200,
+            "reward_number": 1
+          }
+        ]
+      },
+      {
+        "product_id": 301990,
+        "name_key": "sleeve_227",
+        "price_crystal": 400,
+        "price_rupy": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 7,
+            "reward_detail_id": 1292240100,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 6,
+            "reward_detail_id": 1292240100,
+            "reward_number": 1
+          }
+        ]
+      },
+      {
+        "product_id": 301991,
+        "name_key": "sleeve_228",
+        "price_crystal": 400,
+        "price_rupy": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 7,
+            "reward_detail_id": 1297310200,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 6,
+            "reward_detail_id": 1297310200,
+            "reward_number": 1
+          }
+        ]
+      },
+      {
+        "product_id": 301992,
+        "name_key": "sleeve_229",
+        "price_crystal": 400,
+        "price_rupy": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 7,
+            "reward_detail_id": 1293310200,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 6,
+            "reward_detail_id": 1293310200,
+            "reward_number": 1
+          }
+        ]
+      },
+      {
+        "product_id": 301993,
+        "name_key": "sleeve_230",
+        "price_crystal": 500,
+        "price_rupy": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 7,
+            "reward_detail_id": 720031010,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 6,
+            "reward_detail_id": 720031010,
+            "reward_number": 1
+          },
+          {
+            "order_index": 2,
+            "reward_type": 5,
+            "reward_detail_id": 720031010,
+            "reward_number": 3
+          },
+          {
+            "order_index": 3,
+            "reward_type": 5,
+            "reward_detail_id": 720031011,
+            "reward_number": 3
+          }
+        ]
+      },
+      {
+        "product_id": 301994,
+        "name_key": "sleeve_231",
+        "price_crystal": 500,
+        "price_rupy": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 7,
+            "reward_detail_id": 720614010,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 6,
+            "reward_detail_id": 720614010,
+            "reward_number": 1
+          },
+          {
+            "order_index": 2,
+            "reward_type": 5,
+            "reward_detail_id": 720614010,
+            "reward_number": 3
+          },
+          {
+            "order_index": 3,
+            "reward_type": 5,
+            "reward_detail_id": 720614011,
+            "reward_number": 3
+          }
+        ]
+      },
+      {
+        "product_id": 301995,
+        "name_key": "sleeve_232",
+        "price_crystal": 400,
+        "price_rupy": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 7,
+            "reward_detail_id": 1308110300,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 6,
+            "reward_detail_id": 1308110300,
+            "reward_number": 1
+          }
+        ]
+      },
+      {
+        "product_id": 301996,
+        "name_key": "sleeve_233",
+        "price_crystal": 400,
+        "price_rupy": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 7,
+            "reward_detail_id": 1303110200,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 6,
+            "reward_detail_id": 1303110200,
+            "reward_number": 1
+          }
+        ]
+      },
+      {
+        "product_id": 301997,
+        "name_key": "sleeve_234",
+        "price_crystal": 400,
+        "price_rupy": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 7,
+            "reward_detail_id": 1300310100,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 6,
+            "reward_detail_id": 1300310100,
+            "reward_number": 1
+          }
+        ]
+      },
+      {
+        "product_id": 301998,
+        "name_key": "sleeve_235",
+        "price_crystal": 400,
+        "price_rupy": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 7,
+            "reward_detail_id": 1302310100,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 6,
+            "reward_detail_id": 1302310100,
+            "reward_number": 1
+          }
+        ]
+      },
+      {
+        "product_id": 301999,
+        "name_key": "sleeve_236",
+        "price_crystal": 400,
+        "price_rupy": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 7,
+            "reward_detail_id": 1306310200,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 6,
+            "reward_detail_id": 1306310200,
+            "reward_number": 1
+          }
+        ]
+      },
+      {
+        "product_id": 302000,
+        "name_key": "sleeve_237",
+        "price_crystal": 400,
+        "price_rupy": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 7,
+            "reward_detail_id": 1304310200,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 6,
+            "reward_detail_id": 1304310200,
+            "reward_number": 1
+          }
+        ]
+      },
+      {
+        "product_id": 302001,
+        "name_key": "sleeve_238",
+        "price_crystal": 500,
+        "price_rupy": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 7,
+            "reward_detail_id": 720713010,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 6,
+            "reward_detail_id": 720713010,
+            "reward_number": 1
+          },
+          {
+            "order_index": 2,
+            "reward_type": 5,
+            "reward_detail_id": 720713010,
+            "reward_number": 3
+          },
+          {
+            "order_index": 3,
+            "reward_type": 5,
+            "reward_detail_id": 720713011,
+            "reward_number": 3
+          }
+        ]
+      },
+      {
+        "product_id": 302002,
+        "name_key": "sleeve_239",
+        "price_crystal": 500,
+        "price_rupy": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 7,
+            "reward_detail_id": 720321010,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 6,
+            "reward_detail_id": 720321010,
+            "reward_number": 1
+          },
+          {
+            "order_index": 2,
+            "reward_type": 5,
+            "reward_detail_id": 720321010,
+            "reward_number": 3
+          },
+          {
+            "order_index": 3,
+            "reward_type": 5,
+            "reward_detail_id": 720321011,
+            "reward_number": 3
+          }
+        ]
+      },
+      {
+        "product_id": 302003,
+        "name_key": "sleeve_240",
+        "price_crystal": 400,
+        "price_rupy": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 7,
+            "reward_detail_id": 1316110100,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 6,
+            "reward_detail_id": 1316110100,
+            "reward_number": 1
+          }
+        ]
+      },
+      {
+        "product_id": 302004,
+        "name_key": "sleeve_241",
+        "price_crystal": 400,
+        "price_rupy": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 7,
+            "reward_detail_id": 1311210300,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 6,
+            "reward_detail_id": 1311210300,
+            "reward_number": 1
+          }
+        ]
+      },
+      {
+        "product_id": 302005,
+        "name_key": "sleeve_242",
+        "price_crystal": 400,
+        "price_rupy": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 7,
+            "reward_detail_id": 1313240100,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 6,
+            "reward_detail_id": 1313240100,
+            "reward_number": 1
+          }
+        ]
+      },
+      {
+        "product_id": 302006,
+        "name_key": "sleeve_243",
+        "price_crystal": 400,
+        "price_rupy": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 7,
+            "reward_detail_id": 1314210200,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 6,
+            "reward_detail_id": 1314210200,
+            "reward_number": 1
+          }
+        ]
+      },
+      {
+        "product_id": 302007,
+        "name_key": "sleeve_244",
+        "price_crystal": 400,
+        "price_rupy": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 7,
+            "reward_detail_id": 1315310200,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 6,
+            "reward_detail_id": 1315310200,
+            "reward_number": 1
+          }
+        ]
+      },
+      {
+        "product_id": 302008,
+        "name_key": "sleeve_245",
+        "price_crystal": 400,
+        "price_rupy": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 7,
+            "reward_detail_id": 1317310300,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 6,
+            "reward_detail_id": 1317310300,
+            "reward_number": 1
+          }
+        ]
+      },
+      {
+        "product_id": 302009,
+        "name_key": "sleeve_246",
+        "price_crystal": 500,
+        "price_rupy": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 7,
+            "reward_detail_id": 720211010,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 6,
+            "reward_detail_id": 720211010,
+            "reward_number": 1
+          },
+          {
+            "order_index": 2,
+            "reward_type": 5,
+            "reward_detail_id": 720211010,
+            "reward_number": 3
+          },
+          {
+            "order_index": 3,
+            "reward_type": 5,
+            "reward_detail_id": 720211011,
+            "reward_number": 3
+          }
+        ]
+      },
+      {
+        "product_id": 302010,
+        "name_key": "sleeve_247",
+        "price_crystal": 500,
+        "price_rupy": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 7,
+            "reward_detail_id": 720421010,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 6,
+            "reward_detail_id": 720421010,
+            "reward_number": 1
+          },
+          {
+            "order_index": 2,
+            "reward_type": 5,
+            "reward_detail_id": 720421010,
+            "reward_number": 3
+          },
+          {
+            "order_index": 3,
+            "reward_type": 5,
+            "reward_detail_id": 720421011,
+            "reward_number": 3
+          }
+        ]
+      },
+      {
+        "product_id": 302011,
+        "name_key": "sleeve_248",
+        "price_crystal": 400,
+        "price_rupy": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 7,
+            "reward_detail_id": 1322210200,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 6,
+            "reward_detail_id": 1322210200,
+            "reward_number": 1
+          }
+        ]
+      },
+      {
+        "product_id": 302012,
+        "name_key": "sleeve_249",
+        "price_crystal": 400,
+        "price_rupy": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 7,
+            "reward_detail_id": 900534060,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 6,
+            "reward_detail_id": 900534060,
+            "reward_number": 1
+          }
+        ]
+      },
+      {
+        "product_id": 302013,
+        "name_key": "sleeve_250",
+        "price_crystal": 400,
+        "price_rupy": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 7,
+            "reward_detail_id": 1326340150,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 7,
+            "reward_detail_id": 1326340160,
+            "reward_number": 1
+          },
+          {
+            "order_index": 2,
+            "reward_type": 6,
+            "reward_detail_id": 1326340100,
+            "reward_number": 1
+          }
+        ]
+      },
+      {
+        "product_id": 302014,
+        "name_key": "sleeve_251",
+        "price_crystal": 400,
+        "price_rupy": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 7,
+            "reward_detail_id": 1321340150,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 7,
+            "reward_detail_id": 1321340160,
+            "reward_number": 1
+          },
+          {
+            "order_index": 2,
+            "reward_type": 6,
+            "reward_detail_id": 1321340100,
+            "reward_number": 1
+          }
+        ]
+      },
+      {
+        "product_id": 302015,
+        "name_key": "sleeve_252",
+        "price_crystal": 400,
+        "price_rupy": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 7,
+            "reward_detail_id": 1323310200,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 6,
+            "reward_detail_id": 1323310200,
+            "reward_number": 1
+          }
+        ]
+      },
+      {
+        "product_id": 302016,
+        "name_key": "sleeve_253",
+        "price_crystal": 400,
+        "price_rupy": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 7,
+            "reward_detail_id": 900834120,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 6,
+            "reward_detail_id": 900834120,
+            "reward_number": 1
+          }
+        ]
+      },
+      {
+        "product_id": 302017,
+        "name_key": "sleeve_254",
+        "price_crystal": 500,
+        "price_rupy": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 7,
+            "reward_detail_id": 722723010,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 6,
+            "reward_detail_id": 722723010,
+            "reward_number": 1
+          },
+          {
+            "order_index": 2,
+            "reward_type": 5,
+            "reward_detail_id": 722723010,
+            "reward_number": 3
+          },
+          {
+            "order_index": 3,
+            "reward_type": 5,
+            "reward_detail_id": 722723011,
+            "reward_number": 3
+          }
+        ]
+      },
+      {
+        "product_id": 302018,
+        "name_key": "sleeve_255",
+        "price_crystal": 500,
+        "price_rupy": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 7,
+            "reward_detail_id": 722031010,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 6,
+            "reward_detail_id": 722031010,
+            "reward_number": 1
+          },
+          {
+            "order_index": 2,
+            "reward_type": 5,
+            "reward_detail_id": 722031010,
+            "reward_number": 3
+          },
+          {
+            "order_index": 3,
+            "reward_type": 5,
+            "reward_detail_id": 722031011,
+            "reward_number": 3
+          }
+        ]
+      },
+      {
+        "product_id": 302019,
+        "name_key": "sleeve_256",
+        "price_crystal": 400,
+        "price_rupy": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 7,
+            "reward_detail_id": 1128210100,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 6,
+            "reward_detail_id": 1128210100,
+            "reward_number": 1
+          }
+        ]
+      },
+      {
+        "product_id": 302020,
+        "name_key": "sleeve_257",
+        "price_crystal": 400,
+        "price_rupy": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 7,
+            "reward_detail_id": 1266310300,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 6,
+            "reward_detail_id": 1266310300,
+            "reward_number": 1
+          }
+        ]
+      },
+      {
+        "product_id": 302021,
+        "name_key": "sleeve_258",
+        "price_crystal": 400,
+        "price_rupy": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 7,
+            "reward_detail_id": 1233240100,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 6,
+            "reward_detail_id": 1233240100,
+            "reward_number": 1
+          }
+        ]
+      },
+      {
+        "product_id": 302022,
+        "name_key": "sleeve_259",
+        "price_crystal": 400,
+        "price_rupy": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 7,
+            "reward_detail_id": 1111310350,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 7,
+            "reward_detail_id": 1111310360,
+            "reward_number": 1
+          },
+          {
+            "order_index": 2,
+            "reward_type": 6,
+            "reward_detail_id": 1111310300,
+            "reward_number": 1
+          }
+        ]
+      },
+      {
+        "product_id": 302023,
+        "name_key": "sleeve_260",
+        "price_crystal": 400,
+        "price_rupy": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 7,
+            "reward_detail_id": 1185240100,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 6,
+            "reward_detail_id": 1185240100,
+            "reward_number": 1
+          }
+        ]
+      },
+      {
+        "product_id": 302024,
+        "name_key": "sleeve_261",
+        "price_crystal": 400,
+        "price_rupy": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 7,
+            "reward_detail_id": 1264310300,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 6,
+            "reward_detail_id": 1264310300,
+            "reward_number": 1
+          }
+        ]
+      },
+      {
+        "product_id": 302025,
+        "name_key": "sleeve_262",
+        "price_crystal": 400,
+        "price_rupy": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 7,
+            "reward_detail_id": 200000200,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 6,
+            "reward_detail_id": 200000200,
+            "reward_number": 1
+          }
+        ]
+      },
+      {
+        "product_id": 302026,
+        "name_key": "sleeve_263",
+        "price_crystal": 400,
+        "price_rupy": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 7,
+            "reward_detail_id": 200000255,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 7,
+            "reward_detail_id": 200000256,
+            "reward_number": 1
+          },
+          {
+            "order_index": 2,
+            "reward_type": 6,
+            "reward_detail_id": 200000250,
+            "reward_number": 1
+          }
+        ]
+      },
+      {
+        "product_id": 302027,
+        "name_key": "sleeve_264",
+        "price_crystal": 400,
+        "price_rupy": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 7,
+            "reward_detail_id": 1257210100,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 6,
+            "reward_detail_id": 1257210100,
+            "reward_number": 1
+          }
+        ]
+      },
+      {
+        "product_id": 302028,
+        "name_key": "sleeve_265",
+        "price_crystal": 400,
+        "price_rupy": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 7,
+            "reward_detail_id": 1078310200,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 6,
+            "reward_detail_id": 1078310200,
+            "reward_number": 1
+          }
+        ]
+      },
+      {
+        "product_id": 302029,
+        "name_key": "sleeve_266",
+        "price_crystal": 400,
+        "price_rupy": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 7,
+            "reward_detail_id": 1153210100,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 6,
+            "reward_detail_id": 1153210100,
+            "reward_number": 1
+          }
+        ]
+      },
+      {
+        "product_id": 302030,
+        "name_key": "sleeve_267",
+        "price_crystal": 400,
+        "price_rupy": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 7,
+            "reward_detail_id": 1122240100,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 6,
+            "reward_detail_id": 1122240100,
+            "reward_number": 1
+          }
+        ]
+      },
+      {
+        "product_id": 302031,
+        "name_key": "sleeve_268",
+        "price_crystal": 400,
+        "price_rupy": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 7,
+            "reward_detail_id": 1140310200,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 6,
+            "reward_detail_id": 1140310200,
+            "reward_number": 1
+          }
+        ]
+      },
+      {
+        "product_id": 302032,
+        "name_key": "sleeve_269",
+        "price_crystal": 400,
+        "price_rupy": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 7,
+            "reward_detail_id": 1094310100,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 6,
+            "reward_detail_id": 1094310100,
+            "reward_number": 1
+          }
+        ]
+      },
+      {
+        "product_id": 302033,
+        "name_key": "sleeve_270",
+        "price_crystal": 400,
+        "price_rupy": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 7,
+            "reward_detail_id": 200000270,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 6,
+            "reward_detail_id": 200000270,
+            "reward_number": 1
+          }
+        ]
+      },
+      {
+        "product_id": 302034,
+        "name_key": "sleeve_271",
+        "price_crystal": 400,
+        "price_rupy": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 7,
+            "reward_detail_id": 200000170,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 6,
+            "reward_detail_id": 200000170,
+            "reward_number": 1
+          }
+        ]
+      },
+      {
+        "product_id": 302035,
+        "name_key": "sleeve_272",
+        "price_crystal": 400,
+        "price_rupy": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 7,
+            "reward_detail_id": 1213240100,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 6,
+            "reward_detail_id": 1213240100,
+            "reward_number": 1
+          }
+        ]
+      },
+      {
+        "product_id": 302036,
+        "name_key": "sleeve_273",
+        "price_crystal": 400,
+        "price_rupy": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 7,
+            "reward_detail_id": 1235310100,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 6,
+            "reward_detail_id": 1235310100,
+            "reward_number": 1
+          }
+        ]
+      },
+      {
+        "product_id": 302037,
+        "name_key": "sleeve_274",
+        "price_crystal": 400,
+        "price_rupy": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 7,
+            "reward_detail_id": 1256210100,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 6,
+            "reward_detail_id": 1256210100,
+            "reward_number": 1
+          }
+        ]
+      },
+      {
+        "product_id": 302038,
+        "name_key": "sleeve_275",
+        "price_crystal": 400,
+        "price_rupy": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 7,
+            "reward_detail_id": 1267210100,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 6,
+            "reward_detail_id": 1267210100,
+            "reward_number": 1
+          }
+        ]
+      },
+      {
+        "product_id": 302039,
+        "name_key": "sleeve_276",
+        "price_crystal": 400,
+        "price_rupy": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 7,
+            "reward_detail_id": 1182310200,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 6,
+            "reward_detail_id": 1182310200,
+            "reward_number": 1
+          }
+        ]
+      },
+      {
+        "product_id": 302040,
+        "name_key": "sleeve_277",
+        "price_crystal": 400,
+        "price_rupy": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 7,
+            "reward_detail_id": 1221310100,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 6,
+            "reward_detail_id": 1221310100,
+            "reward_number": 1
+          }
+        ]
+      },
+      {
+        "product_id": 302041,
+        "name_key": "sleeve_278",
+        "price_crystal": 400,
+        "price_rupy": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 7,
+            "reward_detail_id": 200000290,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 6,
+            "reward_detail_id": 200000290,
+            "reward_number": 1
+          }
+        ]
+      },
+      {
+        "product_id": 302042,
+        "name_key": "sleeve_279",
+        "price_crystal": 400,
+        "price_rupy": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 7,
+            "reward_detail_id": 200000325,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 7,
+            "reward_detail_id": 200000326,
+            "reward_number": 1
+          },
+          {
+            "order_index": 2,
+            "reward_type": 6,
+            "reward_detail_id": 200000320,
+            "reward_number": 1
+          }
+        ]
+      },
+      {
+        "product_id": 302043,
+        "name_key": "sleeve_280",
+        "price_crystal": 400,
+        "price_rupy": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 7,
+            "reward_detail_id": 1140110100,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 6,
+            "reward_detail_id": 1140110100,
+            "reward_number": 1
+          }
+        ]
+      },
+      {
+        "product_id": 302044,
+        "name_key": "sleeve_281",
+        "price_crystal": 400,
+        "price_rupy": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 7,
+            "reward_detail_id": 1213310200,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 6,
+            "reward_detail_id": 1213310200,
+            "reward_number": 1
+          }
+        ]
+      },
+      {
+        "product_id": 302045,
+        "name_key": "sleeve_282",
+        "price_crystal": 400,
+        "price_rupy": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 7,
+            "reward_detail_id": 1296240500,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 7,
+            "reward_detail_id": 1296240600,
+            "reward_number": 1
+          },
+          {
+            "order_index": 2,
+            "reward_type": 6,
+            "reward_detail_id": 1296240100,
+            "reward_number": 1
+          }
+        ]
+      },
+      {
+        "product_id": 302046,
+        "name_key": "sleeve_283",
+        "price_crystal": 400,
+        "price_rupy": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 7,
+            "reward_detail_id": 1225310200,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 6,
+            "reward_detail_id": 1225310200,
+            "reward_number": 1
+          }
+        ]
+      },
+      {
+        "product_id": 302047,
+        "name_key": "sleeve_284",
+        "price_crystal": 400,
+        "price_rupy": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 7,
+            "reward_detail_id": 900031020,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 6,
+            "reward_detail_id": 900031020,
+            "reward_number": 1
+          }
+        ]
+      },
+      {
+        "product_id": 302048,
+        "name_key": "sleeve_285",
+        "price_crystal": 400,
+        "price_rupy": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 7,
+            "reward_detail_id": 1131310300,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 6,
+            "reward_detail_id": 1131310300,
+            "reward_number": 1
+          }
+        ]
+      },
+      {
+        "product_id": 302049,
+        "name_key": "sleeve_286",
+        "price_crystal": 400,
+        "price_rupy": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 7,
+            "reward_detail_id": 200000350,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 6,
+            "reward_detail_id": 200000350,
+            "reward_number": 1
+          }
+        ]
+      },
+      {
+        "product_id": 302050,
+        "name_key": "sleeve_287",
+        "price_crystal": 400,
+        "price_rupy": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 7,
+            "reward_detail_id": 200000220,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 6,
+            "reward_detail_id": 200000220,
+            "reward_number": 1
+          }
+        ]
+      }
+    ]
+  }
+]

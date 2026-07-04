@@ -1,0 +1,7 @@
+[
+  { "present_id": "71478626", "reward_type": 1, "reward_detail_id": 0,     "reward_count": 400, "item_type": null, "message": "For completing the tutorial" },
+  { "present_id": "71478627", "reward_type": 9, "reward_detail_id": 0,     "reward_count": 100, "item_type": null, "message": "For completing the tutorial" },
+  { "present_id": "71478628", "reward_type": 4, "reward_detail_id": 1,     "reward_count": 3,   "item_type": 1,    "message": "For completing the tutorial" },
+  { "present_id": "71478629", "reward_type": 4, "reward_detail_id": 80001, "reward_count": 40,  "item_type": 2,    "message": "For completing the tutorial" },
+  { "present_id": "71478630", "reward_type": 4, "reward_detail_id": 90001, "reward_count": 1,   "item_type": 2,    "message": "For completing the tutorial" }
+]

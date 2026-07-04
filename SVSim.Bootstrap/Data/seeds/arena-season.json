@@ -1,0 +1,17 @@
+{
+  "id": 1,
+  "mode": 1,
+  "enable": 1,
+  "cost": 150,
+  "rupy_cost": 150,
+  "ticket_cost": 1,
+  "is_join": false,
+  "format_info": {
+    "two_pick_type": "1",
+    "card_pool_name": "Take Two (Dragonblade–Rivenbrandt)",
+    "announce_id": 0,
+    "last_card_pack_set_id": "10029",
+    "start_time": "2026-05-01 02:00:00",
+    "end_time": "2026-06-01 01:59:59"
+  }
+}

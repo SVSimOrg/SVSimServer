@@ -1,0 +1,27 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <!-- Decompiled code is not nullable-clean and uses explicit usings. -->
+    <Nullable>disable</Nullable>
+    <ImplicitUsings>disable</ImplicitUsings>
+    <!-- Pinned to 12.0 (net8.0 default), NOT 'latest': the vendored decompiled engine uses identifiers
+         that later C# versions promoted to contextual keywords (e.g. 'field' is a string member used inside
+         a property accessor in EventDelegate.cs). Under 'latest' + a newer SDK (Rider's .NET 10 -> C# 14)
+         'field' rebinds to the synthesized backing field, breaking the build (CS1503). Pinning keeps the
+         decompiled source compiling as written regardless of the installed SDK. -->
+    <LangVersion>12.0</LangVersion>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+    <!-- Decompiled code triggers many benign warnings; do not fail on them. -->
+    <TreatWarningsAsErrors>false</TreatWarningsAsErrors>
+    <NoWarn>$(NoWarn);CS0108;CS0114;CS0162;CS0164;CS0219;CS0414;CS0649;CS0660;CS0661;CS1998</NoWarn>
+    <GenerateAssemblyInfo>true</GenerateAssemblyInfo>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <!-- Test access to shim internals (HeadlessHandViewStub, etc.) so headless-shim regression tests
+         can pin the no-op contracts directly without an end-to-end battle setup. -->
+    <InternalsVisibleTo Include="SVSim.BattleEngine.Tests" />
+  </ItemGroup>
+
+</Project>

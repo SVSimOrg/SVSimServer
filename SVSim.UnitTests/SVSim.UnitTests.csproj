@@ -1,0 +1,78 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net8.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+
+        <IsPackable>false</IsPackable>
+        <IsTestProject>true</IsTestProject>
+    </PropertyGroup>
+
+    <ItemGroup>
+        <PackageReference Include="Microsoft.Extensions.TimeProvider.Testing" Version="8.0.0" />
+        <PackageReference Include="Microsoft.NET.Test.Sdk" Version="17.6.0" />
+        <PackageReference Include="NUnit" Version="3.13.3" />
+        <PackageReference Include="NUnit3TestAdapter" Version="4.2.1" />
+        <PackageReference Include="NUnit.Analyzers" Version="3.6.1" />
+        <PackageReference Include="coverlet.collector" Version="6.0.0" />
+        <PackageReference Include="Microsoft.AspNetCore.Mvc.Testing" Version="8.0.8" />
+        <PackageReference Include="Microsoft.EntityFrameworkCore.InMemory" Version="8.0.8" />
+        <PackageReference Include="Microsoft.EntityFrameworkCore.Sqlite" Version="8.0.8" />
+        <PackageReference Include="Moq" Version="4.20.70" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\SVSim.EmulatedEntrypoint\SVSim.EmulatedEntrypoint.csproj" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\SVSim.Bootstrap\SVSim.Bootstrap.csproj" />
+      <ProjectReference Include="..\SVSim.BattleNode\SVSim.BattleNode.csproj" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <!-- ReferenceDataImporter / CardCosmeticRewardImporter read CSVs from the runtime "Data"
+           folder; mirror Bootstrap's copies into the test output so SVSimTestFactory can call
+           the importers after EnsureCreated to populate reference tables. -->
+      <Content Include="..\SVSim.Bootstrap\Data\*.csv" Link="Data\%(Filename)%(Extension)">
+        <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      </Content>
+      <!-- Production per-table seed JSON for the per-domain importer pipeline. Same files
+           consumed by SVSim.Bootstrap; mirrored here so SeedGlobalsAsync sees them. -->
+      <Content Include="..\SVSim.Bootstrap\Data\seeds\**\*.json" Link="Data\seeds\%(RecursiveDir)%(Filename)%(Extension)">
+        <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      </Content>
+      <!-- Test-only fixture seeds overlay the production seeds. Placed AFTER the production glob
+           so MSBuild's "last Link wins" rule routes the fixture file into the same test output
+           path as the production seed of the same name. Use for per-table fixtures (e.g. packs)
+           where the production seed is too large to drive focused integration tests.
+           MUST be Always (not PreserveNewest): PreserveNewest skips the fixture when the
+           production seed already in the output dir has a newer mtime (e.g. after a branch
+           switch). Always guarantees the fixture copy runs after the production copy and wins. -->
+      <Content Include="..\SVSim.Bootstrap\Data\test-fixtures\seeds\*.json" Link="Data\seeds\%(Filename)%(Extension)">
+        <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      </Content>
+      <!-- StoryImporter integration test fixtures — copied to Story\Fixtures\ in test output. -->
+      <Content Include="Story\Fixtures\*.json">
+        <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      </Content>
+      <!-- BuildDeckImporter reads CSVs from a build-deck/ subdirectory; the top-level Data\*.csv
+           glob only covers the root. Link both files explicitly so they land in the same relative
+           path the importer uses at runtime. -->
+      <Content Include="..\SVSim.Bootstrap\Data\build-deck\build_deck_package_master.csv">
+        <Link>Data\build-deck\build_deck_package_master.csv</Link>
+        <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      </Content>
+      <Content Include="..\SVSim.Bootstrap\Data\build-deck\build_deck_series_master.csv">
+        <Link>Data\build-deck\build_deck_series_master.csv</Link>
+        <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      </Content>
+      <!-- CardMasterPayloadProvider reads from AppContext.BaseDirectory + Data/. Content does
+           NOT flow across a ProjectReference, so link the blob explicitly here as a defensive
+           mirror of the host csproj's own link (today SDK behavior happens to copy it, but a
+           future cleanup could break that implicit flow and tests would 500 silently). -->
+      <None Include="..\SVSim.EmulatedEntrypoint\Data\card_master_2026-06-03.txt" Link="Data\card_master_2026-06-03.txt" CopyToOutputDirectory="PreserveNewest" />
+    </ItemGroup>
+
+</Project>

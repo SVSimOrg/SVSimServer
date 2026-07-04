@@ -1,0 +1,906 @@
+[
+  {
+    "id": 106,
+    "group_id": 316,
+    "puzzle_difficulty": 2,
+    "is_additional": false,
+    "is_playable": true,
+    "release_condition_text_id": ""
+  },
+  {
+    "id": 107,
+    "group_id": 316,
+    "puzzle_difficulty": 2,
+    "is_additional": false,
+    "is_playable": true,
+    "release_condition_text_id": ""
+  },
+  {
+    "id": 108,
+    "group_id": 316,
+    "puzzle_difficulty": 2,
+    "is_additional": false,
+    "is_playable": true,
+    "release_condition_text_id": ""
+  },
+  {
+    "id": 109,
+    "group_id": 316,
+    "puzzle_difficulty": 2,
+    "is_additional": true,
+    "is_playable": true,
+    "release_condition_text_id": ""
+  },
+  {
+    "id": 110,
+    "group_id": 316,
+    "puzzle_difficulty": 2,
+    "is_additional": true,
+    "is_playable": true,
+    "release_condition_text_id": ""
+  },
+  {
+    "id": 111,
+    "group_id": 316,
+    "puzzle_difficulty": 2,
+    "is_additional": true,
+    "is_playable": true,
+    "release_condition_text_id": ""
+  },
+  {
+    "id": 112,
+    "group_id": 316,
+    "puzzle_difficulty": 2,
+    "is_additional": true,
+    "is_playable": true,
+    "release_condition_text_id": ""
+  },
+  {
+    "id": 113,
+    "group_id": 316,
+    "puzzle_difficulty": 2,
+    "is_additional": true,
+    "is_playable": true,
+    "release_condition_text_id": ""
+  },
+  {
+    "id": 103,
+    "group_id": 315,
+    "puzzle_difficulty": 0,
+    "is_additional": false,
+    "is_playable": true,
+    "release_condition_text_id": ""
+  },
+  {
+    "id": 104,
+    "group_id": 315,
+    "puzzle_difficulty": 1,
+    "is_additional": false,
+    "is_playable": true,
+    "release_condition_text_id": ""
+  },
+  {
+    "id": 105,
+    "group_id": 315,
+    "puzzle_difficulty": 2,
+    "is_additional": false,
+    "is_playable": true,
+    "release_condition_text_id": ""
+  },
+  {
+    "id": 100,
+    "group_id": 314,
+    "puzzle_difficulty": 0,
+    "is_additional": false,
+    "is_playable": true,
+    "release_condition_text_id": ""
+  },
+  {
+    "id": 101,
+    "group_id": 314,
+    "puzzle_difficulty": 1,
+    "is_additional": false,
+    "is_playable": true,
+    "release_condition_text_id": ""
+  },
+  {
+    "id": 102,
+    "group_id": 314,
+    "puzzle_difficulty": 2,
+    "is_additional": false,
+    "is_playable": true,
+    "release_condition_text_id": ""
+  },
+  {
+    "id": 97,
+    "group_id": 313,
+    "puzzle_difficulty": 0,
+    "is_additional": false,
+    "is_playable": true,
+    "release_condition_text_id": ""
+  },
+  {
+    "id": 98,
+    "group_id": 313,
+    "puzzle_difficulty": 1,
+    "is_additional": false,
+    "is_playable": true,
+    "release_condition_text_id": ""
+  },
+  {
+    "id": 99,
+    "group_id": 313,
+    "puzzle_difficulty": 2,
+    "is_additional": false,
+    "is_playable": true,
+    "release_condition_text_id": ""
+  },
+  {
+    "id": 94,
+    "group_id": 312,
+    "puzzle_difficulty": 0,
+    "is_additional": false,
+    "is_playable": true,
+    "release_condition_text_id": ""
+  },
+  {
+    "id": 95,
+    "group_id": 312,
+    "puzzle_difficulty": 1,
+    "is_additional": false,
+    "is_playable": true,
+    "release_condition_text_id": ""
+  },
+  {
+    "id": 96,
+    "group_id": 312,
+    "puzzle_difficulty": 2,
+    "is_additional": false,
+    "is_playable": true,
+    "release_condition_text_id": ""
+  },
+  {
+    "id": 91,
+    "group_id": 311,
+    "puzzle_difficulty": 0,
+    "is_additional": false,
+    "is_playable": true,
+    "release_condition_text_id": ""
+  },
+  {
+    "id": 92,
+    "group_id": 311,
+    "puzzle_difficulty": 1,
+    "is_additional": false,
+    "is_playable": true,
+    "release_condition_text_id": ""
+  },
+  {
+    "id": 93,
+    "group_id": 311,
+    "puzzle_difficulty": 2,
+    "is_additional": false,
+    "is_playable": true,
+    "release_condition_text_id": ""
+  },
+  {
+    "id": 84,
+    "group_id": 310,
+    "puzzle_difficulty": 0,
+    "is_additional": false,
+    "is_playable": true,
+    "release_condition_text_id": ""
+  },
+  {
+    "id": 85,
+    "group_id": 310,
+    "puzzle_difficulty": 1,
+    "is_additional": false,
+    "is_playable": true,
+    "release_condition_text_id": ""
+  },
+  {
+    "id": 86,
+    "group_id": 310,
+    "puzzle_difficulty": 2,
+    "is_additional": false,
+    "is_playable": true,
+    "release_condition_text_id": ""
+  },
+  {
+    "id": 77,
+    "group_id": 309,
+    "puzzle_difficulty": 0,
+    "is_additional": false,
+    "is_playable": true,
+    "release_condition_text_id": ""
+  },
+  {
+    "id": 78,
+    "group_id": 309,
+    "puzzle_difficulty": 1,
+    "is_additional": false,
+    "is_playable": true,
+    "release_condition_text_id": ""
+  },
+  {
+    "id": 79,
+    "group_id": 309,
+    "puzzle_difficulty": 2,
+    "is_additional": false,
+    "is_playable": true,
+    "release_condition_text_id": ""
+  },
+  {
+    "id": 74,
+    "group_id": 308,
+    "puzzle_difficulty": 0,
+    "is_additional": false,
+    "is_playable": true,
+    "release_condition_text_id": ""
+  },
+  {
+    "id": 75,
+    "group_id": 308,
+    "puzzle_difficulty": 1,
+    "is_additional": false,
+    "is_playable": true,
+    "release_condition_text_id": ""
+  },
+  {
+    "id": 76,
+    "group_id": 308,
+    "puzzle_difficulty": 2,
+    "is_additional": false,
+    "is_playable": true,
+    "release_condition_text_id": ""
+  },
+  {
+    "id": 67,
+    "group_id": 307,
+    "puzzle_difficulty": 0,
+    "is_additional": false,
+    "is_playable": true,
+    "release_condition_text_id": ""
+  },
+  {
+    "id": 68,
+    "group_id": 307,
+    "puzzle_difficulty": 1,
+    "is_additional": false,
+    "is_playable": true,
+    "release_condition_text_id": ""
+  },
+  {
+    "id": 69,
+    "group_id": 307,
+    "puzzle_difficulty": 2,
+    "is_additional": false,
+    "is_playable": true,
+    "release_condition_text_id": ""
+  },
+  {
+    "id": 64,
+    "group_id": 306,
+    "puzzle_difficulty": 0,
+    "is_additional": false,
+    "is_playable": true,
+    "release_condition_text_id": ""
+  },
+  {
+    "id": 65,
+    "group_id": 306,
+    "puzzle_difficulty": 1,
+    "is_additional": false,
+    "is_playable": true,
+    "release_condition_text_id": ""
+  },
+  {
+    "id": 66,
+    "group_id": 306,
+    "puzzle_difficulty": 2,
+    "is_additional": false,
+    "is_playable": true,
+    "release_condition_text_id": ""
+  },
+  {
+    "id": 61,
+    "group_id": 305,
+    "puzzle_difficulty": 0,
+    "is_additional": false,
+    "is_playable": true,
+    "release_condition_text_id": ""
+  },
+  {
+    "id": 62,
+    "group_id": 305,
+    "puzzle_difficulty": 1,
+    "is_additional": false,
+    "is_playable": true,
+    "release_condition_text_id": ""
+  },
+  {
+    "id": 63,
+    "group_id": 305,
+    "puzzle_difficulty": 2,
+    "is_additional": false,
+    "is_playable": true,
+    "release_condition_text_id": ""
+  },
+  {
+    "id": 46,
+    "group_id": 304,
+    "puzzle_difficulty": 0,
+    "is_additional": false,
+    "is_playable": true,
+    "release_condition_text_id": ""
+  },
+  {
+    "id": 47,
+    "group_id": 304,
+    "puzzle_difficulty": 1,
+    "is_additional": false,
+    "is_playable": true,
+    "release_condition_text_id": ""
+  },
+  {
+    "id": 48,
+    "group_id": 304,
+    "puzzle_difficulty": 2,
+    "is_additional": false,
+    "is_playable": true,
+    "release_condition_text_id": ""
+  },
+  {
+    "id": 43,
+    "group_id": 303,
+    "puzzle_difficulty": 0,
+    "is_additional": false,
+    "is_playable": true,
+    "release_condition_text_id": ""
+  },
+  {
+    "id": 44,
+    "group_id": 303,
+    "puzzle_difficulty": 1,
+    "is_additional": false,
+    "is_playable": true,
+    "release_condition_text_id": ""
+  },
+  {
+    "id": 45,
+    "group_id": 303,
+    "puzzle_difficulty": 2,
+    "is_additional": false,
+    "is_playable": true,
+    "release_condition_text_id": ""
+  },
+  {
+    "id": 40,
+    "group_id": 302,
+    "puzzle_difficulty": 0,
+    "is_additional": false,
+    "is_playable": true,
+    "release_condition_text_id": ""
+  },
+  {
+    "id": 41,
+    "group_id": 302,
+    "puzzle_difficulty": 1,
+    "is_additional": false,
+    "is_playable": true,
+    "release_condition_text_id": ""
+  },
+  {
+    "id": 42,
+    "group_id": 302,
+    "puzzle_difficulty": 2,
+    "is_additional": false,
+    "is_playable": true,
+    "release_condition_text_id": ""
+  },
+  {
+    "id": 37,
+    "group_id": 301,
+    "puzzle_difficulty": 0,
+    "is_additional": false,
+    "is_playable": true,
+    "release_condition_text_id": ""
+  },
+  {
+    "id": 38,
+    "group_id": 301,
+    "puzzle_difficulty": 1,
+    "is_additional": false,
+    "is_playable": true,
+    "release_condition_text_id": ""
+  },
+  {
+    "id": 39,
+    "group_id": 301,
+    "puzzle_difficulty": 2,
+    "is_additional": false,
+    "is_playable": true,
+    "release_condition_text_id": ""
+  },
+  {
+    "id": 87,
+    "group_id": 9,
+    "puzzle_difficulty": 0,
+    "is_additional": false,
+    "is_playable": true,
+    "release_condition_text_id": ""
+  },
+  {
+    "id": 88,
+    "group_id": 9,
+    "puzzle_difficulty": 1,
+    "is_additional": false,
+    "is_playable": true,
+    "release_condition_text_id": ""
+  },
+  {
+    "id": 89,
+    "group_id": 9,
+    "puzzle_difficulty": 2,
+    "is_additional": false,
+    "is_playable": true,
+    "release_condition_text_id": ""
+  },
+  {
+    "id": 90,
+    "group_id": 9,
+    "puzzle_difficulty": 3,
+    "is_additional": false,
+    "is_playable": true,
+    "release_condition_text_id": ""
+  },
+  {
+    "id": 80,
+    "group_id": 8,
+    "puzzle_difficulty": 0,
+    "is_additional": false,
+    "is_playable": true,
+    "release_condition_text_id": ""
+  },
+  {
+    "id": 81,
+    "group_id": 8,
+    "puzzle_difficulty": 1,
+    "is_additional": false,
+    "is_playable": true,
+    "release_condition_text_id": ""
+  },
+  {
+    "id": 82,
+    "group_id": 8,
+    "puzzle_difficulty": 2,
+    "is_additional": false,
+    "is_playable": true,
+    "release_condition_text_id": ""
+  },
+  {
+    "id": 83,
+    "group_id": 8,
+    "puzzle_difficulty": 3,
+    "is_additional": false,
+    "is_playable": true,
+    "release_condition_text_id": ""
+  },
+  {
+    "id": 70,
+    "group_id": 7,
+    "puzzle_difficulty": 0,
+    "is_additional": false,
+    "is_playable": true,
+    "release_condition_text_id": ""
+  },
+  {
+    "id": 71,
+    "group_id": 7,
+    "puzzle_difficulty": 1,
+    "is_additional": false,
+    "is_playable": true,
+    "release_condition_text_id": ""
+  },
+  {
+    "id": 72,
+    "group_id": 7,
+    "puzzle_difficulty": 1,
+    "is_additional": false,
+    "is_playable": true,
+    "release_condition_text_id": ""
+  },
+  {
+    "id": 73,
+    "group_id": 7,
+    "puzzle_difficulty": 2,
+    "is_additional": false,
+    "is_playable": true,
+    "release_condition_text_id": ""
+  },
+  {
+    "id": 52,
+    "group_id": 6,
+    "puzzle_difficulty": 0,
+    "is_additional": false,
+    "is_playable": true,
+    "release_condition_text_id": ""
+  },
+  {
+    "id": 53,
+    "group_id": 6,
+    "puzzle_difficulty": 0,
+    "is_additional": false,
+    "is_playable": true,
+    "release_condition_text_id": ""
+  },
+  {
+    "id": 54,
+    "group_id": 6,
+    "puzzle_difficulty": 1,
+    "is_additional": false,
+    "is_playable": true,
+    "release_condition_text_id": ""
+  },
+  {
+    "id": 55,
+    "group_id": 6,
+    "puzzle_difficulty": 1,
+    "is_additional": false,
+    "is_playable": true,
+    "release_condition_text_id": ""
+  },
+  {
+    "id": 56,
+    "group_id": 6,
+    "puzzle_difficulty": 1,
+    "is_additional": false,
+    "is_playable": true,
+    "release_condition_text_id": ""
+  },
+  {
+    "id": 57,
+    "group_id": 6,
+    "puzzle_difficulty": 2,
+    "is_additional": false,
+    "is_playable": true,
+    "release_condition_text_id": ""
+  },
+  {
+    "id": 58,
+    "group_id": 6,
+    "puzzle_difficulty": 2,
+    "is_additional": false,
+    "is_playable": true,
+    "release_condition_text_id": ""
+  },
+  {
+    "id": 59,
+    "group_id": 6,
+    "puzzle_difficulty": 3,
+    "is_additional": false,
+    "is_playable": true,
+    "release_condition_text_id": ""
+  },
+  {
+    "id": 60,
+    "group_id": 6,
+    "puzzle_difficulty": 3,
+    "is_additional": false,
+    "is_playable": true,
+    "release_condition_text_id": ""
+  },
+  {
+    "id": 49,
+    "group_id": 5,
+    "puzzle_difficulty": 0,
+    "is_additional": false,
+    "is_playable": true,
+    "release_condition_text_id": ""
+  },
+  {
+    "id": 50,
+    "group_id": 5,
+    "puzzle_difficulty": 1,
+    "is_additional": false,
+    "is_playable": true,
+    "release_condition_text_id": ""
+  },
+  {
+    "id": 51,
+    "group_id": 5,
+    "puzzle_difficulty": 2,
+    "is_additional": false,
+    "is_playable": true,
+    "release_condition_text_id": ""
+  },
+  {
+    "id": 28,
+    "group_id": 4,
+    "puzzle_difficulty": 0,
+    "is_additional": false,
+    "is_playable": true,
+    "release_condition_text_id": ""
+  },
+  {
+    "id": 29,
+    "group_id": 4,
+    "puzzle_difficulty": 0,
+    "is_additional": false,
+    "is_playable": true,
+    "release_condition_text_id": ""
+  },
+  {
+    "id": 30,
+    "group_id": 4,
+    "puzzle_difficulty": 1,
+    "is_additional": false,
+    "is_playable": true,
+    "release_condition_text_id": ""
+  },
+  {
+    "id": 31,
+    "group_id": 4,
+    "puzzle_difficulty": 1,
+    "is_additional": false,
+    "is_playable": true,
+    "release_condition_text_id": ""
+  },
+  {
+    "id": 32,
+    "group_id": 4,
+    "puzzle_difficulty": 1,
+    "is_additional": false,
+    "is_playable": true,
+    "release_condition_text_id": ""
+  },
+  {
+    "id": 33,
+    "group_id": 4,
+    "puzzle_difficulty": 2,
+    "is_additional": false,
+    "is_playable": true,
+    "release_condition_text_id": ""
+  },
+  {
+    "id": 34,
+    "group_id": 4,
+    "puzzle_difficulty": 2,
+    "is_additional": false,
+    "is_playable": true,
+    "release_condition_text_id": ""
+  },
+  {
+    "id": 35,
+    "group_id": 4,
+    "puzzle_difficulty": 2,
+    "is_additional": false,
+    "is_playable": true,
+    "release_condition_text_id": ""
+  },
+  {
+    "id": 36,
+    "group_id": 4,
+    "puzzle_difficulty": 3,
+    "is_additional": false,
+    "is_playable": true,
+    "release_condition_text_id": ""
+  },
+  {
+    "id": 20,
+    "group_id": 3,
+    "puzzle_difficulty": 0,
+    "is_additional": false,
+    "is_playable": true,
+    "release_condition_text_id": ""
+  },
+  {
+    "id": 21,
+    "group_id": 3,
+    "puzzle_difficulty": 0,
+    "is_additional": false,
+    "is_playable": true,
+    "release_condition_text_id": ""
+  },
+  {
+    "id": 22,
+    "group_id": 3,
+    "puzzle_difficulty": 1,
+    "is_additional": false,
+    "is_playable": true,
+    "release_condition_text_id": ""
+  },
+  {
+    "id": 23,
+    "group_id": 3,
+    "puzzle_difficulty": 1,
+    "is_additional": false,
+    "is_playable": true,
+    "release_condition_text_id": ""
+  },
+  {
+    "id": 24,
+    "group_id": 3,
+    "puzzle_difficulty": 1,
+    "is_additional": false,
+    "is_playable": true,
+    "release_condition_text_id": ""
+  },
+  {
+    "id": 25,
+    "group_id": 3,
+    "puzzle_difficulty": 2,
+    "is_additional": false,
+    "is_playable": true,
+    "release_condition_text_id": ""
+  },
+  {
+    "id": 26,
+    "group_id": 3,
+    "puzzle_difficulty": 2,
+    "is_additional": false,
+    "is_playable": true,
+    "release_condition_text_id": ""
+  },
+  {
+    "id": 27,
+    "group_id": 3,
+    "puzzle_difficulty": 2,
+    "is_additional": false,
+    "is_playable": true,
+    "release_condition_text_id": ""
+  },
+  {
+    "id": 10,
+    "group_id": 2,
+    "puzzle_difficulty": 0,
+    "is_additional": false,
+    "is_playable": true,
+    "release_condition_text_id": ""
+  },
+  {
+    "id": 11,
+    "group_id": 2,
+    "puzzle_difficulty": 0,
+    "is_additional": false,
+    "is_playable": true,
+    "release_condition_text_id": ""
+  },
+  {
+    "id": 12,
+    "group_id": 2,
+    "puzzle_difficulty": 1,
+    "is_additional": false,
+    "is_playable": true,
+    "release_condition_text_id": ""
+  },
+  {
+    "id": 13,
+    "group_id": 2,
+    "puzzle_difficulty": 1,
+    "is_additional": false,
+    "is_playable": true,
+    "release_condition_text_id": ""
+  },
+  {
+    "id": 14,
+    "group_id": 2,
+    "puzzle_difficulty": 1,
+    "is_additional": false,
+    "is_playable": true,
+    "release_condition_text_id": ""
+  },
+  {
+    "id": 15,
+    "group_id": 2,
+    "puzzle_difficulty": 2,
+    "is_additional": false,
+    "is_playable": true,
+    "release_condition_text_id": ""
+  },
+  {
+    "id": 16,
+    "group_id": 2,
+    "puzzle_difficulty": 2,
+    "is_additional": false,
+    "is_playable": true,
+    "release_condition_text_id": ""
+  },
+  {
+    "id": 17,
+    "group_id": 2,
+    "puzzle_difficulty": 3,
+    "is_additional": false,
+    "is_playable": true,
+    "release_condition_text_id": "Puzzle_Unlock_Condition_0001"
+  },
+  {
+    "id": 18,
+    "group_id": 2,
+    "puzzle_difficulty": 3,
+    "is_additional": false,
+    "is_playable": true,
+    "release_condition_text_id": "Puzzle_Unlock_Condition_0001"
+  },
+  {
+    "id": 19,
+    "group_id": 2,
+    "puzzle_difficulty": 3,
+    "is_additional": false,
+    "is_playable": true,
+    "release_condition_text_id": "Puzzle_Unlock_Condition_0001"
+  },
+  {
+    "id": 1,
+    "group_id": 1,
+    "puzzle_difficulty": 0,
+    "is_additional": false,
+    "is_playable": true,
+    "release_condition_text_id": ""
+  },
+  {
+    "id": 2,
+    "group_id": 1,
+    "puzzle_difficulty": 0,
+    "is_additional": false,
+    "is_playable": true,
+    "release_condition_text_id": ""
+  },
+  {
+    "id": 3,
+    "group_id": 1,
+    "puzzle_difficulty": 0,
+    "is_additional": false,
+    "is_playable": true,
+    "release_condition_text_id": ""
+  },
+  {
+    "id": 4,
+    "group_id": 1,
+    "puzzle_difficulty": 1,
+    "is_additional": false,
+    "is_playable": true,
+    "release_condition_text_id": ""
+  },
+  {
+    "id": 5,
+    "group_id": 1,
+    "puzzle_difficulty": 1,
+    "is_additional": false,
+    "is_playable": true,
+    "release_condition_text_id": ""
+  },
+  {
+    "id": 6,
+    "group_id": 1,
+    "puzzle_difficulty": 1,
+    "is_additional": false,
+    "is_playable": true,
+    "release_condition_text_id": ""
+  },
+  {
+    "id": 7,
+    "group_id": 1,
+    "puzzle_difficulty": 2,
+    "is_additional": false,
+    "is_playable": true,
+    "release_condition_text_id": ""
+  },
+  {
+    "id": 8,
+    "group_id": 1,
+    "puzzle_difficulty": 2,
+    "is_additional": false,
+    "is_playable": true,
+    "release_condition_text_id": ""
+  },
+  {
+    "id": 9,
+    "group_id": 1,
+    "puzzle_difficulty": 2,
+    "is_additional": false,
+    "is_playable": true,
+    "release_condition_text_id": ""
+  }
+]

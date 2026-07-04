@@ -1,0 +1,54 @@
+[
+  {
+    "parent_gacha_id": 10001,
+    "base_pack_id": 10001,
+    "gacha_type": 1,
+    "pack_category": 0,
+    "poster_type": 0,
+    "commence_date": "2016-06-17 00:00:00",
+    "complete_date": "2026-06-30 23:59:59",
+    "sleeve_id": 0,
+    "special_sleeve_id": 0,
+    "override_draw_effect_pack_id": 0,
+    "override_ui_effect_pack_id": 0,
+    "gacha_detail": "STUB CLC",
+    "is_hide": false,
+    "is_new": false,
+    "is_pre_release": false,
+    "open_count_limit": 0,
+    "sales_period_time": null,
+    "gacha_point": null,
+    "child_gachas": [
+      { "gacha_id": 100011, "type_detail": 2, "cost": 200,  "card_count": 1 },
+      { "gacha_id": 100012, "type_detail": 2, "cost": 1800, "card_count": 10 }
+    ],
+    "banners": [],
+    "is_enabled": false
+  },
+  {
+    "parent_gacha_id": 95001,
+    "base_pack_id": 95001,
+    "gacha_type": 1,
+    "pack_category": 2,
+    "poster_type": 0,
+    "commence_date": "2016-06-17 00:00:00",
+    "complete_date": "2026-06-30 23:59:59",
+    "sleeve_id": 0,
+    "special_sleeve_id": 0,
+    "override_draw_effect_pack_id": 0,
+    "override_ui_effect_pack_id": 0,
+    "gacha_detail": "7th",
+    "is_hide": false,
+    "is_new": false,
+    "is_pre_release": false,
+    "open_count_limit": 0,
+    "sales_period_time": null,
+    "gacha_point": null,
+    "child_gachas": [
+      { "gacha_id": 950011, "type_detail": 2, "cost": 200,  "card_count": 1 },
+      { "gacha_id": 950012, "type_detail": 2, "cost": 1800, "card_count": 10 }
+    ],
+    "banners": [],
+    "is_enabled": false
+  }
+]

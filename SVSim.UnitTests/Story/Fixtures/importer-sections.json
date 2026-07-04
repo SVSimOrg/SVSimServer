@@ -1,0 +1,6 @@
+[
+  {"id": 1, "world_id": 1, "story_api_type": "Main", "order_id": 1, "all_story_order_id": 1,
+   "name_text_key": "section_1", "image_name": "btn_1", "is_leader_select": true,
+   "back_ground_id": 1, "chapter_select_type": 1, "story_type_overwrite": 1,
+   "is_under_maintenance": false, "is_play_another_end_appearance_animation": false}
+]

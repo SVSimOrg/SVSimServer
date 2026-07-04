@@ -1,0 +1,1648 @@
+[
+  {
+    "series_id": 107,
+    "order_id": 16,
+    "is_new": false,
+    "series_rewards": [
+      {
+        "tier_index": 1,
+        "item_index": 0,
+        "reward_type": 5,
+        "reward_detail_id": 712014010,
+        "reward_number": 3,
+        "message_id": 51004
+      },
+      {
+        "tier_index": 2,
+        "item_index": 0,
+        "reward_type": 5,
+        "reward_detail_id": 712031010,
+        "reward_number": 3,
+        "message_id": 51004
+      },
+      {
+        "tier_index": 3,
+        "item_index": 0,
+        "reward_type": 6,
+        "reward_detail_id": 712014010,
+        "reward_number": 1,
+        "message_id": 51004
+      },
+      {
+        "tier_index": 3,
+        "item_index": 1,
+        "reward_type": 7,
+        "reward_detail_id": 712014015,
+        "reward_number": 1,
+        "message_id": 51004
+      },
+      {
+        "tier_index": 3,
+        "item_index": 2,
+        "reward_type": 7,
+        "reward_detail_id": 712014016,
+        "reward_number": 1,
+        "message_id": 51004
+      },
+      {
+        "tier_index": 3,
+        "item_index": 3,
+        "reward_type": 7,
+        "reward_detail_id": 712014017,
+        "reward_number": 1,
+        "message_id": 51004
+      },
+      {
+        "tier_index": 3,
+        "item_index": 4,
+        "reward_type": 7,
+        "reward_detail_id": 712014018,
+        "reward_number": 1,
+        "message_id": 51004
+      },
+      {
+        "tier_index": 4,
+        "item_index": 0,
+        "reward_type": 6,
+        "reward_detail_id": 712031010,
+        "reward_number": 1,
+        "message_id": 51004
+      },
+      {
+        "tier_index": 4,
+        "item_index": 1,
+        "reward_type": 7,
+        "reward_detail_id": 712031010,
+        "reward_number": 1,
+        "message_id": 51004
+      },
+      {
+        "tier_index": 5,
+        "item_index": 0,
+        "reward_type": 5,
+        "reward_detail_id": 712014011,
+        "reward_number": 3,
+        "message_id": 51004
+      },
+      {
+        "tier_index": 6,
+        "item_index": 0,
+        "reward_type": 5,
+        "reward_detail_id": 712031011,
+        "reward_number": 3,
+        "message_id": 51004
+      },
+      {
+        "tier_index": 7,
+        "item_index": 0,
+        "reward_type": 4,
+        "reward_detail_id": 1000,
+        "reward_number": 1,
+        "message_id": 51004
+      },
+      {
+        "tier_index": 8,
+        "item_index": 0,
+        "reward_type": 4,
+        "reward_detail_id": 1000,
+        "reward_number": 1,
+        "message_id": 51004
+      }
+    ],
+    "products": [
+      {
+        "product_id": 701,
+        "leader_id": 1,
+        "deck_code": "pd0107",
+        "product_name": "BDPN_構築済みデッキ7弾_エルフ",
+        "featured_card_id": 115141020,
+        "purchase_num_max": 1,
+        "intro_price_crystal": 1200,
+        "regular_price_crystal": null,
+        "intro_price_rupy": null,
+        "regular_price_rupy": null,
+        "rewards": [
+          {
+            "reward_index": 1,
+            "reward_type": 6,
+            "reward_detail_id": 1151410200,
+            "reward_number": 1,
+            "message_id": 51004
+          }
+        ]
+      },
+      {
+        "product_id": 702,
+        "leader_id": 2,
+        "deck_code": "pd0207",
+        "product_name": "BDPN_構築済みデッキ7弾_ロイヤル",
+        "featured_card_id": 115241020,
+        "purchase_num_max": 1,
+        "intro_price_crystal": 1200,
+        "regular_price_crystal": null,
+        "intro_price_rupy": null,
+        "regular_price_rupy": null,
+        "rewards": [
+          {
+            "reward_index": 1,
+            "reward_type": 6,
+            "reward_detail_id": 1152410200,
+            "reward_number": 1,
+            "message_id": 51004
+          }
+        ]
+      },
+      {
+        "product_id": 703,
+        "leader_id": 3,
+        "deck_code": "pd0307",
+        "product_name": "BDPN_構築済みデッキ7弾_ウィッチ",
+        "featured_card_id": 115341020,
+        "purchase_num_max": 1,
+        "intro_price_crystal": 1200,
+        "regular_price_crystal": null,
+        "intro_price_rupy": null,
+        "regular_price_rupy": null,
+        "rewards": [
+          {
+            "reward_index": 1,
+            "reward_type": 6,
+            "reward_detail_id": 1153410200,
+            "reward_number": 1,
+            "message_id": 51004
+          }
+        ]
+      },
+      {
+        "product_id": 704,
+        "leader_id": 4,
+        "deck_code": "pd0407",
+        "product_name": "BDPN_構築済みデッキ7弾_ドラゴン",
+        "featured_card_id": 115441020,
+        "purchase_num_max": 1,
+        "intro_price_crystal": 1200,
+        "regular_price_crystal": null,
+        "intro_price_rupy": null,
+        "regular_price_rupy": null,
+        "rewards": [
+          {
+            "reward_index": 1,
+            "reward_type": 6,
+            "reward_detail_id": 1154410200,
+            "reward_number": 1,
+            "message_id": 51004
+          }
+        ]
+      },
+      {
+        "product_id": 705,
+        "leader_id": 5,
+        "deck_code": "pd0507",
+        "product_name": "BDPN_構築済みデッキ7弾_ネクロマンサー",
+        "featured_card_id": 115541020,
+        "purchase_num_max": 1,
+        "intro_price_crystal": 1200,
+        "regular_price_crystal": null,
+        "intro_price_rupy": null,
+        "regular_price_rupy": null,
+        "rewards": [
+          {
+            "reward_index": 1,
+            "reward_type": 6,
+            "reward_detail_id": 1155410200,
+            "reward_number": 1,
+            "message_id": 51004
+          }
+        ]
+      },
+      {
+        "product_id": 706,
+        "leader_id": 6,
+        "deck_code": "pd0607",
+        "product_name": "BDPN_構築済みデッキ7弾_ヴァンパイア",
+        "featured_card_id": 115641020,
+        "purchase_num_max": 1,
+        "intro_price_crystal": 1200,
+        "regular_price_crystal": null,
+        "intro_price_rupy": null,
+        "regular_price_rupy": null,
+        "rewards": [
+          {
+            "reward_index": 1,
+            "reward_type": 6,
+            "reward_detail_id": 1156410200,
+            "reward_number": 1,
+            "message_id": 51004
+          }
+        ]
+      },
+      {
+        "product_id": 707,
+        "leader_id": 7,
+        "deck_code": "pd0707",
+        "product_name": "BDPN_構築済みデッキ7弾_ビショップ",
+        "featured_card_id": 115741020,
+        "purchase_num_max": 1,
+        "intro_price_crystal": 1200,
+        "regular_price_crystal": null,
+        "intro_price_rupy": null,
+        "regular_price_rupy": null,
+        "rewards": [
+          {
+            "reward_index": 1,
+            "reward_type": 6,
+            "reward_detail_id": 1157410200,
+            "reward_number": 1,
+            "message_id": 51004
+          }
+        ]
+      },
+      {
+        "product_id": 708,
+        "leader_id": 8,
+        "deck_code": "pd0807",
+        "product_name": "BDPN_構築済みデッキ7弾_ネメシス",
+        "featured_card_id": 115841020,
+        "purchase_num_max": 1,
+        "intro_price_crystal": 1200,
+        "regular_price_crystal": null,
+        "intro_price_rupy": null,
+        "regular_price_rupy": null,
+        "rewards": [
+          {
+            "reward_index": 1,
+            "reward_type": 6,
+            "reward_detail_id": 1158410200,
+            "reward_number": 1,
+            "message_id": 51004
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "series_id": 106,
+    "order_id": 17,
+    "is_new": false,
+    "series_rewards": [
+      {
+        "tier_index": 1,
+        "item_index": 0,
+        "reward_type": 5,
+        "reward_detail_id": 710034010,
+        "reward_number": 3,
+        "message_id": 51004
+      },
+      {
+        "tier_index": 2,
+        "item_index": 0,
+        "reward_type": 5,
+        "reward_detail_id": 710031010,
+        "reward_number": 3,
+        "message_id": 51004
+      },
+      {
+        "tier_index": 3,
+        "item_index": 0,
+        "reward_type": 6,
+        "reward_detail_id": 710034010,
+        "reward_number": 1,
+        "message_id": 51004
+      },
+      {
+        "tier_index": 3,
+        "item_index": 1,
+        "reward_type": 7,
+        "reward_detail_id": 710034010,
+        "reward_number": 1,
+        "message_id": 51004
+      },
+      {
+        "tier_index": 4,
+        "item_index": 0,
+        "reward_type": 6,
+        "reward_detail_id": 710031010,
+        "reward_number": 1,
+        "message_id": 51004
+      },
+      {
+        "tier_index": 4,
+        "item_index": 1,
+        "reward_type": 7,
+        "reward_detail_id": 710031010,
+        "reward_number": 1,
+        "message_id": 51004
+      },
+      {
+        "tier_index": 5,
+        "item_index": 0,
+        "reward_type": 5,
+        "reward_detail_id": 710034011,
+        "reward_number": 3,
+        "message_id": 51004
+      },
+      {
+        "tier_index": 6,
+        "item_index": 0,
+        "reward_type": 5,
+        "reward_detail_id": 710031011,
+        "reward_number": 3,
+        "message_id": 51004
+      },
+      {
+        "tier_index": 7,
+        "item_index": 0,
+        "reward_type": 4,
+        "reward_detail_id": 1000,
+        "reward_number": 1,
+        "message_id": 51004
+      },
+      {
+        "tier_index": 8,
+        "item_index": 0,
+        "reward_type": 4,
+        "reward_detail_id": 1000,
+        "reward_number": 1,
+        "message_id": 51004
+      }
+    ],
+    "products": [
+      {
+        "product_id": 601,
+        "leader_id": 1,
+        "deck_code": "pd0106",
+        "product_name": "BDPN_構築済みデッキ6弾_エルフ",
+        "featured_card_id": 111141010,
+        "purchase_num_max": 1,
+        "intro_price_crystal": 1200,
+        "regular_price_crystal": null,
+        "intro_price_rupy": null,
+        "regular_price_rupy": null,
+        "rewards": [
+          {
+            "reward_index": 1,
+            "reward_type": 6,
+            "reward_detail_id": 1111410100,
+            "reward_number": 1,
+            "message_id": 51004
+          }
+        ]
+      },
+      {
+        "product_id": 602,
+        "leader_id": 2,
+        "deck_code": "pd0206",
+        "product_name": "BDPN_構築済みデッキ6弾_ロイヤル",
+        "featured_card_id": 112241010,
+        "purchase_num_max": 1,
+        "intro_price_crystal": 1200,
+        "regular_price_crystal": null,
+        "intro_price_rupy": null,
+        "regular_price_rupy": null,
+        "rewards": [
+          {
+            "reward_index": 1,
+            "reward_type": 6,
+            "reward_detail_id": 1122410100,
+            "reward_number": 1,
+            "message_id": 51004
+          }
+        ]
+      },
+      {
+        "product_id": 603,
+        "leader_id": 3,
+        "deck_code": "pd0306",
+        "product_name": "BDPN_構築済みデッキ6弾_ウィッチ",
+        "featured_card_id": 112341020,
+        "purchase_num_max": 1,
+        "intro_price_crystal": 1200,
+        "regular_price_crystal": null,
+        "intro_price_rupy": null,
+        "regular_price_rupy": null,
+        "rewards": [
+          {
+            "reward_index": 1,
+            "reward_type": 6,
+            "reward_detail_id": 1123410200,
+            "reward_number": 1,
+            "message_id": 51004
+          }
+        ]
+      },
+      {
+        "product_id": 604,
+        "leader_id": 4,
+        "deck_code": "pd0406",
+        "product_name": "BDPN_構築済みデッキ6弾_ドラゴン",
+        "featured_card_id": 112441010,
+        "purchase_num_max": 1,
+        "intro_price_crystal": 1200,
+        "regular_price_crystal": null,
+        "intro_price_rupy": null,
+        "regular_price_rupy": null,
+        "rewards": [
+          {
+            "reward_index": 1,
+            "reward_type": 6,
+            "reward_detail_id": 1124410100,
+            "reward_number": 1,
+            "message_id": 51004
+          }
+        ]
+      },
+      {
+        "product_id": 605,
+        "leader_id": 5,
+        "deck_code": "pd0506",
+        "product_name": "BDPN_構築済みデッキ6弾_ネクロマンサー",
+        "featured_card_id": 112541020,
+        "purchase_num_max": 1,
+        "intro_price_crystal": 1200,
+        "regular_price_crystal": null,
+        "intro_price_rupy": null,
+        "regular_price_rupy": null,
+        "rewards": [
+          {
+            "reward_index": 1,
+            "reward_type": 6,
+            "reward_detail_id": 1125410200,
+            "reward_number": 1,
+            "message_id": 51004
+          }
+        ]
+      },
+      {
+        "product_id": 606,
+        "leader_id": 6,
+        "deck_code": "pd0606",
+        "product_name": "BDPN_構築済みデッキ6弾_ヴァンパイア",
+        "featured_card_id": 112641020,
+        "purchase_num_max": 1,
+        "intro_price_crystal": 1200,
+        "regular_price_crystal": null,
+        "intro_price_rupy": null,
+        "regular_price_rupy": null,
+        "rewards": [
+          {
+            "reward_index": 1,
+            "reward_type": 6,
+            "reward_detail_id": 1126410200,
+            "reward_number": 1,
+            "message_id": 51004
+          }
+        ]
+      },
+      {
+        "product_id": 607,
+        "leader_id": 7,
+        "deck_code": "pd0706",
+        "product_name": "BDPN_構築済みデッキ6弾_ビショップ",
+        "featured_card_id": 111741030,
+        "purchase_num_max": 1,
+        "intro_price_crystal": 1200,
+        "regular_price_crystal": null,
+        "intro_price_rupy": null,
+        "regular_price_rupy": null,
+        "rewards": [
+          {
+            "reward_index": 1,
+            "reward_type": 6,
+            "reward_detail_id": 1117410300,
+            "reward_number": 1,
+            "message_id": 51004
+          }
+        ]
+      },
+      {
+        "product_id": 608,
+        "leader_id": 8,
+        "deck_code": "pd0806",
+        "product_name": "BDPN_構築済みデッキ6弾_ネメシス",
+        "featured_card_id": 112841030,
+        "purchase_num_max": 1,
+        "intro_price_crystal": 1200,
+        "regular_price_crystal": null,
+        "intro_price_rupy": null,
+        "regular_price_rupy": null,
+        "rewards": [
+          {
+            "reward_index": 1,
+            "reward_type": 6,
+            "reward_detail_id": 1128410300,
+            "reward_number": 1,
+            "message_id": 51004
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "series_id": 105,
+    "order_id": 18,
+    "is_new": false,
+    "series_rewards": [
+      {
+        "tier_index": 1,
+        "item_index": 0,
+        "reward_type": 5,
+        "reward_detail_id": 707034010,
+        "reward_number": 3,
+        "message_id": 51004
+      },
+      {
+        "tier_index": 2,
+        "item_index": 0,
+        "reward_type": 5,
+        "reward_detail_id": 707031010,
+        "reward_number": 3,
+        "message_id": 51004
+      },
+      {
+        "tier_index": 3,
+        "item_index": 0,
+        "reward_type": 6,
+        "reward_detail_id": 707034010,
+        "reward_number": 1,
+        "message_id": 51004
+      },
+      {
+        "tier_index": 3,
+        "item_index": 1,
+        "reward_type": 7,
+        "reward_detail_id": 707034010,
+        "reward_number": 1,
+        "message_id": 51004
+      },
+      {
+        "tier_index": 4,
+        "item_index": 0,
+        "reward_type": 6,
+        "reward_detail_id": 707031010,
+        "reward_number": 1,
+        "message_id": 51004
+      },
+      {
+        "tier_index": 4,
+        "item_index": 1,
+        "reward_type": 7,
+        "reward_detail_id": 707031010,
+        "reward_number": 1,
+        "message_id": 51004
+      },
+      {
+        "tier_index": 5,
+        "item_index": 0,
+        "reward_type": 5,
+        "reward_detail_id": 707034011,
+        "reward_number": 3,
+        "message_id": 51004
+      },
+      {
+        "tier_index": 6,
+        "item_index": 0,
+        "reward_type": 5,
+        "reward_detail_id": 707031011,
+        "reward_number": 3,
+        "message_id": 51004
+      },
+      {
+        "tier_index": 7,
+        "item_index": 0,
+        "reward_type": 4,
+        "reward_detail_id": 1000,
+        "reward_number": 1,
+        "message_id": 51004
+      },
+      {
+        "tier_index": 8,
+        "item_index": 0,
+        "reward_type": 4,
+        "reward_detail_id": 1000,
+        "reward_number": 1,
+        "message_id": 51004
+      }
+    ],
+    "products": [
+      {
+        "product_id": 501,
+        "leader_id": 1,
+        "deck_code": "pd0105",
+        "product_name": "BDPN_構築済みデッキ5弾_エルフ",
+        "featured_card_id": 111141020,
+        "purchase_num_max": 1,
+        "intro_price_crystal": 1200,
+        "regular_price_crystal": null,
+        "intro_price_rupy": null,
+        "regular_price_rupy": null,
+        "rewards": [
+          {
+            "reward_index": 1,
+            "reward_type": 6,
+            "reward_detail_id": 1111410200,
+            "reward_number": 1,
+            "message_id": 51004
+          }
+        ]
+      },
+      {
+        "product_id": 502,
+        "leader_id": 2,
+        "deck_code": "pd0205",
+        "product_name": "BDPN_構築済みデッキ5弾_ロイヤル",
+        "featured_card_id": 111241020,
+        "purchase_num_max": 1,
+        "intro_price_crystal": 1200,
+        "regular_price_crystal": null,
+        "intro_price_rupy": null,
+        "regular_price_rupy": null,
+        "rewards": [
+          {
+            "reward_index": 1,
+            "reward_type": 6,
+            "reward_detail_id": 1112410200,
+            "reward_number": 1,
+            "message_id": 51004
+          }
+        ]
+      },
+      {
+        "product_id": 503,
+        "leader_id": 3,
+        "deck_code": "pd0305",
+        "product_name": "BDPN_構築済みデッキ5弾_ウィッチ",
+        "featured_card_id": 111341020,
+        "purchase_num_max": 1,
+        "intro_price_crystal": 1200,
+        "regular_price_crystal": null,
+        "intro_price_rupy": null,
+        "regular_price_rupy": null,
+        "rewards": [
+          {
+            "reward_index": 1,
+            "reward_type": 6,
+            "reward_detail_id": 1113410200,
+            "reward_number": 1,
+            "message_id": 51004
+          }
+        ]
+      },
+      {
+        "product_id": 504,
+        "leader_id": 4,
+        "deck_code": "pd0405",
+        "product_name": "BDPN_構築済みデッキ5弾_ドラゴン",
+        "featured_card_id": 111441020,
+        "purchase_num_max": 1,
+        "intro_price_crystal": 1200,
+        "regular_price_crystal": null,
+        "intro_price_rupy": null,
+        "regular_price_rupy": null,
+        "rewards": [
+          {
+            "reward_index": 1,
+            "reward_type": 6,
+            "reward_detail_id": 1114410200,
+            "reward_number": 1,
+            "message_id": 51004
+          }
+        ]
+      },
+      {
+        "product_id": 505,
+        "leader_id": 5,
+        "deck_code": "pd0505",
+        "product_name": "BDPN_構築済みデッキ5弾_ネクロマンサー",
+        "featured_card_id": 111541020,
+        "purchase_num_max": 1,
+        "intro_price_crystal": 1200,
+        "regular_price_crystal": null,
+        "intro_price_rupy": null,
+        "regular_price_rupy": null,
+        "rewards": [
+          {
+            "reward_index": 1,
+            "reward_type": 6,
+            "reward_detail_id": 1115410200,
+            "reward_number": 1,
+            "message_id": 51004
+          }
+        ]
+      },
+      {
+        "product_id": 506,
+        "leader_id": 6,
+        "deck_code": "pd0605",
+        "product_name": "BDPN_構築済みデッキ5弾_ヴァンパイア",
+        "featured_card_id": 111641020,
+        "purchase_num_max": 1,
+        "intro_price_crystal": 1200,
+        "regular_price_crystal": null,
+        "intro_price_rupy": null,
+        "regular_price_rupy": null,
+        "rewards": [
+          {
+            "reward_index": 1,
+            "reward_type": 6,
+            "reward_detail_id": 1116410200,
+            "reward_number": 1,
+            "message_id": 51004
+          }
+        ]
+      },
+      {
+        "product_id": 507,
+        "leader_id": 7,
+        "deck_code": "pd0705",
+        "product_name": "BDPN_構築済みデッキ5弾_ビショップ",
+        "featured_card_id": 111741020,
+        "purchase_num_max": 1,
+        "intro_price_crystal": 1200,
+        "regular_price_crystal": null,
+        "intro_price_rupy": null,
+        "regular_price_rupy": null,
+        "rewards": [
+          {
+            "reward_index": 1,
+            "reward_type": 6,
+            "reward_detail_id": 1117410200,
+            "reward_number": 1,
+            "message_id": 51004
+          }
+        ]
+      },
+      {
+        "product_id": 508,
+        "leader_id": 8,
+        "deck_code": "pd0805",
+        "product_name": "BDPN_構築済みデッキ5弾_ネメシス",
+        "featured_card_id": 111841020,
+        "purchase_num_max": 1,
+        "intro_price_crystal": 1200,
+        "regular_price_crystal": null,
+        "intro_price_rupy": null,
+        "regular_price_rupy": null,
+        "rewards": [
+          {
+            "reward_index": 1,
+            "reward_type": 6,
+            "reward_detail_id": 1118410200,
+            "reward_number": 1,
+            "message_id": 51004
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "series_id": 104,
+    "order_id": 19,
+    "is_new": false,
+    "series_rewards": [],
+    "products": [
+      {
+        "product_id": 401,
+        "leader_id": 1,
+        "deck_code": "pd0104",
+        "product_name": "BDPN_構築済みデッキ4弾_エルフ",
+        "featured_card_id": 705114010,
+        "purchase_num_max": 1,
+        "intro_price_crystal": 800,
+        "regular_price_crystal": null,
+        "intro_price_rupy": null,
+        "regular_price_rupy": null,
+        "rewards": [
+          {
+            "reward_index": 1,
+            "reward_type": 7,
+            "reward_detail_id": 705114010,
+            "reward_number": 1,
+            "message_id": 51004
+          },
+          {
+            "reward_index": 2,
+            "reward_type": 6,
+            "reward_detail_id": 705114010,
+            "reward_number": 1,
+            "message_id": 51004
+          },
+          {
+            "reward_index": 3,
+            "reward_type": 5,
+            "reward_detail_id": 705114010,
+            "reward_number": 3,
+            "message_id": 51004
+          }
+        ]
+      },
+      {
+        "product_id": 402,
+        "leader_id": 2,
+        "deck_code": "pd0204",
+        "product_name": "BDPN_構築済みデッキ4弾_ロイヤル",
+        "featured_card_id": 705214010,
+        "purchase_num_max": 1,
+        "intro_price_crystal": 800,
+        "regular_price_crystal": null,
+        "intro_price_rupy": null,
+        "regular_price_rupy": null,
+        "rewards": [
+          {
+            "reward_index": 1,
+            "reward_type": 7,
+            "reward_detail_id": 705214010,
+            "reward_number": 1,
+            "message_id": 51004
+          },
+          {
+            "reward_index": 2,
+            "reward_type": 6,
+            "reward_detail_id": 705214010,
+            "reward_number": 1,
+            "message_id": 51004
+          },
+          {
+            "reward_index": 3,
+            "reward_type": 5,
+            "reward_detail_id": 705214010,
+            "reward_number": 3,
+            "message_id": 51004
+          }
+        ]
+      },
+      {
+        "product_id": 403,
+        "leader_id": 3,
+        "deck_code": "pd0304",
+        "product_name": "BDPN_構築済みデッキ4弾_ウィッチ",
+        "featured_card_id": 705314010,
+        "purchase_num_max": 1,
+        "intro_price_crystal": 800,
+        "regular_price_crystal": null,
+        "intro_price_rupy": null,
+        "regular_price_rupy": null,
+        "rewards": [
+          {
+            "reward_index": 1,
+            "reward_type": 7,
+            "reward_detail_id": 705314010,
+            "reward_number": 1,
+            "message_id": 51004
+          },
+          {
+            "reward_index": 2,
+            "reward_type": 6,
+            "reward_detail_id": 705314010,
+            "reward_number": 1,
+            "message_id": 51004
+          },
+          {
+            "reward_index": 3,
+            "reward_type": 5,
+            "reward_detail_id": 705314010,
+            "reward_number": 3,
+            "message_id": 51004
+          }
+        ]
+      },
+      {
+        "product_id": 404,
+        "leader_id": 4,
+        "deck_code": "pd0404",
+        "product_name": "BDPN_構築済みデッキ4弾_ドラゴン",
+        "featured_card_id": 705414010,
+        "purchase_num_max": 1,
+        "intro_price_crystal": 800,
+        "regular_price_crystal": null,
+        "intro_price_rupy": null,
+        "regular_price_rupy": null,
+        "rewards": [
+          {
+            "reward_index": 1,
+            "reward_type": 7,
+            "reward_detail_id": 705414010,
+            "reward_number": 1,
+            "message_id": 51004
+          },
+          {
+            "reward_index": 2,
+            "reward_type": 6,
+            "reward_detail_id": 705414010,
+            "reward_number": 1,
+            "message_id": 51004
+          },
+          {
+            "reward_index": 3,
+            "reward_type": 5,
+            "reward_detail_id": 705414010,
+            "reward_number": 3,
+            "message_id": 51004
+          }
+        ]
+      },
+      {
+        "product_id": 405,
+        "leader_id": 5,
+        "deck_code": "pd0504",
+        "product_name": "BDPN_構築済みデッキ4弾_ネクロマンサー",
+        "featured_card_id": 705514010,
+        "purchase_num_max": 1,
+        "intro_price_crystal": 800,
+        "regular_price_crystal": null,
+        "intro_price_rupy": null,
+        "regular_price_rupy": null,
+        "rewards": [
+          {
+            "reward_index": 1,
+            "reward_type": 7,
+            "reward_detail_id": 705514010,
+            "reward_number": 1,
+            "message_id": 51004
+          },
+          {
+            "reward_index": 2,
+            "reward_type": 6,
+            "reward_detail_id": 705514010,
+            "reward_number": 1,
+            "message_id": 51004
+          },
+          {
+            "reward_index": 3,
+            "reward_type": 5,
+            "reward_detail_id": 705514010,
+            "reward_number": 3,
+            "message_id": 51004
+          }
+        ]
+      },
+      {
+        "product_id": 406,
+        "leader_id": 6,
+        "deck_code": "pd0604",
+        "product_name": "BDPN_構築済みデッキ4弾_ヴァンパイア",
+        "featured_card_id": 705614020,
+        "purchase_num_max": 1,
+        "intro_price_crystal": 800,
+        "regular_price_crystal": null,
+        "intro_price_rupy": null,
+        "regular_price_rupy": null,
+        "rewards": [
+          {
+            "reward_index": 1,
+            "reward_type": 7,
+            "reward_detail_id": 705614020,
+            "reward_number": 1,
+            "message_id": 51004
+          },
+          {
+            "reward_index": 2,
+            "reward_type": 6,
+            "reward_detail_id": 705614020,
+            "reward_number": 1,
+            "message_id": 51004
+          },
+          {
+            "reward_index": 3,
+            "reward_type": 5,
+            "reward_detail_id": 705614020,
+            "reward_number": 3,
+            "message_id": 51004
+          }
+        ]
+      },
+      {
+        "product_id": 407,
+        "leader_id": 7,
+        "deck_code": "pd0704",
+        "product_name": "BDPN_構築済みデッキ4弾_ビショップ",
+        "featured_card_id": 705714010,
+        "purchase_num_max": 1,
+        "intro_price_crystal": 800,
+        "regular_price_crystal": null,
+        "intro_price_rupy": null,
+        "regular_price_rupy": null,
+        "rewards": [
+          {
+            "reward_index": 1,
+            "reward_type": 7,
+            "reward_detail_id": 705714010,
+            "reward_number": 1,
+            "message_id": 51004
+          },
+          {
+            "reward_index": 2,
+            "reward_type": 6,
+            "reward_detail_id": 705714010,
+            "reward_number": 1,
+            "message_id": 51004
+          },
+          {
+            "reward_index": 3,
+            "reward_type": 5,
+            "reward_detail_id": 705714010,
+            "reward_number": 3,
+            "message_id": 51004
+          }
+        ]
+      },
+      {
+        "product_id": 408,
+        "leader_id": 8,
+        "deck_code": "pd0804",
+        "product_name": "BDPN_構築済みデッキ4弾_ネメシス",
+        "featured_card_id": 705814010,
+        "purchase_num_max": 1,
+        "intro_price_crystal": 800,
+        "regular_price_crystal": null,
+        "intro_price_rupy": null,
+        "regular_price_rupy": null,
+        "rewards": [
+          {
+            "reward_index": 1,
+            "reward_type": 7,
+            "reward_detail_id": 705814010,
+            "reward_number": 1,
+            "message_id": 51004
+          },
+          {
+            "reward_index": 2,
+            "reward_type": 6,
+            "reward_detail_id": 705814010,
+            "reward_number": 1,
+            "message_id": 51004
+          },
+          {
+            "reward_index": 3,
+            "reward_type": 5,
+            "reward_detail_id": 705814010,
+            "reward_number": 3,
+            "message_id": 51004
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "series_id": 103,
+    "order_id": 20,
+    "is_new": false,
+    "series_rewards": [],
+    "products": [
+      {
+        "product_id": 301,
+        "leader_id": 1,
+        "deck_code": "pd0103",
+        "product_name": "BDPN_構築済みデッキ3弾_エルフ",
+        "featured_card_id": 106141010,
+        "purchase_num_max": 1,
+        "intro_price_crystal": 800,
+        "regular_price_crystal": null,
+        "intro_price_rupy": null,
+        "regular_price_rupy": null,
+        "rewards": [
+          {
+            "reward_index": 1,
+            "reward_type": 6,
+            "reward_detail_id": 1061410100,
+            "reward_number": 1,
+            "message_id": 51004
+          }
+        ]
+      },
+      {
+        "product_id": 302,
+        "leader_id": 2,
+        "deck_code": "pd0203",
+        "product_name": "BDPN_構築済みデッキ3弾_ロイヤル",
+        "featured_card_id": 106241010,
+        "purchase_num_max": 1,
+        "intro_price_crystal": 800,
+        "regular_price_crystal": null,
+        "intro_price_rupy": null,
+        "regular_price_rupy": null,
+        "rewards": [
+          {
+            "reward_index": 1,
+            "reward_type": 6,
+            "reward_detail_id": 1062410100,
+            "reward_number": 1,
+            "message_id": 51004
+          }
+        ]
+      },
+      {
+        "product_id": 303,
+        "leader_id": 3,
+        "deck_code": "pd0303",
+        "product_name": "BDPN_構築済みデッキ3弾_ウィッチ",
+        "featured_card_id": 105341010,
+        "purchase_num_max": 1,
+        "intro_price_crystal": 800,
+        "regular_price_crystal": null,
+        "intro_price_rupy": null,
+        "regular_price_rupy": null,
+        "rewards": [
+          {
+            "reward_index": 1,
+            "reward_type": 6,
+            "reward_detail_id": 1053410100,
+            "reward_number": 1,
+            "message_id": 51004
+          }
+        ]
+      },
+      {
+        "product_id": 304,
+        "leader_id": 4,
+        "deck_code": "pd0403",
+        "product_name": "BDPN_構築済みデッキ3弾_ドラゴン",
+        "featured_card_id": 106441010,
+        "purchase_num_max": 1,
+        "intro_price_crystal": 800,
+        "regular_price_crystal": null,
+        "intro_price_rupy": null,
+        "regular_price_rupy": null,
+        "rewards": [
+          {
+            "reward_index": 1,
+            "reward_type": 6,
+            "reward_detail_id": 1064410100,
+            "reward_number": 1,
+            "message_id": 51004
+          }
+        ]
+      },
+      {
+        "product_id": 305,
+        "leader_id": 5,
+        "deck_code": "pd0503",
+        "product_name": "BDPN_構築済みデッキ3弾_ネクロマンサー",
+        "featured_card_id": 106541020,
+        "purchase_num_max": 1,
+        "intro_price_crystal": 800,
+        "regular_price_crystal": null,
+        "intro_price_rupy": null,
+        "regular_price_rupy": null,
+        "rewards": [
+          {
+            "reward_index": 1,
+            "reward_type": 6,
+            "reward_detail_id": 1065410200,
+            "reward_number": 1,
+            "message_id": 51004
+          }
+        ]
+      },
+      {
+        "product_id": 306,
+        "leader_id": 6,
+        "deck_code": "pd0603",
+        "product_name": "BDPN_構築済みデッキ3弾_ヴァンパイア",
+        "featured_card_id": 105641020,
+        "purchase_num_max": 1,
+        "intro_price_crystal": 800,
+        "regular_price_crystal": null,
+        "intro_price_rupy": null,
+        "regular_price_rupy": null,
+        "rewards": [
+          {
+            "reward_index": 1,
+            "reward_type": 6,
+            "reward_detail_id": 1056410200,
+            "reward_number": 1,
+            "message_id": 51004
+          }
+        ]
+      },
+      {
+        "product_id": 307,
+        "leader_id": 7,
+        "deck_code": "pd0703",
+        "product_name": "BDPN_構築済みデッキ3弾_ビショップ",
+        "featured_card_id": 106741010,
+        "purchase_num_max": 1,
+        "intro_price_crystal": 800,
+        "regular_price_crystal": null,
+        "intro_price_rupy": null,
+        "regular_price_rupy": null,
+        "rewards": [
+          {
+            "reward_index": 1,
+            "reward_type": 6,
+            "reward_detail_id": 1067410100,
+            "reward_number": 1,
+            "message_id": 51004
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "series_id": 102,
+    "order_id": 21,
+    "is_new": false,
+    "series_rewards": [],
+    "products": [
+      {
+        "product_id": 201,
+        "leader_id": 1,
+        "deck_code": "pd0102",
+        "product_name": "BDPN_構築済みデッキ2弾_エルフ",
+        "featured_card_id": 703141011,
+        "purchase_num_max": 3,
+        "intro_price_crystal": 500,
+        "regular_price_crystal": 750,
+        "intro_price_rupy": null,
+        "regular_price_rupy": null,
+        "rewards": [
+          {
+            "reward_index": 1,
+            "reward_type": 7,
+            "reward_detail_id": 703141011,
+            "reward_number": 1,
+            "message_id": 51004
+          },
+          {
+            "reward_index": 2,
+            "reward_type": 6,
+            "reward_detail_id": 703141011,
+            "reward_number": 1,
+            "message_id": 51004
+          }
+        ]
+      },
+      {
+        "product_id": 202,
+        "leader_id": 2,
+        "deck_code": "pd0202",
+        "product_name": "BDPN_構築済みデッキ2弾_ロイヤル",
+        "featured_card_id": 703241011,
+        "purchase_num_max": 3,
+        "intro_price_crystal": 500,
+        "regular_price_crystal": 750,
+        "intro_price_rupy": null,
+        "regular_price_rupy": null,
+        "rewards": [
+          {
+            "reward_index": 1,
+            "reward_type": 7,
+            "reward_detail_id": 703241011,
+            "reward_number": 1,
+            "message_id": 51004
+          },
+          {
+            "reward_index": 2,
+            "reward_type": 6,
+            "reward_detail_id": 703241011,
+            "reward_number": 1,
+            "message_id": 51004
+          }
+        ]
+      },
+      {
+        "product_id": 203,
+        "leader_id": 3,
+        "deck_code": "pd0302",
+        "product_name": "BDPN_構築済みデッキ2弾_ウィッチ",
+        "featured_card_id": 703341011,
+        "purchase_num_max": 3,
+        "intro_price_crystal": 500,
+        "regular_price_crystal": 750,
+        "intro_price_rupy": null,
+        "regular_price_rupy": null,
+        "rewards": [
+          {
+            "reward_index": 1,
+            "reward_type": 7,
+            "reward_detail_id": 703341011,
+            "reward_number": 1,
+            "message_id": 51004
+          },
+          {
+            "reward_index": 2,
+            "reward_type": 6,
+            "reward_detail_id": 703341011,
+            "reward_number": 1,
+            "message_id": 51004
+          }
+        ]
+      },
+      {
+        "product_id": 204,
+        "leader_id": 4,
+        "deck_code": "pd0402",
+        "product_name": "BDPN_構築済みデッキ2弾_ドラゴン",
+        "featured_card_id": 703441011,
+        "purchase_num_max": 3,
+        "intro_price_crystal": 500,
+        "regular_price_crystal": 750,
+        "intro_price_rupy": null,
+        "regular_price_rupy": null,
+        "rewards": [
+          {
+            "reward_index": 1,
+            "reward_type": 7,
+            "reward_detail_id": 703441011,
+            "reward_number": 1,
+            "message_id": 51004
+          },
+          {
+            "reward_index": 2,
+            "reward_type": 6,
+            "reward_detail_id": 703441011,
+            "reward_number": 1,
+            "message_id": 51004
+          }
+        ]
+      },
+      {
+        "product_id": 205,
+        "leader_id": 5,
+        "deck_code": "pd0502",
+        "product_name": "BDPN_構築済みデッキ2弾_ネクロマンサー",
+        "featured_card_id": 703541011,
+        "purchase_num_max": 3,
+        "intro_price_crystal": 500,
+        "regular_price_crystal": 750,
+        "intro_price_rupy": null,
+        "regular_price_rupy": null,
+        "rewards": [
+          {
+            "reward_index": 1,
+            "reward_type": 7,
+            "reward_detail_id": 703541011,
+            "reward_number": 1,
+            "message_id": 51004
+          },
+          {
+            "reward_index": 2,
+            "reward_type": 6,
+            "reward_detail_id": 703541011,
+            "reward_number": 1,
+            "message_id": 51004
+          }
+        ]
+      },
+      {
+        "product_id": 206,
+        "leader_id": 6,
+        "deck_code": "pd0602",
+        "product_name": "BDPN_構築済みデッキ2弾_ヴァンパイア",
+        "featured_card_id": 703641011,
+        "purchase_num_max": 3,
+        "intro_price_crystal": 500,
+        "regular_price_crystal": 750,
+        "intro_price_rupy": null,
+        "regular_price_rupy": null,
+        "rewards": [
+          {
+            "reward_index": 1,
+            "reward_type": 7,
+            "reward_detail_id": 703641011,
+            "reward_number": 1,
+            "message_id": 51004
+          },
+          {
+            "reward_index": 2,
+            "reward_type": 6,
+            "reward_detail_id": 703641011,
+            "reward_number": 1,
+            "message_id": 51004
+          }
+        ]
+      },
+      {
+        "product_id": 207,
+        "leader_id": 7,
+        "deck_code": "pd0702",
+        "product_name": "BDPN_構築済みデッキ2弾_ビショップ",
+        "featured_card_id": 703741011,
+        "purchase_num_max": 3,
+        "intro_price_crystal": 500,
+        "regular_price_crystal": 750,
+        "intro_price_rupy": null,
+        "regular_price_rupy": null,
+        "rewards": [
+          {
+            "reward_index": 1,
+            "reward_type": 7,
+            "reward_detail_id": 703741011,
+            "reward_number": 1,
+            "message_id": 51004
+          },
+          {
+            "reward_index": 2,
+            "reward_type": 6,
+            "reward_detail_id": 703741011,
+            "reward_number": 1,
+            "message_id": 51004
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "series_id": 101,
+    "order_id": 22,
+    "is_new": false,
+    "series_rewards": [],
+    "products": [
+      {
+        "product_id": 1,
+        "leader_id": 1,
+        "deck_code": "pd0101",
+        "product_name": "BDPN_構築済みデッキ1弾_エルフ",
+        "featured_card_id": 701141011,
+        "purchase_num_max": 3,
+        "intro_price_crystal": 500,
+        "regular_price_crystal": 750,
+        "intro_price_rupy": null,
+        "regular_price_rupy": null,
+        "rewards": [
+          {
+            "reward_index": 1,
+            "reward_type": 7,
+            "reward_detail_id": 701141011,
+            "reward_number": 1,
+            "message_id": 51004
+          },
+          {
+            "reward_index": 2,
+            "reward_type": 6,
+            "reward_detail_id": 701141011,
+            "reward_number": 1,
+            "message_id": 51004
+          }
+        ]
+      },
+      {
+        "product_id": 2,
+        "leader_id": 2,
+        "deck_code": "pd0201",
+        "product_name": "BDPN_構築済みデッキ1弾_ロイヤル",
+        "featured_card_id": 701241011,
+        "purchase_num_max": 3,
+        "intro_price_crystal": 500,
+        "regular_price_crystal": 750,
+        "intro_price_rupy": null,
+        "regular_price_rupy": null,
+        "rewards": [
+          {
+            "reward_index": 1,
+            "reward_type": 7,
+            "reward_detail_id": 701241011,
+            "reward_number": 1,
+            "message_id": 51004
+          },
+          {
+            "reward_index": 2,
+            "reward_type": 6,
+            "reward_detail_id": 701241011,
+            "reward_number": 1,
+            "message_id": 51004
+          }
+        ]
+      },
+      {
+        "product_id": 3,
+        "leader_id": 3,
+        "deck_code": "pd0301",
+        "product_name": "BDPN_構築済みデッキ1弾_ウィッチ",
+        "featured_card_id": 701341011,
+        "purchase_num_max": 3,
+        "intro_price_crystal": 500,
+        "regular_price_crystal": 750,
+        "intro_price_rupy": null,
+        "regular_price_rupy": null,
+        "rewards": [
+          {
+            "reward_index": 1,
+            "reward_type": 7,
+            "reward_detail_id": 701341011,
+            "reward_number": 1,
+            "message_id": 51004
+          },
+          {
+            "reward_index": 2,
+            "reward_type": 6,
+            "reward_detail_id": 701341011,
+            "reward_number": 1,
+            "message_id": 51004
+          }
+        ]
+      },
+      {
+        "product_id": 4,
+        "leader_id": 4,
+        "deck_code": "pd0401",
+        "product_name": "BDPN_構築済みデッキ1弾_ドラゴン",
+        "featured_card_id": 701441011,
+        "purchase_num_max": 3,
+        "intro_price_crystal": 500,
+        "regular_price_crystal": 750,
+        "intro_price_rupy": null,
+        "regular_price_rupy": null,
+        "rewards": [
+          {
+            "reward_index": 1,
+            "reward_type": 7,
+            "reward_detail_id": 701441011,
+            "reward_number": 1,
+            "message_id": 51004
+          },
+          {
+            "reward_index": 2,
+            "reward_type": 6,
+            "reward_detail_id": 701441011,
+            "reward_number": 1,
+            "message_id": 51004
+          }
+        ]
+      },
+      {
+        "product_id": 5,
+        "leader_id": 5,
+        "deck_code": "pd0501",
+        "product_name": "BDPN_構築済みデッキ1弾_ネクロマンサー",
+        "featured_card_id": 701541011,
+        "purchase_num_max": 3,
+        "intro_price_crystal": 500,
+        "regular_price_crystal": 750,
+        "intro_price_rupy": null,
+        "regular_price_rupy": null,
+        "rewards": [
+          {
+            "reward_index": 1,
+            "reward_type": 7,
+            "reward_detail_id": 701541011,
+            "reward_number": 1,
+            "message_id": 51004
+          },
+          {
+            "reward_index": 2,
+            "reward_type": 6,
+            "reward_detail_id": 701541011,
+            "reward_number": 1,
+            "message_id": 51004
+          }
+        ]
+      },
+      {
+        "product_id": 6,
+        "leader_id": 6,
+        "deck_code": "pd0601",
+        "product_name": "BDPN_構築済みデッキ1弾_ヴァンパイア",
+        "featured_card_id": 701641011,
+        "purchase_num_max": 3,
+        "intro_price_crystal": 500,
+        "regular_price_crystal": 750,
+        "intro_price_rupy": null,
+        "regular_price_rupy": null,
+        "rewards": [
+          {
+            "reward_index": 1,
+            "reward_type": 7,
+            "reward_detail_id": 701641011,
+            "reward_number": 1,
+            "message_id": 51004
+          },
+          {
+            "reward_index": 2,
+            "reward_type": 6,
+            "reward_detail_id": 701641011,
+            "reward_number": 1,
+            "message_id": 51004
+          }
+        ]
+      },
+      {
+        "product_id": 7,
+        "leader_id": 7,
+        "deck_code": "pd0701",
+        "product_name": "BDPN_構築済みデッキ1弾_ビショップ",
+        "featured_card_id": 701741011,
+        "purchase_num_max": 3,
+        "intro_price_crystal": 500,
+        "regular_price_crystal": 750,
+        "intro_price_rupy": null,
+        "regular_price_rupy": null,
+        "rewards": [
+          {
+            "reward_index": 1,
+            "reward_type": 7,
+            "reward_detail_id": 701741011,
+            "reward_number": 1,
+            "message_id": 51004
+          },
+          {
+            "reward_index": 2,
+            "reward_type": 6,
+            "reward_detail_id": 701741011,
+            "reward_number": 1,
+            "message_id": 51004
+          }
+        ]
+      }
+    ]
+  }
+]

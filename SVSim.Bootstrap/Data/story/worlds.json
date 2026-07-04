@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "title_text_key": "story_select_world_title_01",
+    "panel_image_name": "story_select_world_panel_01",
+    "ribbon_text": ""
+  },
+  {
+    "id": 2,
+    "title_text_key": "story_select_world_title_02",
+    "panel_image_name": "story_select_world_panel_02",
+    "ribbon_text": ""
+  },
+  {
+    "id": 3,
+    "title_text_key": "story_select_world_title_03",
+    "panel_image_name": "story_select_world_panel_03",
+    "ribbon_text": ""
+  },
+  {
+    "id": 4,
+    "title_text_key": "story_select_world_title_04",
+    "panel_image_name": "story_select_world_panel_04",
+    "ribbon_text": ""
+  },
+  {
+    "id": 5,
+    "title_text_key": "story_select_world_title_05",
+    "panel_image_name": "story_select_world_panel_05",
+    "ribbon_text": ""
+  },
+  {
+    "id": 6,
+    "title_text_key": "story_select_world_title_06",
+    "panel_image_name": "story_select_world_panel_06",
+    "ribbon_text": ""
+  },
+  {
+    "id": 7,
+    "title_text_key": "story_select_world_title_07",
+    "panel_image_name": "story_select_world_panel_07",
+    "ribbon_text": ""
+  },
+  {
+    "id": 8,
+    "title_text_key": "story_select_world_title_08",
+    "panel_image_name": "story_select_world_panel_08-01",
+    "ribbon_text": ""
+  }
+]

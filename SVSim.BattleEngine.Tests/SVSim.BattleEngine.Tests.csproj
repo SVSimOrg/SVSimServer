@@ -1,0 +1,44 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <!-- Match the engine: decompiled types are not nullable-clean and use explicit usings. -->
+    <Nullable>disable</Nullable>
+    <ImplicitUsings>disable</ImplicitUsings>
+    <!-- Pinned to 12.0 (net8.0 default) to match SVSim.BattleEngine; see the rationale there
+         (the vendored decompiled engine breaks under C# 14's 'field' contextual keyword). -->
+    <LangVersion>12.0</LangVersion>
+    <IsPackable>false</IsPackable>
+    <IsTestProject>true</IsTestProject>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Lib.Harmony" Version="2.3.3" />
+    <PackageReference Include="Microsoft.NET.Test.Sdk" Version="17.6.0" />
+    <PackageReference Include="NUnit" Version="3.13.3" />
+    <PackageReference Include="NUnit3TestAdapter" Version="4.2.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\SVSim.BattleEngine\SVSim.BattleEngine.csproj">
+      <!-- Expose as both the default 'global' alias (existing tests) and 'engine'
+           (CoverageRecorder / future coverage fixtures that need explicit disambiguation). -->
+      <Aliases>global,engine</Aliases>
+    </ProjectReference>
+    <ProjectReference Include="..\SVSim.BattleNode\SVSim.BattleNode.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <!-- Captured PvP battle (both clients) replayed through the engine in the N1 shadow test. -->
+    <None Include="Fixtures\**\*.ndjson" CopyToOutputDirectory="PreserveNewest" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <!-- The loader's card-master dump (serialized CardCSVData objects). The headless fixture
+         reflects these into CardMaster so the resolution path can look up real card stats. -->
+    <Content Include="..\SVSim.Bootstrap\Data\cards.json" Link="Data\cards.json">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+
+</Project>

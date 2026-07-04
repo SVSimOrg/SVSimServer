@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "data": {
+      "ability_id": "1",
+      "add_start_pp": "0",
+      "add_start_life": "0",
+      "increase_add_pptotal_amount": "2",
+      "increase_add_pptotal_turn": "40",
+      "ability": "",
+      "ability_desc": "At the start of turns you can evolve, gain 2 play point orbs."
+    }
+  },
+  {
+    "id": 2,
+    "data": {
+      "ability_id": "2",
+      "add_start_pp": "0",
+      "add_start_life": "0",
+      "increase_add_pptotal_amount": "0",
+      "increase_add_pptotal_turn": "0",
+      "ability": "(skill:possess_ep_modifier)(timing:self_turn_start)(condition:{me.usable_ep}<=0&&evolvable_turn=true)(target:character=me&target=inplay&card_type=class)(option:add_ep=2)(preprocess:remove_after_action=(count=1))(effect_path:btl_ep_cure_1)(se_path:se_btl_ep_cure_1)(effect_move_type:DIRECT_EPPANEL_SELF)(engine_type:SHURIKEN)(effect_time:0.5)(effect_target_type:single)",
+      "ability_desc": "At the start of turns you can evolve, if you have 0 evolution points, recover 2. [1 time]"
+    }
+  },
+  {
+    "id": 3,
+    "data": {
+      "ability_id": "3",
+      "add_start_pp": "0",
+      "add_start_life": "0",
+      "increase_add_pptotal_amount": "0",
+      "increase_add_pptotal_turn": "0",
+      "ability": "(skill:draw)(timing:self_turn_start)(condition:{me.inplay.class.turn}=1)(target:character=me&target=deck&card_type=all&random_count=2)(option:none)(preprocess:remove_after_action=(count=1))",
+      "ability_desc": "At the start of your first turn, draw 2 cards."
+    }
+  },
+  {
+    "id": 4,
+    "data": {
+      "ability_id": "4",
+      "add_start_pp": "0",
+      "add_start_life": "0",
+      "increase_add_pptotal_amount": "1",
+      "increase_add_pptotal_turn": "40",
+      "ability": "",
+      "ability_desc": "At the start of turns you can evolve, gain a play point orb."
+    }
+  },
+  {
+    "id": 5,
+    "data": {
+      "ability_id": "5",
+      "add_start_pp": "0",
+      "add_start_life": "0",
+      "increase_add_pptotal_amount": "0",
+      "increase_add_pptotal_turn": "0",
+      "ability": "(skill:possess_ep_modifier)(timing:self_turn_start)(condition:{me.usable_ep}<=0&&evolvable_turn=true)(target:character=me&target=inplay&card_type=class)(option:add_ep=1)(preprocess:remove_after_action=(count=1))(effect_path:btl_ep_cure_1)(se_path:se_btl_ep_cure_1)(effect_move_type:DIRECT_EPPANEL_SELF)(engine_type:SHURIKEN)(effect_time:0.5)(effect_target_type:single)",
+      "ability_desc": "At the start of turns you can evolve, if you have 0 evolution points, recover 1. [1 time]"
+    }
+  },
+  {
+    "id": 6,
+    "data": {
+      "ability_id": "6",
+      "add_start_pp": "0",
+      "add_start_life": "0",
+      "increase_add_pptotal_amount": "0",
+      "increase_add_pptotal_turn": "0",
+      "ability": "(skill:draw)(timing:self_turn_start)(condition:{me.inplay.class.turn}=1)(target:character=me&target=deck&card_type=all&random_count=1)(option:none)(preprocess:remove_after_action=(count=1))",
+      "ability_desc": "At the start of your first turn, draw a card."
+    }
+  }
+]

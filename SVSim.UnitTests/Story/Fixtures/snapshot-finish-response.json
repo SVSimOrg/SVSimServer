@@ -1,0 +1,12 @@
+{
+  "get_class_experience":"0","class_experience":0,"class_level":"0",
+  "achieved_info":{},"reward_list":[],"story_reward_list":[],
+  "quest":{"is_display_badge":false},
+  "story_notification":{"is_display_badge":false},
+  "basic_puzzle":{"is_display_badge":false},
+  "shop_notification":{"card_pack":false,"build_deck":false,"sleeve":false,"leader_skin":false},
+  "receive_friend_apply_count":0,
+  "gathering_info":{"has_invite":0,"is_entry":0},
+  "competition_info":{"is_competition_period":false},
+  "is_available_colosseum_free_entry":false
+}

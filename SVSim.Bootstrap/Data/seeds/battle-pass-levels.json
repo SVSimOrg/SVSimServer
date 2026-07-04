@@ -1,0 +1,402 @@
+[
+  {
+    "level": 1,
+    "required_point": 0
+  },
+  {
+    "level": 2,
+    "required_point": 500
+  },
+  {
+    "level": 3,
+    "required_point": 1000
+  },
+  {
+    "level": 4,
+    "required_point": 1500
+  },
+  {
+    "level": 5,
+    "required_point": 2000
+  },
+  {
+    "level": 6,
+    "required_point": 2500
+  },
+  {
+    "level": 7,
+    "required_point": 3000
+  },
+  {
+    "level": 8,
+    "required_point": 3500
+  },
+  {
+    "level": 9,
+    "required_point": 4000
+  },
+  {
+    "level": 10,
+    "required_point": 4500
+  },
+  {
+    "level": 11,
+    "required_point": 5000
+  },
+  {
+    "level": 12,
+    "required_point": 5500
+  },
+  {
+    "level": 13,
+    "required_point": 6000
+  },
+  {
+    "level": 14,
+    "required_point": 6500
+  },
+  {
+    "level": 15,
+    "required_point": 7000
+  },
+  {
+    "level": 16,
+    "required_point": 7500
+  },
+  {
+    "level": 17,
+    "required_point": 8000
+  },
+  {
+    "level": 18,
+    "required_point": 8500
+  },
+  {
+    "level": 19,
+    "required_point": 9000
+  },
+  {
+    "level": 20,
+    "required_point": 9500
+  },
+  {
+    "level": 21,
+    "required_point": 10000
+  },
+  {
+    "level": 22,
+    "required_point": 10500
+  },
+  {
+    "level": 23,
+    "required_point": 11000
+  },
+  {
+    "level": 24,
+    "required_point": 11500
+  },
+  {
+    "level": 25,
+    "required_point": 12000
+  },
+  {
+    "level": 26,
+    "required_point": 12500
+  },
+  {
+    "level": 27,
+    "required_point": 13000
+  },
+  {
+    "level": 28,
+    "required_point": 13500
+  },
+  {
+    "level": 29,
+    "required_point": 14000
+  },
+  {
+    "level": 30,
+    "required_point": 14500
+  },
+  {
+    "level": 31,
+    "required_point": 15000
+  },
+  {
+    "level": 32,
+    "required_point": 15500
+  },
+  {
+    "level": 33,
+    "required_point": 16000
+  },
+  {
+    "level": 34,
+    "required_point": 16500
+  },
+  {
+    "level": 35,
+    "required_point": 17000
+  },
+  {
+    "level": 36,
+    "required_point": 17500
+  },
+  {
+    "level": 37,
+    "required_point": 18000
+  },
+  {
+    "level": 38,
+    "required_point": 18500
+  },
+  {
+    "level": 39,
+    "required_point": 19000
+  },
+  {
+    "level": 40,
+    "required_point": 19500
+  },
+  {
+    "level": 41,
+    "required_point": 20000
+  },
+  {
+    "level": 42,
+    "required_point": 20500
+  },
+  {
+    "level": 43,
+    "required_point": 21000
+  },
+  {
+    "level": 44,
+    "required_point": 21500
+  },
+  {
+    "level": 45,
+    "required_point": 22000
+  },
+  {
+    "level": 46,
+    "required_point": 22500
+  },
+  {
+    "level": 47,
+    "required_point": 23000
+  },
+  {
+    "level": 48,
+    "required_point": 23500
+  },
+  {
+    "level": 49,
+    "required_point": 24000
+  },
+  {
+    "level": 50,
+    "required_point": 24500
+  },
+  {
+    "level": 51,
+    "required_point": 25000
+  },
+  {
+    "level": 52,
+    "required_point": 25500
+  },
+  {
+    "level": 53,
+    "required_point": 26000
+  },
+  {
+    "level": 54,
+    "required_point": 26500
+  },
+  {
+    "level": 55,
+    "required_point": 27000
+  },
+  {
+    "level": 56,
+    "required_point": 27500
+  },
+  {
+    "level": 57,
+    "required_point": 28000
+  },
+  {
+    "level": 58,
+    "required_point": 28500
+  },
+  {
+    "level": 59,
+    "required_point": 29000
+  },
+  {
+    "level": 60,
+    "required_point": 29500
+  },
+  {
+    "level": 61,
+    "required_point": 30000
+  },
+  {
+    "level": 62,
+    "required_point": 30500
+  },
+  {
+    "level": 63,
+    "required_point": 31000
+  },
+  {
+    "level": 64,
+    "required_point": 31500
+  },
+  {
+    "level": 65,
+    "required_point": 32000
+  },
+  {
+    "level": 66,
+    "required_point": 32500
+  },
+  {
+    "level": 67,
+    "required_point": 33000
+  },
+  {
+    "level": 68,
+    "required_point": 33500
+  },
+  {
+    "level": 69,
+    "required_point": 34000
+  },
+  {
+    "level": 70,
+    "required_point": 34500
+  },
+  {
+    "level": 71,
+    "required_point": 35000
+  },
+  {
+    "level": 72,
+    "required_point": 35500
+  },
+  {
+    "level": 73,
+    "required_point": 36000
+  },
+  {
+    "level": 74,
+    "required_point": 36500
+  },
+  {
+    "level": 75,
+    "required_point": 37000
+  },
+  {
+    "level": 76,
+    "required_point": 37500
+  },
+  {
+    "level": 77,
+    "required_point": 38000
+  },
+  {
+    "level": 78,
+    "required_point": 38500
+  },
+  {
+    "level": 79,
+    "required_point": 39000
+  },
+  {
+    "level": 80,
+    "required_point": 39500
+  },
+  {
+    "level": 81,
+    "required_point": 40000
+  },
+  {
+    "level": 82,
+    "required_point": 40500
+  },
+  {
+    "level": 83,
+    "required_point": 41000
+  },
+  {
+    "level": 84,
+    "required_point": 41500
+  },
+  {
+    "level": 85,
+    "required_point": 42000
+  },
+  {
+    "level": 86,
+    "required_point": 42500
+  },
+  {
+    "level": 87,
+    "required_point": 43000
+  },
+  {
+    "level": 88,
+    "required_point": 43500
+  },
+  {
+    "level": 89,
+    "required_point": 44000
+  },
+  {
+    "level": 90,
+    "required_point": 44500
+  },
+  {
+    "level": 91,
+    "required_point": 45000
+  },
+  {
+    "level": 92,
+    "required_point": 45500
+  },
+  {
+    "level": 93,
+    "required_point": 46000
+  },
+  {
+    "level": 94,
+    "required_point": 46500
+  },
+  {
+    "level": 95,
+    "required_point": 47000
+  },
+  {
+    "level": 96,
+    "required_point": 47500
+  },
+  {
+    "level": 97,
+    "required_point": 48000
+  },
+  {
+    "level": 98,
+    "required_point": 48500
+  },
+  {
+    "level": 99,
+    "required_point": 49000
+  },
+  {
+    "level": 100,
+    "required_point": 49500
+  }
+]

@@ -1,0 +1,67 @@
+[
+  {
+    "year": 2026,
+    "month": 5,
+    "order_num": 0,
+    "name": "Win 25 matches (Ranked or Arena)",
+    "require_number": 25,
+    "battle_pass_point": 1000,
+    "event_type": "ranked_or_arena_win",
+    "event_arg": null,
+    "reward_type": 7,
+    "reward_detail_id": 1215110100,
+    "reward_number": 1
+  },
+  {
+    "year": 2026,
+    "month": 5,
+    "order_num": 1,
+    "name": "Win 50 matches (Ranked or Arena)",
+    "require_number": 50,
+    "battle_pass_point": 1000,
+    "event_type": "ranked_or_arena_win",
+    "event_arg": null,
+    "reward_type": 6,
+    "reward_detail_id": 1215110100,
+    "reward_number": 1
+  },
+  {
+    "year": 2026,
+    "month": 5,
+    "order_num": 2,
+    "name": "Win 75 matches (Ranked or Arena)",
+    "require_number": 75,
+    "battle_pass_point": 1500,
+    "event_type": "ranked_or_arena_win",
+    "event_arg": null,
+    "reward_type": 7,
+    "reward_detail_id": 1298310100,
+    "reward_number": 1
+  },
+  {
+    "year": 2026,
+    "month": 5,
+    "order_num": 3,
+    "name": "Win 100 matches (Ranked or Arena)",
+    "require_number": 100,
+    "battle_pass_point": 1500,
+    "event_type": "ranked_or_arena_win",
+    "event_arg": null,
+    "reward_type": 6,
+    "reward_detail_id": 1298310100,
+    "reward_number": 1
+  },
+  {
+    "year": 2026,
+    "month": 5,
+    "order_num": 4,
+    "name": "Play 5 Challenge matches (without quitting)",
+    "require_number": 5,
+    "battle_pass_point": 500,
+    "event_type": "challenge_play",
+    "event_arg": null,
+    "reward_type": null,
+    "reward_detail_id": null,
+    "reward_number": null
+  }
+]

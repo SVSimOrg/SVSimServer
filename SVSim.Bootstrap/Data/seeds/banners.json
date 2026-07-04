@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "image_name": "banner_000788",
+    "click": "account_transition_with_two",
+    "status": "10",
+    "change_time": 10,
+    "remaining_time": 0,
+    "image_paths": []
+  },
+  {
+    "id": 2,
+    "image_name": "banner_000906",
+    "click": "colosseum",
+    "status": "",
+    "change_time": 10,
+    "remaining_time": 0,
+    "image_paths": []
+  },
+  {
+    "id": 3,
+    "image_name": "banner_000220",
+    "click": "deck_intro_rotation",
+    "status": "17",
+    "change_time": 10,
+    "remaining_time": 0,
+    "image_paths": []
+  },
+  {
+    "id": 4,
+    "image_name": "banner_000840",
+    "click": "mission",
+    "status": "2",
+    "change_time": 10,
+    "remaining_time": 0,
+    "image_paths": []
+  }
+]

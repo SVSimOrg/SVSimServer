@@ -1,0 +1,4053 @@
+[
+  {
+    "series_id": 100,
+    "is_new": false,
+    "set_sales_status": 1,
+    "set_price_crystal": 2000,
+    "set_price_rupy": 2000,
+    "set_price_ticket": null,
+    "set_price_ticket_id": null,
+    "set_completion_rewards": [],
+    "products": [
+      {
+        "product_id": 1,
+        "leader_skin_id": 101,
+        "product_name_key": "LSPPN_神撃のバハムート_1",
+        "introduction_key": "LSPI_神撃のバハムート_1",
+        "cv_name_key": "LSPCN_神撃のバハムート_1",
+        "single_price_crystal": 500,
+        "single_price_rupy": 500,
+        "single_price_ticket": null,
+        "ticket_number": null,
+        "ticket_item_id": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 10,
+            "reward_detail_id": 101,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 7,
+            "reward_detail_id": 100010101,
+            "reward_number": 1
+          },
+          {
+            "order_index": 2,
+            "reward_type": 6,
+            "reward_detail_id": 3001001,
+            "reward_number": 1
+          }
+        ]
+      },
+      {
+        "product_id": 2,
+        "leader_skin_id": 102,
+        "product_name_key": "LSPPN_神撃のバハムート_2",
+        "introduction_key": "LSPI_神撃のバハムート_2",
+        "cv_name_key": "LSPCN_神撃のバハムート_2",
+        "single_price_crystal": 500,
+        "single_price_rupy": 500,
+        "single_price_ticket": null,
+        "ticket_number": null,
+        "ticket_item_id": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 10,
+            "reward_detail_id": 102,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 7,
+            "reward_detail_id": 100010201,
+            "reward_number": 1
+          },
+          {
+            "order_index": 2,
+            "reward_type": 6,
+            "reward_detail_id": 3001002,
+            "reward_number": 1
+          }
+        ]
+      },
+      {
+        "product_id": 3,
+        "leader_skin_id": 103,
+        "product_name_key": "LSPPN_神撃のバハムート_3",
+        "introduction_key": "LSPI_神撃のバハムート_3",
+        "cv_name_key": "LSPCN_神撃のバハムート_3",
+        "single_price_crystal": 500,
+        "single_price_rupy": 500,
+        "single_price_ticket": null,
+        "ticket_number": null,
+        "ticket_item_id": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 10,
+            "reward_detail_id": 103,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 7,
+            "reward_detail_id": 100010301,
+            "reward_number": 1
+          },
+          {
+            "order_index": 2,
+            "reward_type": 6,
+            "reward_detail_id": 3001003,
+            "reward_number": 1
+          }
+        ]
+      },
+      {
+        "product_id": 4,
+        "leader_skin_id": 104,
+        "product_name_key": "LSPPN_神撃のバハムート_4",
+        "introduction_key": "LSPI_神撃のバハムート_4",
+        "cv_name_key": "LSPCN_神撃のバハムート_4",
+        "single_price_crystal": 500,
+        "single_price_rupy": 500,
+        "single_price_ticket": null,
+        "ticket_number": null,
+        "ticket_item_id": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 10,
+            "reward_detail_id": 104,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 7,
+            "reward_detail_id": 100010401,
+            "reward_number": 1
+          },
+          {
+            "order_index": 2,
+            "reward_type": 6,
+            "reward_detail_id": 3001004,
+            "reward_number": 1
+          }
+        ]
+      },
+      {
+        "product_id": 5,
+        "leader_skin_id": 105,
+        "product_name_key": "LSPPN_神撃のバハムート_5",
+        "introduction_key": "LSPI_神撃のバハムート_5",
+        "cv_name_key": "LSPCN_神撃のバハムート_5",
+        "single_price_crystal": 500,
+        "single_price_rupy": 500,
+        "single_price_ticket": null,
+        "ticket_number": null,
+        "ticket_item_id": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 10,
+            "reward_detail_id": 105,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 7,
+            "reward_detail_id": 100010501,
+            "reward_number": 1
+          },
+          {
+            "order_index": 2,
+            "reward_type": 6,
+            "reward_detail_id": 3001005,
+            "reward_number": 1
+          }
+        ]
+      },
+      {
+        "product_id": 6,
+        "leader_skin_id": 106,
+        "product_name_key": "LSPPN_神撃のバハムート_6",
+        "introduction_key": "LSPI_神撃のバハムート_6",
+        "cv_name_key": "LSPCN_神撃のバハムート_6",
+        "single_price_crystal": 500,
+        "single_price_rupy": 500,
+        "single_price_ticket": null,
+        "ticket_number": null,
+        "ticket_item_id": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 10,
+            "reward_detail_id": 106,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 7,
+            "reward_detail_id": 100010601,
+            "reward_number": 1
+          },
+          {
+            "order_index": 2,
+            "reward_type": 6,
+            "reward_detail_id": 3001006,
+            "reward_number": 1
+          }
+        ]
+      },
+      {
+        "product_id": 7,
+        "leader_skin_id": 107,
+        "product_name_key": "LSPPN_神撃のバハムート_7",
+        "introduction_key": "LSPI_神撃のバハムート_7",
+        "cv_name_key": "LSPCN_神撃のバハムート_7",
+        "single_price_crystal": 500,
+        "single_price_rupy": 500,
+        "single_price_ticket": null,
+        "ticket_number": null,
+        "ticket_item_id": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 10,
+            "reward_detail_id": 107,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 7,
+            "reward_detail_id": 100010701,
+            "reward_number": 1
+          },
+          {
+            "order_index": 2,
+            "reward_type": 6,
+            "reward_detail_id": 3001007,
+            "reward_number": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "series_id": 101,
+    "is_new": false,
+    "set_sales_status": 1,
+    "set_price_crystal": 2800,
+    "set_price_rupy": null,
+    "set_price_ticket": null,
+    "set_price_ticket_id": null,
+    "set_completion_rewards": [],
+    "products": [
+      {
+        "product_id": 8,
+        "leader_skin_id": 201,
+        "product_name_key": "LSPPN_SF5_1",
+        "introduction_key": "LSPI_SF5_1",
+        "cv_name_key": "LSPCN_SF5_1",
+        "single_price_crystal": 500,
+        "single_price_rupy": null,
+        "single_price_ticket": null,
+        "ticket_number": null,
+        "ticket_item_id": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 10,
+            "reward_detail_id": 201,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 7,
+            "reward_detail_id": 400000101,
+            "reward_number": 1
+          },
+          {
+            "order_index": 2,
+            "reward_type": 6,
+            "reward_detail_id": 3008002,
+            "reward_number": 1
+          },
+          {
+            "order_index": 3,
+            "reward_type": 8,
+            "reward_detail_id": 301201,
+            "reward_number": 1
+          }
+        ]
+      },
+      {
+        "product_id": 9,
+        "leader_skin_id": 202,
+        "product_name_key": "LSPPN_SF5_2",
+        "introduction_key": "LSPI_SF5_2",
+        "cv_name_key": "LSPCN_SF5_2",
+        "single_price_crystal": 500,
+        "single_price_rupy": null,
+        "single_price_ticket": null,
+        "ticket_number": null,
+        "ticket_item_id": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 10,
+            "reward_detail_id": 202,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 7,
+            "reward_detail_id": 400000102,
+            "reward_number": 1
+          },
+          {
+            "order_index": 2,
+            "reward_type": 6,
+            "reward_detail_id": 3008003,
+            "reward_number": 1
+          },
+          {
+            "order_index": 3,
+            "reward_type": 8,
+            "reward_detail_id": 301202,
+            "reward_number": 1
+          }
+        ]
+      },
+      {
+        "product_id": 10,
+        "leader_skin_id": 203,
+        "product_name_key": "LSPPN_SF5_3",
+        "introduction_key": "LSPI_SF5_3",
+        "cv_name_key": "LSPCN_SF5_3",
+        "single_price_crystal": 500,
+        "single_price_rupy": null,
+        "single_price_ticket": null,
+        "ticket_number": null,
+        "ticket_item_id": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 10,
+            "reward_detail_id": 203,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 7,
+            "reward_detail_id": 400000103,
+            "reward_number": 1
+          },
+          {
+            "order_index": 2,
+            "reward_type": 6,
+            "reward_detail_id": 3008004,
+            "reward_number": 1
+          },
+          {
+            "order_index": 3,
+            "reward_type": 8,
+            "reward_detail_id": 301203,
+            "reward_number": 1
+          }
+        ]
+      },
+      {
+        "product_id": 11,
+        "leader_skin_id": 204,
+        "product_name_key": "LSPPN_SF5_4",
+        "introduction_key": "LSPI_SF5_4",
+        "cv_name_key": "LSPCN_SF5_4",
+        "single_price_crystal": 500,
+        "single_price_rupy": null,
+        "single_price_ticket": null,
+        "ticket_number": null,
+        "ticket_item_id": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 10,
+            "reward_detail_id": 204,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 7,
+            "reward_detail_id": 400000104,
+            "reward_number": 1
+          },
+          {
+            "order_index": 2,
+            "reward_type": 6,
+            "reward_detail_id": 3008005,
+            "reward_number": 1
+          },
+          {
+            "order_index": 3,
+            "reward_type": 8,
+            "reward_detail_id": 301204,
+            "reward_number": 1
+          }
+        ]
+      },
+      {
+        "product_id": 12,
+        "leader_skin_id": 205,
+        "product_name_key": "LSPPN_SF5_5",
+        "introduction_key": "LSPI_SF5_5",
+        "cv_name_key": "LSPCN_SF5_5",
+        "single_price_crystal": 500,
+        "single_price_rupy": null,
+        "single_price_ticket": null,
+        "ticket_number": null,
+        "ticket_item_id": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 10,
+            "reward_detail_id": 205,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 7,
+            "reward_detail_id": 400000105,
+            "reward_number": 1
+          },
+          {
+            "order_index": 2,
+            "reward_type": 6,
+            "reward_detail_id": 3008006,
+            "reward_number": 1
+          },
+          {
+            "order_index": 3,
+            "reward_type": 8,
+            "reward_detail_id": 301205,
+            "reward_number": 1
+          }
+        ]
+      },
+      {
+        "product_id": 13,
+        "leader_skin_id": 206,
+        "product_name_key": "LSPPN_SF5_6",
+        "introduction_key": "LSPI_SF5_6",
+        "cv_name_key": "LSPCN_SF5_6",
+        "single_price_crystal": 500,
+        "single_price_rupy": null,
+        "single_price_ticket": null,
+        "ticket_number": null,
+        "ticket_item_id": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 10,
+            "reward_detail_id": 206,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 7,
+            "reward_detail_id": 400000106,
+            "reward_number": 1
+          },
+          {
+            "order_index": 2,
+            "reward_type": 6,
+            "reward_detail_id": 3008007,
+            "reward_number": 1
+          },
+          {
+            "order_index": 3,
+            "reward_type": 8,
+            "reward_detail_id": 301206,
+            "reward_number": 1
+          }
+        ]
+      },
+      {
+        "product_id": 14,
+        "leader_skin_id": 207,
+        "product_name_key": "LSPPN_SF5_7",
+        "introduction_key": "LSPI_SF5_7",
+        "cv_name_key": "LSPCN_SF5_7",
+        "single_price_crystal": 500,
+        "single_price_rupy": null,
+        "single_price_ticket": null,
+        "ticket_number": null,
+        "ticket_item_id": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 10,
+            "reward_detail_id": 207,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 7,
+            "reward_detail_id": 400000107,
+            "reward_number": 1
+          },
+          {
+            "order_index": 2,
+            "reward_type": 6,
+            "reward_detail_id": 3008008,
+            "reward_number": 1
+          },
+          {
+            "order_index": 3,
+            "reward_type": 8,
+            "reward_detail_id": 301207,
+            "reward_number": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "series_id": 103,
+    "is_new": false,
+    "set_sales_status": 1,
+    "set_price_crystal": 3200,
+    "set_price_rupy": null,
+    "set_price_ticket": null,
+    "set_price_ticket_id": null,
+    "set_completion_rewards": [
+      {
+        "order_index": 0,
+        "reward_type": 7,
+        "reward_detail_id": 400000600,
+        "reward_number": 1
+      },
+      {
+        "order_index": 1,
+        "reward_type": 6,
+        "reward_detail_id": 3016001,
+        "reward_number": 1
+      }
+    ],
+    "products": [
+      {
+        "product_id": 22,
+        "leader_skin_id": 701,
+        "product_name_key": "LSPPN_グランブルーファンタジー_1",
+        "introduction_key": "LSPI_グランブルーファンタジー_1",
+        "cv_name_key": "LSPCN_グランブルーファンタジー_1",
+        "single_price_crystal": 500,
+        "single_price_rupy": null,
+        "single_price_ticket": null,
+        "ticket_number": null,
+        "ticket_item_id": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 10,
+            "reward_detail_id": 701,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 7,
+            "reward_detail_id": 400000601,
+            "reward_number": 1
+          },
+          {
+            "order_index": 2,
+            "reward_type": 6,
+            "reward_detail_id": 3016002,
+            "reward_number": 1
+          },
+          {
+            "order_index": 3,
+            "reward_type": 8,
+            "reward_detail_id": 301401,
+            "reward_number": 1
+          }
+        ]
+      },
+      {
+        "product_id": 23,
+        "leader_skin_id": 702,
+        "product_name_key": "LSPPN_グランブルーファンタジー_2",
+        "introduction_key": "LSPI_グランブルーファンタジー_2",
+        "cv_name_key": "LSPCN_グランブルーファンタジー_2",
+        "single_price_crystal": 500,
+        "single_price_rupy": null,
+        "single_price_ticket": null,
+        "ticket_number": null,
+        "ticket_item_id": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 10,
+            "reward_detail_id": 702,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 7,
+            "reward_detail_id": 400000602,
+            "reward_number": 1
+          },
+          {
+            "order_index": 2,
+            "reward_type": 6,
+            "reward_detail_id": 3016003,
+            "reward_number": 1
+          },
+          {
+            "order_index": 3,
+            "reward_type": 8,
+            "reward_detail_id": 301402,
+            "reward_number": 1
+          }
+        ]
+      },
+      {
+        "product_id": 24,
+        "leader_skin_id": 703,
+        "product_name_key": "LSPPN_グランブルーファンタジー_3",
+        "introduction_key": "LSPI_グランブルーファンタジー_3",
+        "cv_name_key": "LSPCN_グランブルーファンタジー_3",
+        "single_price_crystal": 500,
+        "single_price_rupy": null,
+        "single_price_ticket": null,
+        "ticket_number": null,
+        "ticket_item_id": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 10,
+            "reward_detail_id": 703,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 7,
+            "reward_detail_id": 400000603,
+            "reward_number": 1
+          },
+          {
+            "order_index": 2,
+            "reward_type": 6,
+            "reward_detail_id": 3016004,
+            "reward_number": 1
+          },
+          {
+            "order_index": 3,
+            "reward_type": 8,
+            "reward_detail_id": 301403,
+            "reward_number": 1
+          }
+        ]
+      },
+      {
+        "product_id": 25,
+        "leader_skin_id": 704,
+        "product_name_key": "LSPPN_グランブルーファンタジー_4",
+        "introduction_key": "LSPI_グランブルーファンタジー_4",
+        "cv_name_key": "LSPCN_グランブルーファンタジー_4",
+        "single_price_crystal": 500,
+        "single_price_rupy": null,
+        "single_price_ticket": null,
+        "ticket_number": null,
+        "ticket_item_id": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 10,
+            "reward_detail_id": 704,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 7,
+            "reward_detail_id": 400000604,
+            "reward_number": 1
+          },
+          {
+            "order_index": 2,
+            "reward_type": 6,
+            "reward_detail_id": 3016005,
+            "reward_number": 1
+          },
+          {
+            "order_index": 3,
+            "reward_type": 8,
+            "reward_detail_id": 301404,
+            "reward_number": 1
+          }
+        ]
+      },
+      {
+        "product_id": 26,
+        "leader_skin_id": 705,
+        "product_name_key": "LSPPN_グランブルーファンタジー_5",
+        "introduction_key": "LSPI_グランブルーファンタジー_5",
+        "cv_name_key": "LSPCN_グランブルーファンタジー_5",
+        "single_price_crystal": 500,
+        "single_price_rupy": null,
+        "single_price_ticket": null,
+        "ticket_number": null,
+        "ticket_item_id": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 10,
+            "reward_detail_id": 705,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 7,
+            "reward_detail_id": 400000605,
+            "reward_number": 1
+          },
+          {
+            "order_index": 2,
+            "reward_type": 6,
+            "reward_detail_id": 3016006,
+            "reward_number": 1
+          },
+          {
+            "order_index": 3,
+            "reward_type": 8,
+            "reward_detail_id": 301405,
+            "reward_number": 1
+          }
+        ]
+      },
+      {
+        "product_id": 27,
+        "leader_skin_id": 706,
+        "product_name_key": "LSPPN_グランブルーファンタジー_6",
+        "introduction_key": "LSPI_グランブルーファンタジー_6",
+        "cv_name_key": "LSPCN_グランブルーファンタジー_6",
+        "single_price_crystal": 500,
+        "single_price_rupy": null,
+        "single_price_ticket": null,
+        "ticket_number": null,
+        "ticket_item_id": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 10,
+            "reward_detail_id": 706,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 7,
+            "reward_detail_id": 400000606,
+            "reward_number": 1
+          },
+          {
+            "order_index": 2,
+            "reward_type": 6,
+            "reward_detail_id": 3016007,
+            "reward_number": 1
+          },
+          {
+            "order_index": 3,
+            "reward_type": 8,
+            "reward_detail_id": 301406,
+            "reward_number": 1
+          }
+        ]
+      },
+      {
+        "product_id": 28,
+        "leader_skin_id": 707,
+        "product_name_key": "LSPPN_グランブルーファンタジー_7",
+        "introduction_key": "LSPI_グランブルーファンタジー_7",
+        "cv_name_key": "LSPCN_グランブルーファンタジー_7",
+        "single_price_crystal": 500,
+        "single_price_rupy": null,
+        "single_price_ticket": null,
+        "ticket_number": null,
+        "ticket_item_id": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 10,
+            "reward_detail_id": 707,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 7,
+            "reward_detail_id": 400000607,
+            "reward_number": 1
+          },
+          {
+            "order_index": 2,
+            "reward_type": 6,
+            "reward_detail_id": 3016008,
+            "reward_number": 1
+          },
+          {
+            "order_index": 3,
+            "reward_type": 8,
+            "reward_detail_id": 301407,
+            "reward_number": 1
+          }
+        ]
+      },
+      {
+        "product_id": 29,
+        "leader_skin_id": 708,
+        "product_name_key": "LSPPN_グランブルーファンタジー_8",
+        "introduction_key": "LSPI_グランブルーファンタジー_8",
+        "cv_name_key": "LSPCN_グランブルーファンタジー_8",
+        "single_price_crystal": 500,
+        "single_price_rupy": null,
+        "single_price_ticket": null,
+        "ticket_number": null,
+        "ticket_item_id": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 10,
+            "reward_detail_id": 708,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 7,
+            "reward_detail_id": 400000608,
+            "reward_number": 1
+          },
+          {
+            "order_index": 2,
+            "reward_type": 6,
+            "reward_detail_id": 3016009,
+            "reward_number": 1
+          },
+          {
+            "order_index": 3,
+            "reward_type": 8,
+            "reward_detail_id": 301408,
+            "reward_number": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "series_id": 104,
+    "is_new": false,
+    "set_sales_status": 1,
+    "set_price_crystal": 500,
+    "set_price_rupy": 500,
+    "set_price_ticket": null,
+    "set_price_ticket_id": null,
+    "set_completion_rewards": [],
+    "products": [
+      {
+        "product_id": 30,
+        "leader_skin_id": 601,
+        "product_name_key": "LSPPN_NetEase_1",
+        "introduction_key": "LSPI_NetEase_1",
+        "cv_name_key": "LSPCN_NetEase_1",
+        "single_price_crystal": 500,
+        "single_price_rupy": 500,
+        "single_price_ticket": null,
+        "ticket_number": null,
+        "ticket_item_id": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 10,
+            "reward_detail_id": 601,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 7,
+            "reward_detail_id": 400000801,
+            "reward_number": 1
+          },
+          {
+            "order_index": 2,
+            "reward_type": 6,
+            "reward_detail_id": 3019001,
+            "reward_number": 1
+          }
+        ]
+      },
+      {
+        "product_id": 31,
+        "leader_skin_id": 603,
+        "product_name_key": "LSPPN_NetEase_2",
+        "introduction_key": "LSPI_NetEase_2",
+        "cv_name_key": "LSPCN_NetEase_2",
+        "single_price_crystal": 500,
+        "single_price_rupy": 500,
+        "single_price_ticket": null,
+        "ticket_number": null,
+        "ticket_item_id": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 10,
+            "reward_detail_id": 603,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 7,
+            "reward_detail_id": 400000803,
+            "reward_number": 1
+          },
+          {
+            "order_index": 2,
+            "reward_type": 6,
+            "reward_detail_id": 3019003,
+            "reward_number": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "series_id": 106,
+    "is_new": false,
+    "set_sales_status": 1,
+    "set_price_crystal": 1200,
+    "set_price_rupy": null,
+    "set_price_ticket": null,
+    "set_price_ticket_id": null,
+    "set_completion_rewards": [
+      {
+        "order_index": 0,
+        "reward_type": 6,
+        "reward_detail_id": 3032002,
+        "reward_number": 1
+      }
+    ],
+    "products": [
+      {
+        "product_id": 40,
+        "leader_skin_id": 1001,
+        "product_name_key": "LSPPN_プリコネ_1",
+        "introduction_key": "LSPI_プリコネ_1",
+        "cv_name_key": "LSPCN_プリコネ_1",
+        "single_price_crystal": 500,
+        "single_price_rupy": null,
+        "single_price_ticket": null,
+        "ticket_number": null,
+        "ticket_item_id": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 10,
+            "reward_detail_id": 1001,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 7,
+            "reward_detail_id": 400001302,
+            "reward_number": 1
+          },
+          {
+            "order_index": 2,
+            "reward_type": 6,
+            "reward_detail_id": 3032003,
+            "reward_number": 1
+          },
+          {
+            "order_index": 3,
+            "reward_type": 8,
+            "reward_detail_id": 301601,
+            "reward_number": 1
+          }
+        ]
+      },
+      {
+        "product_id": 41,
+        "leader_skin_id": 1002,
+        "product_name_key": "LSPPN_プリコネ_2",
+        "introduction_key": "LSPI_プリコネ_2",
+        "cv_name_key": "LSPCN_プリコネ_2",
+        "single_price_crystal": 500,
+        "single_price_rupy": null,
+        "single_price_ticket": null,
+        "ticket_number": null,
+        "ticket_item_id": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 10,
+            "reward_detail_id": 1002,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 7,
+            "reward_detail_id": 400001303,
+            "reward_number": 1
+          },
+          {
+            "order_index": 2,
+            "reward_type": 6,
+            "reward_detail_id": 3032004,
+            "reward_number": 1
+          },
+          {
+            "order_index": 3,
+            "reward_type": 8,
+            "reward_detail_id": 301602,
+            "reward_number": 1
+          }
+        ]
+      },
+      {
+        "product_id": 42,
+        "leader_skin_id": 1003,
+        "product_name_key": "LSPPN_プリコネ_3",
+        "introduction_key": "LSPI_プリコネ_3",
+        "cv_name_key": "LSPCN_プリコネ_3",
+        "single_price_crystal": 500,
+        "single_price_rupy": null,
+        "single_price_ticket": null,
+        "ticket_number": null,
+        "ticket_item_id": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 10,
+            "reward_detail_id": 1003,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 7,
+            "reward_detail_id": 400001304,
+            "reward_number": 1
+          },
+          {
+            "order_index": 2,
+            "reward_type": 6,
+            "reward_detail_id": 3032005,
+            "reward_number": 1
+          },
+          {
+            "order_index": 3,
+            "reward_type": 8,
+            "reward_detail_id": 301603,
+            "reward_number": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "series_id": 109,
+    "is_new": false,
+    "set_sales_status": 0,
+    "set_price_crystal": null,
+    "set_price_rupy": null,
+    "set_price_ticket": null,
+    "set_price_ticket_id": null,
+    "set_completion_rewards": [],
+    "products": [
+      {
+        "product_id": 58,
+        "leader_skin_id": 1203,
+        "product_name_key": "LSPPN_マナリアフレンズ_1",
+        "introduction_key": "LSPI_マナリアフレンズ_1",
+        "cv_name_key": "LSPCN_マナリアフレンズ_1",
+        "single_price_crystal": 500,
+        "single_price_rupy": null,
+        "single_price_ticket": null,
+        "ticket_number": null,
+        "ticket_item_id": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 10,
+            "reward_detail_id": 1203,
+            "reward_number": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "series_id": 112,
+    "is_new": false,
+    "set_sales_status": 1,
+    "set_price_crystal": 2000,
+    "set_price_rupy": null,
+    "set_price_ticket": null,
+    "set_price_ticket_id": null,
+    "set_completion_rewards": [
+      {
+        "order_index": 0,
+        "reward_type": 6,
+        "reward_detail_id": 3043002,
+        "reward_number": 1
+      }
+    ],
+    "products": [
+      {
+        "product_id": 62,
+        "leader_skin_id": 1804,
+        "product_name_key": "LSPPN_プリコネ2_1",
+        "introduction_key": "LSPI_プリコネ2_1",
+        "cv_name_key": "LSPCN_プリコネ2_1",
+        "single_price_crystal": 500,
+        "single_price_rupy": null,
+        "single_price_ticket": null,
+        "ticket_number": null,
+        "ticket_item_id": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 10,
+            "reward_detail_id": 1804,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 7,
+            "reward_detail_id": 400002002,
+            "reward_number": 1
+          },
+          {
+            "order_index": 2,
+            "reward_type": 6,
+            "reward_detail_id": 3043003,
+            "reward_number": 1
+          },
+          {
+            "order_index": 3,
+            "reward_type": 8,
+            "reward_detail_id": 302101,
+            "reward_number": 1
+          }
+        ]
+      },
+      {
+        "product_id": 63,
+        "leader_skin_id": 1815,
+        "product_name_key": "LSPPN_プリコネ2_2",
+        "introduction_key": "LSPI_プリコネ2_2",
+        "cv_name_key": "LSPCN_プリコネ2_2",
+        "single_price_crystal": 500,
+        "single_price_rupy": null,
+        "single_price_ticket": null,
+        "ticket_number": null,
+        "ticket_item_id": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 10,
+            "reward_detail_id": 1815,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 7,
+            "reward_detail_id": 400002003,
+            "reward_number": 1
+          },
+          {
+            "order_index": 2,
+            "reward_type": 6,
+            "reward_detail_id": 3043004,
+            "reward_number": 1
+          },
+          {
+            "order_index": 3,
+            "reward_type": 8,
+            "reward_detail_id": 302102,
+            "reward_number": 1
+          }
+        ]
+      },
+      {
+        "product_id": 64,
+        "leader_skin_id": 1806,
+        "product_name_key": "LSPPN_プリコネ2_3",
+        "introduction_key": "LSPI_プリコネ2_3",
+        "cv_name_key": "LSPCN_プリコネ2_3",
+        "single_price_crystal": 500,
+        "single_price_rupy": null,
+        "single_price_ticket": null,
+        "ticket_number": null,
+        "ticket_item_id": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 10,
+            "reward_detail_id": 1806,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 7,
+            "reward_detail_id": 400002004,
+            "reward_number": 1
+          },
+          {
+            "order_index": 2,
+            "reward_type": 6,
+            "reward_detail_id": 3043005,
+            "reward_number": 1
+          },
+          {
+            "order_index": 3,
+            "reward_type": 8,
+            "reward_detail_id": 302103,
+            "reward_number": 1
+          }
+        ]
+      },
+      {
+        "product_id": 65,
+        "leader_skin_id": 1807,
+        "product_name_key": "LSPPN_プリコネ2_4",
+        "introduction_key": "LSPI_プリコネ2_4",
+        "cv_name_key": "LSPCN_プリコネ2_4",
+        "single_price_crystal": 500,
+        "single_price_rupy": null,
+        "single_price_ticket": null,
+        "ticket_number": null,
+        "ticket_item_id": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 10,
+            "reward_detail_id": 1807,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 7,
+            "reward_detail_id": 400002005,
+            "reward_number": 1
+          },
+          {
+            "order_index": 2,
+            "reward_type": 6,
+            "reward_detail_id": 3043006,
+            "reward_number": 1
+          },
+          {
+            "order_index": 3,
+            "reward_type": 8,
+            "reward_detail_id": 302104,
+            "reward_number": 1
+          }
+        ]
+      },
+      {
+        "product_id": 66,
+        "leader_skin_id": 1808,
+        "product_name_key": "LSPPN_プリコネ2_5",
+        "introduction_key": "LSPI_プリコネ2_5",
+        "cv_name_key": "LSPCN_プリコネ2_5",
+        "single_price_crystal": 500,
+        "single_price_rupy": null,
+        "single_price_ticket": null,
+        "ticket_number": null,
+        "ticket_item_id": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 10,
+            "reward_detail_id": 1808,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 7,
+            "reward_detail_id": 400002006,
+            "reward_number": 1
+          },
+          {
+            "order_index": 2,
+            "reward_type": 6,
+            "reward_detail_id": 3043007,
+            "reward_number": 1
+          },
+          {
+            "order_index": 3,
+            "reward_type": 8,
+            "reward_detail_id": 302105,
+            "reward_number": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "series_id": 115,
+    "is_new": false,
+    "set_sales_status": 1,
+    "set_price_crystal": 3200,
+    "set_price_rupy": null,
+    "set_price_ticket": null,
+    "set_price_ticket_id": null,
+    "set_completion_rewards": [],
+    "products": [
+      {
+        "product_id": 78,
+        "leader_skin_id": 1901,
+        "product_name_key": "LSPPN_Shadowverse新リーダースキン_1",
+        "introduction_key": "LSPI_Shadowverse新リーダースキン_1",
+        "cv_name_key": "LSPCN_Shadowverse新リーダースキン_1",
+        "single_price_crystal": 500,
+        "single_price_rupy": null,
+        "single_price_ticket": null,
+        "ticket_number": null,
+        "ticket_item_id": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 10,
+            "reward_detail_id": 1901,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 7,
+            "reward_detail_id": 100000106,
+            "reward_number": 1
+          },
+          {
+            "order_index": 2,
+            "reward_type": 6,
+            "reward_detail_id": 3000081,
+            "reward_number": 1
+          },
+          {
+            "order_index": 3,
+            "reward_type": 8,
+            "reward_detail_id": 302401,
+            "reward_number": 1
+          }
+        ]
+      },
+      {
+        "product_id": 79,
+        "leader_skin_id": 1902,
+        "product_name_key": "LSPPN_Shadowverse新リーダースキン_2",
+        "introduction_key": "LSPI_Shadowverse新リーダースキン_2",
+        "cv_name_key": "LSPCN_Shadowverse新リーダースキン_2",
+        "single_price_crystal": 500,
+        "single_price_rupy": null,
+        "single_price_ticket": null,
+        "ticket_number": null,
+        "ticket_item_id": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 10,
+            "reward_detail_id": 1902,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 7,
+            "reward_detail_id": 100000206,
+            "reward_number": 1
+          },
+          {
+            "order_index": 2,
+            "reward_type": 6,
+            "reward_detail_id": 3000082,
+            "reward_number": 1
+          },
+          {
+            "order_index": 3,
+            "reward_type": 8,
+            "reward_detail_id": 302402,
+            "reward_number": 1
+          }
+        ]
+      },
+      {
+        "product_id": 80,
+        "leader_skin_id": 1903,
+        "product_name_key": "LSPPN_Shadowverse新リーダースキン_3",
+        "introduction_key": "LSPI_Shadowverse新リーダースキン_3",
+        "cv_name_key": "LSPCN_Shadowverse新リーダースキン_3",
+        "single_price_crystal": 500,
+        "single_price_rupy": null,
+        "single_price_ticket": null,
+        "ticket_number": null,
+        "ticket_item_id": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 10,
+            "reward_detail_id": 1903,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 7,
+            "reward_detail_id": 100000306,
+            "reward_number": 1
+          },
+          {
+            "order_index": 2,
+            "reward_type": 6,
+            "reward_detail_id": 3000083,
+            "reward_number": 1
+          },
+          {
+            "order_index": 3,
+            "reward_type": 8,
+            "reward_detail_id": 302403,
+            "reward_number": 1
+          }
+        ]
+      },
+      {
+        "product_id": 81,
+        "leader_skin_id": 1904,
+        "product_name_key": "LSPPN_Shadowverse新リーダースキン_4",
+        "introduction_key": "LSPI_Shadowverse新リーダースキン_4",
+        "cv_name_key": "LSPCN_Shadowverse新リーダースキン_4",
+        "single_price_crystal": 500,
+        "single_price_rupy": null,
+        "single_price_ticket": null,
+        "ticket_number": null,
+        "ticket_item_id": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 10,
+            "reward_detail_id": 1904,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 7,
+            "reward_detail_id": 100000406,
+            "reward_number": 1
+          },
+          {
+            "order_index": 2,
+            "reward_type": 6,
+            "reward_detail_id": 3000084,
+            "reward_number": 1
+          },
+          {
+            "order_index": 3,
+            "reward_type": 8,
+            "reward_detail_id": 302404,
+            "reward_number": 1
+          }
+        ]
+      },
+      {
+        "product_id": 82,
+        "leader_skin_id": 1905,
+        "product_name_key": "LSPPN_Shadowverse新リーダースキン_5",
+        "introduction_key": "LSPI_Shadowverse新リーダースキン_5",
+        "cv_name_key": "LSPCN_Shadowverse新リーダースキン_5",
+        "single_price_crystal": 500,
+        "single_price_rupy": null,
+        "single_price_ticket": null,
+        "ticket_number": null,
+        "ticket_item_id": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 10,
+            "reward_detail_id": 1905,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 7,
+            "reward_detail_id": 100000506,
+            "reward_number": 1
+          },
+          {
+            "order_index": 2,
+            "reward_type": 6,
+            "reward_detail_id": 3000085,
+            "reward_number": 1
+          },
+          {
+            "order_index": 3,
+            "reward_type": 8,
+            "reward_detail_id": 302405,
+            "reward_number": 1
+          }
+        ]
+      },
+      {
+        "product_id": 83,
+        "leader_skin_id": 1906,
+        "product_name_key": "LSPPN_Shadowverse新リーダースキン_6",
+        "introduction_key": "LSPI_Shadowverse新リーダースキン_6",
+        "cv_name_key": "LSPCN_Shadowverse新リーダースキン_6",
+        "single_price_crystal": 500,
+        "single_price_rupy": null,
+        "single_price_ticket": null,
+        "ticket_number": null,
+        "ticket_item_id": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 10,
+            "reward_detail_id": 1906,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 7,
+            "reward_detail_id": 100000606,
+            "reward_number": 1
+          },
+          {
+            "order_index": 2,
+            "reward_type": 6,
+            "reward_detail_id": 3000086,
+            "reward_number": 1
+          },
+          {
+            "order_index": 3,
+            "reward_type": 8,
+            "reward_detail_id": 302406,
+            "reward_number": 1
+          }
+        ]
+      },
+      {
+        "product_id": 84,
+        "leader_skin_id": 1907,
+        "product_name_key": "LSPPN_Shadowverse新リーダースキン_7",
+        "introduction_key": "LSPI_Shadowverse新リーダースキン_7",
+        "cv_name_key": "LSPCN_Shadowverse新リーダースキン_7",
+        "single_price_crystal": 500,
+        "single_price_rupy": null,
+        "single_price_ticket": null,
+        "ticket_number": null,
+        "ticket_item_id": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 10,
+            "reward_detail_id": 1907,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 7,
+            "reward_detail_id": 100000706,
+            "reward_number": 1
+          },
+          {
+            "order_index": 2,
+            "reward_type": 6,
+            "reward_detail_id": 3000087,
+            "reward_number": 1
+          },
+          {
+            "order_index": 3,
+            "reward_type": 8,
+            "reward_detail_id": 302407,
+            "reward_number": 1
+          }
+        ]
+      },
+      {
+        "product_id": 85,
+        "leader_skin_id": 1908,
+        "product_name_key": "LSPPN_Shadowverse新リーダースキン_8",
+        "introduction_key": "LSPI_Shadowverse新リーダースキン_8",
+        "cv_name_key": "LSPCN_Shadowverse新リーダースキン_8",
+        "single_price_crystal": 500,
+        "single_price_rupy": null,
+        "single_price_ticket": null,
+        "ticket_number": null,
+        "ticket_item_id": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 10,
+            "reward_detail_id": 1908,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 7,
+            "reward_detail_id": 100000806,
+            "reward_number": 1
+          },
+          {
+            "order_index": 2,
+            "reward_type": 6,
+            "reward_detail_id": 3000088,
+            "reward_number": 1
+          },
+          {
+            "order_index": 3,
+            "reward_type": 8,
+            "reward_detail_id": 302408,
+            "reward_number": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "series_id": 117,
+    "is_new": false,
+    "set_sales_status": 1,
+    "set_price_crystal": 2800,
+    "set_price_rupy": null,
+    "set_price_ticket": null,
+    "set_price_ticket_id": null,
+    "set_completion_rewards": [
+      {
+        "order_index": 0,
+        "reward_type": 6,
+        "reward_detail_id": 3040003,
+        "reward_number": 1
+      }
+    ],
+    "products": [
+      {
+        "product_id": 94,
+        "leader_skin_id": 2701,
+        "product_name_key": "LSPPN_チャンピオンズバトル_1",
+        "introduction_key": "LSPI_チャンピオンズバトル_1",
+        "cv_name_key": "LSPCN_チャンピオンズバトル_1",
+        "single_price_crystal": 500,
+        "single_price_rupy": null,
+        "single_price_ticket": null,
+        "ticket_number": null,
+        "ticket_item_id": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 10,
+            "reward_detail_id": 2701,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 7,
+            "reward_detail_id": 400002701,
+            "reward_number": 1
+          },
+          {
+            "order_index": 2,
+            "reward_type": 6,
+            "reward_detail_id": 713114010,
+            "reward_number": 1
+          },
+          {
+            "order_index": 3,
+            "reward_type": 8,
+            "reward_detail_id": 302601,
+            "reward_number": 1
+          }
+        ]
+      },
+      {
+        "product_id": 95,
+        "leader_skin_id": 2702,
+        "product_name_key": "LSPPN_チャンピオンズバトル_2",
+        "introduction_key": "LSPI_チャンピオンズバトル_2",
+        "cv_name_key": "LSPCN_チャンピオンズバトル_2",
+        "single_price_crystal": 500,
+        "single_price_rupy": null,
+        "single_price_ticket": null,
+        "ticket_number": null,
+        "ticket_item_id": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 10,
+            "reward_detail_id": 2702,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 7,
+            "reward_detail_id": 400002702,
+            "reward_number": 1
+          },
+          {
+            "order_index": 2,
+            "reward_type": 6,
+            "reward_detail_id": 713214020,
+            "reward_number": 1
+          },
+          {
+            "order_index": 3,
+            "reward_type": 8,
+            "reward_detail_id": 302602,
+            "reward_number": 1
+          }
+        ]
+      },
+      {
+        "product_id": 96,
+        "leader_skin_id": 2703,
+        "product_name_key": "LSPPN_チャンピオンズバトル_3",
+        "introduction_key": "LSPI_チャンピオンズバトル_3",
+        "cv_name_key": "LSPCN_チャンピオンズバトル_3",
+        "single_price_crystal": 500,
+        "single_price_rupy": null,
+        "single_price_ticket": null,
+        "ticket_number": null,
+        "ticket_item_id": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 10,
+            "reward_detail_id": 2703,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 7,
+            "reward_detail_id": 400002703,
+            "reward_number": 1
+          },
+          {
+            "order_index": 2,
+            "reward_type": 6,
+            "reward_detail_id": 713314020,
+            "reward_number": 1
+          },
+          {
+            "order_index": 3,
+            "reward_type": 8,
+            "reward_detail_id": 302603,
+            "reward_number": 1
+          }
+        ]
+      },
+      {
+        "product_id": 97,
+        "leader_skin_id": 2704,
+        "product_name_key": "LSPPN_チャンピオンズバトル_4",
+        "introduction_key": "LSPI_チャンピオンズバトル_4",
+        "cv_name_key": "LSPCN_チャンピオンズバトル_4",
+        "single_price_crystal": 500,
+        "single_price_rupy": null,
+        "single_price_ticket": null,
+        "ticket_number": null,
+        "ticket_item_id": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 10,
+            "reward_detail_id": 2704,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 7,
+            "reward_detail_id": 400002704,
+            "reward_number": 1
+          },
+          {
+            "order_index": 2,
+            "reward_type": 6,
+            "reward_detail_id": 713414020,
+            "reward_number": 1
+          },
+          {
+            "order_index": 3,
+            "reward_type": 8,
+            "reward_detail_id": 302604,
+            "reward_number": 1
+          }
+        ]
+      },
+      {
+        "product_id": 98,
+        "leader_skin_id": 2705,
+        "product_name_key": "LSPPN_チャンピオンズバトル_5",
+        "introduction_key": "LSPI_チャンピオンズバトル_5",
+        "cv_name_key": "LSPCN_チャンピオンズバトル_5",
+        "single_price_crystal": 500,
+        "single_price_rupy": null,
+        "single_price_ticket": null,
+        "ticket_number": null,
+        "ticket_item_id": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 10,
+            "reward_detail_id": 2705,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 7,
+            "reward_detail_id": 400002705,
+            "reward_number": 1
+          },
+          {
+            "order_index": 2,
+            "reward_type": 6,
+            "reward_detail_id": 713514010,
+            "reward_number": 1
+          },
+          {
+            "order_index": 3,
+            "reward_type": 8,
+            "reward_detail_id": 302605,
+            "reward_number": 1
+          }
+        ]
+      },
+      {
+        "product_id": 99,
+        "leader_skin_id": 2706,
+        "product_name_key": "LSPPN_チャンピオンズバトル_6",
+        "introduction_key": "LSPI_チャンピオンズバトル_6",
+        "cv_name_key": "LSPCN_チャンピオンズバトル_6",
+        "single_price_crystal": 500,
+        "single_price_rupy": null,
+        "single_price_ticket": null,
+        "ticket_number": null,
+        "ticket_item_id": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 10,
+            "reward_detail_id": 2706,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 7,
+            "reward_detail_id": 400002706,
+            "reward_number": 1
+          },
+          {
+            "order_index": 2,
+            "reward_type": 6,
+            "reward_detail_id": 713614010,
+            "reward_number": 1
+          },
+          {
+            "order_index": 3,
+            "reward_type": 8,
+            "reward_detail_id": 302606,
+            "reward_number": 1
+          }
+        ]
+      },
+      {
+        "product_id": 100,
+        "leader_skin_id": 2707,
+        "product_name_key": "LSPPN_チャンピオンズバトル_7",
+        "introduction_key": "LSPI_チャンピオンズバトル_7",
+        "cv_name_key": "LSPCN_チャンピオンズバトル_7",
+        "single_price_crystal": 500,
+        "single_price_rupy": null,
+        "single_price_ticket": null,
+        "ticket_number": null,
+        "ticket_item_id": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 10,
+            "reward_detail_id": 2707,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 7,
+            "reward_detail_id": 400002707,
+            "reward_number": 1
+          },
+          {
+            "order_index": 2,
+            "reward_type": 6,
+            "reward_detail_id": 713714020,
+            "reward_number": 1
+          },
+          {
+            "order_index": 3,
+            "reward_type": 8,
+            "reward_detail_id": 302607,
+            "reward_number": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "series_id": 118,
+    "is_new": false,
+    "set_sales_status": 1,
+    "set_price_crystal": 4000,
+    "set_price_rupy": null,
+    "set_price_ticket": null,
+    "set_price_ticket_id": null,
+    "set_completion_rewards": [
+      {
+        "order_index": 0,
+        "reward_type": 6,
+        "reward_detail_id": 3053001,
+        "reward_number": 1
+      }
+    ],
+    "products": [
+      {
+        "product_id": 101,
+        "leader_skin_id": 2901,
+        "product_name_key": "LSPPN_グランブルーファンタジー2_1",
+        "introduction_key": "LSPI_グランブルーファンタジー2_1",
+        "cv_name_key": "LSPCN_グランブルーファンタジー2_1",
+        "single_price_crystal": 500,
+        "single_price_rupy": null,
+        "single_price_ticket": null,
+        "ticket_number": null,
+        "ticket_item_id": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 10,
+            "reward_detail_id": 2901,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 7,
+            "reward_detail_id": 400002801,
+            "reward_number": 1
+          },
+          {
+            "order_index": 2,
+            "reward_type": 6,
+            "reward_detail_id": 1191410110,
+            "reward_number": 1
+          },
+          {
+            "order_index": 3,
+            "reward_type": 8,
+            "reward_detail_id": 302801,
+            "reward_number": 1
+          }
+        ]
+      },
+      {
+        "product_id": 102,
+        "leader_skin_id": 2902,
+        "product_name_key": "LSPPN_グランブルーファンタジー2_2",
+        "introduction_key": "LSPI_グランブルーファンタジー2_2",
+        "cv_name_key": "LSPCN_グランブルーファンタジー2_2",
+        "single_price_crystal": 500,
+        "single_price_rupy": null,
+        "single_price_ticket": null,
+        "ticket_number": null,
+        "ticket_item_id": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 10,
+            "reward_detail_id": 2902,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 7,
+            "reward_detail_id": 400002802,
+            "reward_number": 1
+          },
+          {
+            "order_index": 2,
+            "reward_type": 6,
+            "reward_detail_id": 1192410110,
+            "reward_number": 1
+          },
+          {
+            "order_index": 3,
+            "reward_type": 8,
+            "reward_detail_id": 302802,
+            "reward_number": 1
+          }
+        ]
+      },
+      {
+        "product_id": 103,
+        "leader_skin_id": 2912,
+        "product_name_key": "LSPPN_グランブルーファンタジー2_3",
+        "introduction_key": "LSPI_グランブルーファンタジー2_3",
+        "cv_name_key": "LSPCN_グランブルーファンタジー2_3",
+        "single_price_crystal": 500,
+        "single_price_rupy": null,
+        "single_price_ticket": null,
+        "ticket_number": null,
+        "ticket_item_id": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 10,
+            "reward_detail_id": 2912,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 7,
+            "reward_detail_id": 400002803,
+            "reward_number": 1
+          },
+          {
+            "order_index": 2,
+            "reward_type": 6,
+            "reward_detail_id": 1192410210,
+            "reward_number": 1
+          },
+          {
+            "order_index": 3,
+            "reward_type": 8,
+            "reward_detail_id": 302803,
+            "reward_number": 1
+          }
+        ]
+      },
+      {
+        "product_id": 104,
+        "leader_skin_id": 2903,
+        "product_name_key": "LSPPN_グランブルーファンタジー2_4",
+        "introduction_key": "LSPI_グランブルーファンタジー2_4",
+        "cv_name_key": "LSPCN_グランブルーファンタジー2_4",
+        "single_price_crystal": 500,
+        "single_price_rupy": null,
+        "single_price_ticket": null,
+        "ticket_number": null,
+        "ticket_item_id": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 10,
+            "reward_detail_id": 2903,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 7,
+            "reward_detail_id": 400002804,
+            "reward_number": 1
+          },
+          {
+            "order_index": 2,
+            "reward_type": 6,
+            "reward_detail_id": 1193410110,
+            "reward_number": 1
+          },
+          {
+            "order_index": 3,
+            "reward_type": 8,
+            "reward_detail_id": 302804,
+            "reward_number": 1
+          }
+        ]
+      },
+      {
+        "product_id": 105,
+        "leader_skin_id": 2904,
+        "product_name_key": "LSPPN_グランブルーファンタジー2_5",
+        "introduction_key": "LSPI_グランブルーファンタジー2_5",
+        "cv_name_key": "LSPCN_グランブルーファンタジー2_5",
+        "single_price_crystal": 500,
+        "single_price_rupy": null,
+        "single_price_ticket": null,
+        "ticket_number": null,
+        "ticket_item_id": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 10,
+            "reward_detail_id": 2904,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 7,
+            "reward_detail_id": 400002805,
+            "reward_number": 1
+          },
+          {
+            "order_index": 2,
+            "reward_type": 6,
+            "reward_detail_id": 1194410110,
+            "reward_number": 1
+          },
+          {
+            "order_index": 3,
+            "reward_type": 8,
+            "reward_detail_id": 302805,
+            "reward_number": 1
+          }
+        ]
+      },
+      {
+        "product_id": 106,
+        "leader_skin_id": 2905,
+        "product_name_key": "LSPPN_グランブルーファンタジー2_6",
+        "introduction_key": "LSPI_グランブルーファンタジー2_6",
+        "cv_name_key": "LSPCN_グランブルーファンタジー2_6",
+        "single_price_crystal": 500,
+        "single_price_rupy": null,
+        "single_price_ticket": null,
+        "ticket_number": null,
+        "ticket_item_id": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 10,
+            "reward_detail_id": 2905,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 7,
+            "reward_detail_id": 400002806,
+            "reward_number": 1
+          },
+          {
+            "order_index": 2,
+            "reward_type": 6,
+            "reward_detail_id": 1195410110,
+            "reward_number": 1
+          },
+          {
+            "order_index": 3,
+            "reward_type": 8,
+            "reward_detail_id": 302806,
+            "reward_number": 1
+          }
+        ]
+      },
+      {
+        "product_id": 107,
+        "leader_skin_id": 2906,
+        "product_name_key": "LSPPN_グランブルーファンタジー2_7",
+        "introduction_key": "LSPI_グランブルーファンタジー2_7",
+        "cv_name_key": "LSPCN_グランブルーファンタジー2_7",
+        "single_price_crystal": 500,
+        "single_price_rupy": null,
+        "single_price_ticket": null,
+        "ticket_number": null,
+        "ticket_item_id": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 10,
+            "reward_detail_id": 2906,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 7,
+            "reward_detail_id": 400002807,
+            "reward_number": 1
+          },
+          {
+            "order_index": 2,
+            "reward_type": 6,
+            "reward_detail_id": 1196410110,
+            "reward_number": 1
+          },
+          {
+            "order_index": 3,
+            "reward_type": 8,
+            "reward_detail_id": 302807,
+            "reward_number": 1
+          }
+        ]
+      },
+      {
+        "product_id": 108,
+        "leader_skin_id": 2907,
+        "product_name_key": "LSPPN_グランブルーファンタジー2_8",
+        "introduction_key": "LSPI_グランブルーファンタジー2_8",
+        "cv_name_key": "LSPCN_グランブルーファンタジー2_8",
+        "single_price_crystal": 500,
+        "single_price_rupy": null,
+        "single_price_ticket": null,
+        "ticket_number": null,
+        "ticket_item_id": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 10,
+            "reward_detail_id": 2907,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 7,
+            "reward_detail_id": 400002808,
+            "reward_number": 1
+          },
+          {
+            "order_index": 2,
+            "reward_type": 6,
+            "reward_detail_id": 1197410110,
+            "reward_number": 1
+          },
+          {
+            "order_index": 3,
+            "reward_type": 8,
+            "reward_detail_id": 302808,
+            "reward_number": 1
+          }
+        ]
+      },
+      {
+        "product_id": 109,
+        "leader_skin_id": 2908,
+        "product_name_key": "LSPPN_グランブルーファンタジー2_9",
+        "introduction_key": "LSPI_グランブルーファンタジー2_9",
+        "cv_name_key": "LSPCN_グランブルーファンタジー2_9",
+        "single_price_crystal": 500,
+        "single_price_rupy": null,
+        "single_price_ticket": null,
+        "ticket_number": null,
+        "ticket_item_id": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 10,
+            "reward_detail_id": 2908,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 7,
+            "reward_detail_id": 400002809,
+            "reward_number": 1
+          },
+          {
+            "order_index": 2,
+            "reward_type": 6,
+            "reward_detail_id": 1198410110,
+            "reward_number": 1
+          },
+          {
+            "order_index": 3,
+            "reward_type": 8,
+            "reward_detail_id": 302809,
+            "reward_number": 1
+          }
+        ]
+      },
+      {
+        "product_id": 110,
+        "leader_skin_id": 2918,
+        "product_name_key": "LSPPN_グランブルーファンタジー2_10",
+        "introduction_key": "LSPI_グランブルーファンタジー2_10",
+        "cv_name_key": "LSPCN_グランブルーファンタジー2_10",
+        "single_price_crystal": 500,
+        "single_price_rupy": null,
+        "single_price_ticket": null,
+        "ticket_number": null,
+        "ticket_item_id": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 10,
+            "reward_detail_id": 2918,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 7,
+            "reward_detail_id": 400002810,
+            "reward_number": 1
+          },
+          {
+            "order_index": 2,
+            "reward_type": 6,
+            "reward_detail_id": 1198410210,
+            "reward_number": 1
+          },
+          {
+            "order_index": 3,
+            "reward_type": 8,
+            "reward_detail_id": 302810,
+            "reward_number": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "series_id": 121,
+    "is_new": false,
+    "set_sales_status": 0,
+    "set_price_crystal": null,
+    "set_price_rupy": null,
+    "set_price_ticket": null,
+    "set_price_ticket_id": null,
+    "set_completion_rewards": [],
+    "products": [
+      {
+        "product_id": 123,
+        "leader_skin_id": 2507,
+        "product_name_key": "LSPPN_バトルパス_1",
+        "introduction_key": "LSPI_バトルパス_1",
+        "cv_name_key": "LSPCN_バトルパス_1",
+        "single_price_crystal": 500,
+        "single_price_rupy": null,
+        "single_price_ticket": null,
+        "ticket_number": null,
+        "ticket_item_id": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 10,
+            "reward_detail_id": 2507,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 7,
+            "reward_detail_id": 400002601,
+            "reward_number": 1
+          },
+          {
+            "order_index": 2,
+            "reward_type": 6,
+            "reward_detail_id": 1147130100,
+            "reward_number": 1
+          }
+        ]
+      },
+      {
+        "product_id": 132,
+        "leader_skin_id": 2103,
+        "product_name_key": "LSPPN_バトルパス_2",
+        "introduction_key": "LSPI_バトルパス_2",
+        "cv_name_key": "LSPCN_バトルパス_2",
+        "single_price_crystal": 500,
+        "single_price_rupy": null,
+        "single_price_ticket": null,
+        "ticket_number": null,
+        "ticket_item_id": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 10,
+            "reward_detail_id": 2103,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 7,
+            "reward_detail_id": 400002901,
+            "reward_number": 1
+          },
+          {
+            "order_index": 2,
+            "reward_type": 6,
+            "reward_detail_id": 1103310300,
+            "reward_number": 1
+          }
+        ]
+      },
+      {
+        "product_id": 148,
+        "leader_skin_id": 2612,
+        "product_name_key": "LSPPN_バトルパス_3",
+        "introduction_key": "LSPI_バトルパス_3",
+        "cv_name_key": "LSPCN_バトルパス_3",
+        "single_price_crystal": 500,
+        "single_price_rupy": null,
+        "single_price_ticket": null,
+        "ticket_number": null,
+        "ticket_item_id": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 10,
+            "reward_detail_id": 2612,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 7,
+            "reward_detail_id": 200000014,
+            "reward_number": 1
+          },
+          {
+            "order_index": 2,
+            "reward_type": 6,
+            "reward_detail_id": 900244040,
+            "reward_number": 1
+          }
+        ]
+      },
+      {
+        "product_id": 159,
+        "leader_skin_id": 2508,
+        "product_name_key": "LSPPN_バトルパス_4",
+        "introduction_key": "LSPI_バトルパス_4",
+        "cv_name_key": "LSPCN_バトルパス_4",
+        "single_price_crystal": 500,
+        "single_price_rupy": null,
+        "single_price_ticket": null,
+        "ticket_number": null,
+        "ticket_item_id": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 10,
+            "reward_detail_id": 2508,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 7,
+            "reward_detail_id": 200000019,
+            "reward_number": 1
+          },
+          {
+            "order_index": 2,
+            "reward_type": 6,
+            "reward_detail_id": 200000018,
+            "reward_number": 1
+          }
+        ]
+      },
+      {
+        "product_id": 160,
+        "leader_skin_id": 2518,
+        "product_name_key": "LSPPN_バトルパス_5",
+        "introduction_key": "LSPI_バトルパス_5",
+        "cv_name_key": "LSPCN_バトルパス_5",
+        "single_price_crystal": 500,
+        "single_price_rupy": null,
+        "single_price_ticket": null,
+        "ticket_number": null,
+        "ticket_item_id": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 10,
+            "reward_detail_id": 2518,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 7,
+            "reward_detail_id": 200000021,
+            "reward_number": 1
+          }
+        ]
+      },
+      {
+        "product_id": 161,
+        "leader_skin_id": 2505,
+        "product_name_key": "LSPPN_バトルパス_6",
+        "introduction_key": "LSPI_バトルパス_6",
+        "cv_name_key": "LSPCN_バトルパス_6",
+        "single_price_crystal": 500,
+        "single_price_rupy": null,
+        "single_price_ticket": null,
+        "ticket_number": null,
+        "ticket_item_id": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 10,
+            "reward_detail_id": 2505,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 7,
+            "reward_detail_id": 200000025,
+            "reward_number": 1
+          }
+        ]
+      },
+      {
+        "product_id": 170,
+        "leader_skin_id": 3506,
+        "product_name_key": "LSPPN_バトルパス_7",
+        "introduction_key": "LSPI_バトルパス_7",
+        "cv_name_key": "LSPCN_バトルパス_7",
+        "single_price_crystal": 500,
+        "single_price_rupy": null,
+        "single_price_ticket": null,
+        "ticket_number": null,
+        "ticket_item_id": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 10,
+            "reward_detail_id": 3506,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 7,
+            "reward_detail_id": 200000030,
+            "reward_number": 1
+          },
+          {
+            "order_index": 2,
+            "reward_type": 6,
+            "reward_detail_id": 900644100,
+            "reward_number": 1
+          }
+        ]
+      },
+      {
+        "product_id": 175,
+        "leader_skin_id": 3505,
+        "product_name_key": "LSPPN_バトルパス_8",
+        "introduction_key": "LSPI_バトルパス_8",
+        "cv_name_key": "LSPCN_バトルパス_8",
+        "single_price_crystal": 500,
+        "single_price_rupy": null,
+        "single_price_ticket": null,
+        "ticket_number": null,
+        "ticket_item_id": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 10,
+            "reward_detail_id": 3505,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 7,
+            "reward_detail_id": 200000032,
+            "reward_number": 1
+          },
+          {
+            "order_index": 2,
+            "reward_type": 6,
+            "reward_detail_id": 900544110,
+            "reward_number": 1
+          }
+        ]
+      },
+      {
+        "product_id": 176,
+        "leader_skin_id": 3502,
+        "product_name_key": "LSPPN_バトルパス_9",
+        "introduction_key": "LSPI_バトルパス_9",
+        "cv_name_key": "LSPCN_バトルパス_9",
+        "single_price_crystal": 500,
+        "single_price_rupy": null,
+        "single_price_ticket": null,
+        "ticket_number": null,
+        "ticket_item_id": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 10,
+            "reward_detail_id": 3502,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 7,
+            "reward_detail_id": 200000036,
+            "reward_number": 1
+          },
+          {
+            "order_index": 2,
+            "reward_type": 6,
+            "reward_detail_id": 1242410100,
+            "reward_number": 1
+          }
+        ]
+      },
+      {
+        "product_id": 177,
+        "leader_skin_id": 3514,
+        "product_name_key": "LSPPN_バトルパス_10",
+        "introduction_key": "LSPI_バトルパス_10",
+        "cv_name_key": "LSPCN_バトルパス_10",
+        "single_price_crystal": 500,
+        "single_price_rupy": null,
+        "single_price_ticket": null,
+        "ticket_number": null,
+        "ticket_item_id": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 10,
+            "reward_detail_id": 3514,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 7,
+            "reward_detail_id": 200000039,
+            "reward_number": 1
+          },
+          {
+            "order_index": 2,
+            "reward_type": 6,
+            "reward_detail_id": 900444060,
+            "reward_number": 1
+          }
+        ]
+      },
+      {
+        "product_id": 178,
+        "leader_skin_id": 4107,
+        "product_name_key": "LSPPN_バトルパス_11",
+        "introduction_key": "LSPI_バトルパス_11",
+        "cv_name_key": "LSPCN_バトルパス_11",
+        "single_price_crystal": 500,
+        "single_price_rupy": null,
+        "single_price_ticket": null,
+        "ticket_number": null,
+        "ticket_item_id": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 10,
+            "reward_detail_id": 4107,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 7,
+            "reward_detail_id": 200000041,
+            "reward_number": 1
+          },
+          {
+            "order_index": 2,
+            "reward_type": 6,
+            "reward_detail_id": 900744060,
+            "reward_number": 1
+          }
+        ]
+      },
+      {
+        "product_id": 179,
+        "leader_skin_id": 4108,
+        "product_name_key": "LSPPN_バトルパス_12",
+        "introduction_key": "LSPI_バトルパス_12",
+        "cv_name_key": "LSPCN_バトルパス_12",
+        "single_price_crystal": 500,
+        "single_price_rupy": null,
+        "single_price_ticket": null,
+        "ticket_number": null,
+        "ticket_item_id": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 10,
+            "reward_detail_id": 4108,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 7,
+            "reward_detail_id": 200000046,
+            "reward_number": 1
+          },
+          {
+            "order_index": 2,
+            "reward_type": 6,
+            "reward_detail_id": 900844090,
+            "reward_number": 1
+          }
+        ]
+      },
+      {
+        "product_id": 180,
+        "leader_skin_id": 4103,
+        "product_name_key": "LSPPN_バトルパス_13",
+        "introduction_key": "LSPI_バトルパス_13",
+        "cv_name_key": "LSPCN_バトルパス_13",
+        "single_price_crystal": 500,
+        "single_price_rupy": null,
+        "single_price_ticket": null,
+        "ticket_number": null,
+        "ticket_item_id": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 10,
+            "reward_detail_id": 4103,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 7,
+            "reward_detail_id": 200000051,
+            "reward_number": 1
+          },
+          {
+            "order_index": 2,
+            "reward_type": 6,
+            "reward_detail_id": 900344160,
+            "reward_number": 1
+          }
+        ]
+      },
+      {
+        "product_id": 181,
+        "leader_skin_id": 4101,
+        "product_name_key": "LSPPN_バトルパス_14",
+        "introduction_key": "LSPI_バトルパス_14",
+        "cv_name_key": "LSPCN_バトルパス_14",
+        "single_price_crystal": 500,
+        "single_price_rupy": null,
+        "single_price_ticket": null,
+        "ticket_number": null,
+        "ticket_item_id": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 10,
+            "reward_detail_id": 4101,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 7,
+            "reward_detail_id": 200000054,
+            "reward_number": 1
+          },
+          {
+            "order_index": 2,
+            "reward_type": 6,
+            "reward_detail_id": 900144130,
+            "reward_number": 1
+          }
+        ]
+      },
+      {
+        "product_id": 182,
+        "leader_skin_id": 4503,
+        "product_name_key": "LSPPN_バトルパス_15",
+        "introduction_key": "LSPI_バトルパス_15",
+        "cv_name_key": "LSPCN_バトルパス_15",
+        "single_price_crystal": 500,
+        "single_price_rupy": null,
+        "single_price_ticket": null,
+        "ticket_number": null,
+        "ticket_item_id": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 10,
+            "reward_detail_id": 4503,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 7,
+            "reward_detail_id": 200000060,
+            "reward_number": 1
+          },
+          {
+            "order_index": 2,
+            "reward_type": 6,
+            "reward_detail_id": 200000046,
+            "reward_number": 1
+          }
+        ]
+      },
+      {
+        "product_id": 183,
+        "leader_skin_id": 4508,
+        "product_name_key": "LSPPN_バトルパス_16",
+        "introduction_key": "LSPI_バトルパス_16",
+        "cv_name_key": "LSPCN_バトルパス_16",
+        "single_price_crystal": 500,
+        "single_price_rupy": null,
+        "single_price_ticket": null,
+        "ticket_number": null,
+        "ticket_item_id": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 10,
+            "reward_detail_id": 4508,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 7,
+            "reward_detail_id": 200000090,
+            "reward_number": 1
+          },
+          {
+            "order_index": 2,
+            "reward_type": 6,
+            "reward_detail_id": 200000090,
+            "reward_number": 1
+          }
+        ]
+      },
+      {
+        "product_id": 184,
+        "leader_skin_id": 4502,
+        "product_name_key": "LSPPN_バトルパス_17",
+        "introduction_key": "LSPI_バトルパス_17",
+        "cv_name_key": "LSPCN_バトルパス_17",
+        "single_price_crystal": 500,
+        "single_price_rupy": null,
+        "single_price_ticket": null,
+        "ticket_number": null,
+        "ticket_item_id": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 10,
+            "reward_detail_id": 4502,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 7,
+            "reward_detail_id": 200000097,
+            "reward_number": 1
+          },
+          {
+            "order_index": 2,
+            "reward_type": 6,
+            "reward_detail_id": 200000094,
+            "reward_number": 1
+          }
+        ]
+      },
+      {
+        "product_id": 185,
+        "leader_skin_id": 4528,
+        "product_name_key": "LSPPN_バトルパス_18",
+        "introduction_key": "LSPI_バトルパス_18",
+        "cv_name_key": "LSPCN_バトルパス_18",
+        "single_price_crystal": 500,
+        "single_price_rupy": null,
+        "single_price_ticket": null,
+        "ticket_number": null,
+        "ticket_item_id": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 10,
+            "reward_detail_id": 4528,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 7,
+            "reward_detail_id": 200000098,
+            "reward_number": 1
+          },
+          {
+            "order_index": 2,
+            "reward_type": 6,
+            "reward_detail_id": 200000095,
+            "reward_number": 1
+          }
+        ]
+      },
+      {
+        "product_id": 186,
+        "leader_skin_id": 2515,
+        "product_name_key": "LSPPN_バトルパス_19",
+        "introduction_key": "LSPI_バトルパス_19",
+        "cv_name_key": "LSPCN_バトルパス_19",
+        "single_price_crystal": 500,
+        "single_price_rupy": null,
+        "single_price_ticket": null,
+        "ticket_number": null,
+        "ticket_item_id": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 10,
+            "reward_detail_id": 2515,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 7,
+            "reward_detail_id": 200000092,
+            "reward_number": 1
+          },
+          {
+            "order_index": 2,
+            "reward_type": 6,
+            "reward_detail_id": 200000092,
+            "reward_number": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "series_id": 123,
+    "is_new": false,
+    "set_sales_status": 1,
+    "set_price_crystal": 3200,
+    "set_price_rupy": null,
+    "set_price_ticket": null,
+    "set_price_ticket_id": null,
+    "set_completion_rewards": [
+      {
+        "order_index": 0,
+        "reward_type": 6,
+        "reward_detail_id": 3071002,
+        "reward_number": 1
+      }
+    ],
+    "products": [
+      {
+        "product_id": 133,
+        "leader_skin_id": 3601,
+        "product_name_key": "LSPPN_ウマ娘_プリティーダービー_1",
+        "introduction_key": "LSPI_ウマ娘_プリティーダービー_1",
+        "cv_name_key": "LSPCN_ウマ娘_プリティーダービー_1",
+        "single_price_crystal": 500,
+        "single_price_rupy": null,
+        "single_price_ticket": null,
+        "ticket_number": null,
+        "ticket_item_id": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 10,
+            "reward_detail_id": 3601,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 7,
+            "reward_detail_id": 400003907,
+            "reward_number": 1
+          },
+          {
+            "order_index": 2,
+            "reward_type": 6,
+            "reward_detail_id": 717121010,
+            "reward_number": 1
+          },
+          {
+            "order_index": 3,
+            "reward_type": 8,
+            "reward_detail_id": 303201,
+            "reward_number": 1
+          }
+        ]
+      },
+      {
+        "product_id": 134,
+        "leader_skin_id": 3602,
+        "product_name_key": "LSPPN_ウマ娘_プリティーダービー_2",
+        "introduction_key": "LSPI_ウマ娘_プリティーダービー_2",
+        "cv_name_key": "LSPCN_ウマ娘_プリティーダービー_2",
+        "single_price_crystal": 500,
+        "single_price_rupy": null,
+        "single_price_ticket": null,
+        "ticket_number": null,
+        "ticket_item_id": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 10,
+            "reward_detail_id": 3602,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 7,
+            "reward_detail_id": 400003908,
+            "reward_number": 1
+          },
+          {
+            "order_index": 2,
+            "reward_type": 6,
+            "reward_detail_id": 717231010,
+            "reward_number": 1
+          },
+          {
+            "order_index": 3,
+            "reward_type": 8,
+            "reward_detail_id": 303202,
+            "reward_number": 1
+          }
+        ]
+      },
+      {
+        "product_id": 135,
+        "leader_skin_id": 3603,
+        "product_name_key": "LSPPN_ウマ娘_プリティーダービー_3",
+        "introduction_key": "LSPI_ウマ娘_プリティーダービー_3",
+        "cv_name_key": "LSPCN_ウマ娘_プリティーダービー_3",
+        "single_price_crystal": 500,
+        "single_price_rupy": null,
+        "single_price_ticket": null,
+        "ticket_number": null,
+        "ticket_item_id": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 10,
+            "reward_detail_id": 3603,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 7,
+            "reward_detail_id": 400003909,
+            "reward_number": 1
+          },
+          {
+            "order_index": 2,
+            "reward_type": 6,
+            "reward_detail_id": 717334010,
+            "reward_number": 1
+          },
+          {
+            "order_index": 3,
+            "reward_type": 8,
+            "reward_detail_id": 303203,
+            "reward_number": 1
+          }
+        ]
+      },
+      {
+        "product_id": 136,
+        "leader_skin_id": 3604,
+        "product_name_key": "LSPPN_ウマ娘_プリティーダービー_4",
+        "introduction_key": "LSPI_ウマ娘_プリティーダービー_4",
+        "cv_name_key": "LSPCN_ウマ娘_プリティーダービー_4",
+        "single_price_crystal": 500,
+        "single_price_rupy": null,
+        "single_price_ticket": null,
+        "ticket_number": null,
+        "ticket_item_id": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 10,
+            "reward_detail_id": 3604,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 7,
+            "reward_detail_id": 400003910,
+            "reward_number": 1
+          },
+          {
+            "order_index": 2,
+            "reward_type": 6,
+            "reward_detail_id": 717421010,
+            "reward_number": 1
+          },
+          {
+            "order_index": 3,
+            "reward_type": 8,
+            "reward_detail_id": 303204,
+            "reward_number": 1
+          }
+        ]
+      },
+      {
+        "product_id": 137,
+        "leader_skin_id": 3605,
+        "product_name_key": "LSPPN_ウマ娘_プリティーダービー_5",
+        "introduction_key": "LSPI_ウマ娘_プリティーダービー_5",
+        "cv_name_key": "LSPCN_ウマ娘_プリティーダービー_5",
+        "single_price_crystal": 500,
+        "single_price_rupy": null,
+        "single_price_ticket": null,
+        "ticket_number": null,
+        "ticket_item_id": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 10,
+            "reward_detail_id": 3605,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 7,
+            "reward_detail_id": 400003911,
+            "reward_number": 1
+          },
+          {
+            "order_index": 2,
+            "reward_type": 6,
+            "reward_detail_id": 717514010,
+            "reward_number": 1
+          },
+          {
+            "order_index": 3,
+            "reward_type": 8,
+            "reward_detail_id": 303205,
+            "reward_number": 1
+          }
+        ]
+      },
+      {
+        "product_id": 138,
+        "leader_skin_id": 3606,
+        "product_name_key": "LSPPN_ウマ娘_プリティーダービー_6",
+        "introduction_key": "LSPI_ウマ娘_プリティーダービー_6",
+        "cv_name_key": "LSPCN_ウマ娘_プリティーダービー_6",
+        "single_price_crystal": 500,
+        "single_price_rupy": null,
+        "single_price_ticket": null,
+        "ticket_number": null,
+        "ticket_item_id": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 10,
+            "reward_detail_id": 3606,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 7,
+            "reward_detail_id": 400003912,
+            "reward_number": 1
+          },
+          {
+            "order_index": 2,
+            "reward_type": 6,
+            "reward_detail_id": 717624010,
+            "reward_number": 1
+          },
+          {
+            "order_index": 3,
+            "reward_type": 8,
+            "reward_detail_id": 303206,
+            "reward_number": 1
+          }
+        ]
+      },
+      {
+        "product_id": 139,
+        "leader_skin_id": 3607,
+        "product_name_key": "LSPPN_ウマ娘_プリティーダービー_7",
+        "introduction_key": "LSPI_ウマ娘_プリティーダービー_7",
+        "cv_name_key": "LSPCN_ウマ娘_プリティーダービー_7",
+        "single_price_crystal": 500,
+        "single_price_rupy": null,
+        "single_price_ticket": null,
+        "ticket_number": null,
+        "ticket_item_id": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 10,
+            "reward_detail_id": 3607,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 7,
+            "reward_detail_id": 400003913,
+            "reward_number": 1
+          },
+          {
+            "order_index": 2,
+            "reward_type": 6,
+            "reward_detail_id": 717721010,
+            "reward_number": 1
+          },
+          {
+            "order_index": 3,
+            "reward_type": 8,
+            "reward_detail_id": 303207,
+            "reward_number": 1
+          }
+        ]
+      },
+      {
+        "product_id": 140,
+        "leader_skin_id": 3608,
+        "product_name_key": "LSPPN_ウマ娘_プリティーダービー_8",
+        "introduction_key": "LSPI_ウマ娘_プリティーダービー_8",
+        "cv_name_key": "LSPCN_ウマ娘_プリティーダービー_8",
+        "single_price_crystal": 500,
+        "single_price_rupy": null,
+        "single_price_ticket": null,
+        "ticket_number": null,
+        "ticket_item_id": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 10,
+            "reward_detail_id": 3608,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 7,
+            "reward_detail_id": 400003915,
+            "reward_number": 1
+          },
+          {
+            "order_index": 2,
+            "reward_type": 6,
+            "reward_detail_id": 717814010,
+            "reward_number": 1
+          },
+          {
+            "order_index": 3,
+            "reward_type": 8,
+            "reward_detail_id": 303209,
+            "reward_number": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "series_id": 124,
+    "is_new": false,
+    "set_sales_status": 0,
+    "set_price_crystal": null,
+    "set_price_rupy": null,
+    "set_price_ticket": null,
+    "set_price_ticket_id": null,
+    "set_completion_rewards": [],
+    "products": [
+      {
+        "product_id": 149,
+        "leader_skin_id": 3617,
+        "product_name_key": "LSPPN_ウマ娘_ゴールドシップ_1",
+        "introduction_key": "LSPI_ウマ娘_ゴールドシップ_1",
+        "cv_name_key": "LSPCN_ウマ娘_ゴールドシップ_1",
+        "single_price_crystal": 500,
+        "single_price_rupy": null,
+        "single_price_ticket": null,
+        "ticket_number": null,
+        "ticket_item_id": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 10,
+            "reward_detail_id": 3617,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 7,
+            "reward_detail_id": 400003914,
+            "reward_number": 1
+          },
+          {
+            "order_index": 2,
+            "reward_type": 6,
+            "reward_detail_id": 717731010,
+            "reward_number": 1
+          },
+          {
+            "order_index": 3,
+            "reward_type": 8,
+            "reward_detail_id": 303208,
+            "reward_number": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "series_id": 125,
+    "is_new": false,
+    "set_sales_status": 1,
+    "set_price_crystal": 2800,
+    "set_price_rupy": null,
+    "set_price_ticket": null,
+    "set_price_ticket_id": null,
+    "set_completion_rewards": [
+      {
+        "order_index": 0,
+        "reward_type": 6,
+        "reward_detail_id": 200000026,
+        "reward_number": 1
+      }
+    ],
+    "products": [
+      {
+        "product_id": 141,
+        "leader_skin_id": 2602,
+        "product_name_key": "LSPPN_6周年スキン_1",
+        "introduction_key": "LSPI_6周年スキン_1",
+        "cv_name_key": "LSPCN_6周年スキン_1",
+        "single_price_crystal": 500,
+        "single_price_rupy": null,
+        "single_price_ticket": null,
+        "ticket_number": null,
+        "ticket_item_id": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 10,
+            "reward_detail_id": 2602,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 7,
+            "reward_detail_id": 210000001,
+            "reward_number": 1
+          },
+          {
+            "order_index": 2,
+            "reward_type": 6,
+            "reward_detail_id": 1182410110,
+            "reward_number": 1
+          },
+          {
+            "order_index": 3,
+            "reward_type": 8,
+            "reward_detail_id": 121001,
+            "reward_number": 1
+          }
+        ]
+      },
+      {
+        "product_id": 142,
+        "leader_skin_id": 2603,
+        "product_name_key": "LSPPN_6周年スキン_2",
+        "introduction_key": "LSPI_6周年スキン_2",
+        "cv_name_key": "LSPCN_6周年スキン_2",
+        "single_price_crystal": 500,
+        "single_price_rupy": null,
+        "single_price_ticket": null,
+        "ticket_number": null,
+        "ticket_item_id": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 10,
+            "reward_detail_id": 2603,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 7,
+            "reward_detail_id": 210000002,
+            "reward_number": 1
+          },
+          {
+            "order_index": 2,
+            "reward_type": 6,
+            "reward_detail_id": 900344080,
+            "reward_number": 1
+          },
+          {
+            "order_index": 3,
+            "reward_type": 8,
+            "reward_detail_id": 121002,
+            "reward_number": 1
+          }
+        ]
+      },
+      {
+        "product_id": 143,
+        "leader_skin_id": 2604,
+        "product_name_key": "LSPPN_6周年スキン_3",
+        "introduction_key": "LSPI_6周年スキン_3",
+        "cv_name_key": "LSPCN_6周年スキン_3",
+        "single_price_crystal": 500,
+        "single_price_rupy": null,
+        "single_price_ticket": null,
+        "ticket_number": null,
+        "ticket_item_id": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 10,
+            "reward_detail_id": 2604,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 7,
+            "reward_detail_id": 210000003,
+            "reward_number": 1
+          },
+          {
+            "order_index": 2,
+            "reward_type": 6,
+            "reward_detail_id": 900444030,
+            "reward_number": 1
+          },
+          {
+            "order_index": 3,
+            "reward_type": 8,
+            "reward_detail_id": 121003,
+            "reward_number": 1
+          }
+        ]
+      },
+      {
+        "product_id": 144,
+        "leader_skin_id": 2605,
+        "product_name_key": "LSPPN_6周年スキン_4",
+        "introduction_key": "LSPI_6周年スキン_4",
+        "cv_name_key": "LSPCN_6周年スキン_4",
+        "single_price_crystal": 500,
+        "single_price_rupy": null,
+        "single_price_ticket": null,
+        "ticket_number": null,
+        "ticket_item_id": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 10,
+            "reward_detail_id": 2605,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 7,
+            "reward_detail_id": 210000004,
+            "reward_number": 1
+          },
+          {
+            "order_index": 2,
+            "reward_type": 6,
+            "reward_detail_id": 1205410210,
+            "reward_number": 1
+          },
+          {
+            "order_index": 3,
+            "reward_type": 8,
+            "reward_detail_id": 121004,
+            "reward_number": 1
+          }
+        ]
+      },
+      {
+        "product_id": 145,
+        "leader_skin_id": 2606,
+        "product_name_key": "LSPPN_6周年スキン_5",
+        "introduction_key": "LSPI_6周年スキン_5",
+        "cv_name_key": "LSPCN_6周年スキン_5",
+        "single_price_crystal": 500,
+        "single_price_rupy": null,
+        "single_price_ticket": null,
+        "ticket_number": null,
+        "ticket_item_id": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 10,
+            "reward_detail_id": 2606,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 7,
+            "reward_detail_id": 210000005,
+            "reward_number": 1
+          },
+          {
+            "order_index": 2,
+            "reward_type": 6,
+            "reward_detail_id": 900644040,
+            "reward_number": 1
+          },
+          {
+            "order_index": 3,
+            "reward_type": 8,
+            "reward_detail_id": 121005,
+            "reward_number": 1
+          }
+        ]
+      },
+      {
+        "product_id": 146,
+        "leader_skin_id": 2607,
+        "product_name_key": "LSPPN_6周年スキン_6",
+        "introduction_key": "LSPI_6周年スキン_6",
+        "cv_name_key": "LSPCN_6周年スキン_6",
+        "single_price_crystal": 500,
+        "single_price_rupy": null,
+        "single_price_ticket": null,
+        "ticket_number": null,
+        "ticket_item_id": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 10,
+            "reward_detail_id": 2607,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 7,
+            "reward_detail_id": 210000006,
+            "reward_number": 1
+          },
+          {
+            "order_index": 2,
+            "reward_type": 6,
+            "reward_detail_id": 900744020,
+            "reward_number": 1
+          },
+          {
+            "order_index": 3,
+            "reward_type": 8,
+            "reward_detail_id": 121006,
+            "reward_number": 1
+          }
+        ]
+      },
+      {
+        "product_id": 147,
+        "leader_skin_id": 2608,
+        "product_name_key": "LSPPN_6周年スキン_7",
+        "introduction_key": "LSPI_6周年スキン_7",
+        "cv_name_key": "LSPCN_6周年スキン_7",
+        "single_price_crystal": 500,
+        "single_price_rupy": null,
+        "single_price_ticket": null,
+        "ticket_number": null,
+        "ticket_item_id": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 10,
+            "reward_detail_id": 2608,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 7,
+            "reward_detail_id": 210000007,
+            "reward_number": 1
+          },
+          {
+            "order_index": 2,
+            "reward_type": 6,
+            "reward_detail_id": 1188410110,
+            "reward_number": 1
+          },
+          {
+            "order_index": 3,
+            "reward_type": 8,
+            "reward_detail_id": 121007,
+            "reward_number": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "series_id": 127,
+    "is_new": false,
+    "set_sales_status": 1,
+    "set_price_crystal": 2400,
+    "set_price_rupy": null,
+    "set_price_ticket": null,
+    "set_price_ticket_id": null,
+    "set_completion_rewards": [
+      {
+        "order_index": 0,
+        "reward_type": 6,
+        "reward_detail_id": 3065003,
+        "reward_number": 1
+      }
+    ],
+    "products": [
+      {
+        "product_id": 153,
+        "leader_skin_id": 3701,
+        "product_name_key": "LSPPN_シャドウバースF_1",
+        "introduction_key": "LSPI_シャドウバースF_1",
+        "cv_name_key": "LSPCN_シャドウバースF_1",
+        "single_price_crystal": 500,
+        "single_price_rupy": null,
+        "single_price_ticket": null,
+        "ticket_number": null,
+        "ticket_item_id": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 10,
+            "reward_detail_id": 3701,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 7,
+            "reward_detail_id": 400004301,
+            "reward_number": 1
+          },
+          {
+            "order_index": 2,
+            "reward_type": 7,
+            "reward_detail_id": 400004307,
+            "reward_number": 1
+          },
+          {
+            "order_index": 3,
+            "reward_type": 6,
+            "reward_detail_id": 717114010,
+            "reward_number": 1
+          },
+          {
+            "order_index": 4,
+            "reward_type": 8,
+            "reward_detail_id": 303401,
+            "reward_number": 1
+          }
+        ]
+      },
+      {
+        "product_id": 154,
+        "leader_skin_id": 3702,
+        "product_name_key": "LSPPN_シャドウバースF_2",
+        "introduction_key": "LSPI_シャドウバースF_2",
+        "cv_name_key": "LSPCN_シャドウバースF_2",
+        "single_price_crystal": 500,
+        "single_price_rupy": null,
+        "single_price_ticket": null,
+        "ticket_number": null,
+        "ticket_item_id": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 10,
+            "reward_detail_id": 3702,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 7,
+            "reward_detail_id": 400004302,
+            "reward_number": 1
+          },
+          {
+            "order_index": 2,
+            "reward_type": 7,
+            "reward_detail_id": 400004308,
+            "reward_number": 1
+          },
+          {
+            "order_index": 3,
+            "reward_type": 6,
+            "reward_detail_id": 717234010,
+            "reward_number": 1
+          },
+          {
+            "order_index": 4,
+            "reward_type": 8,
+            "reward_detail_id": 303402,
+            "reward_number": 1
+          }
+        ]
+      },
+      {
+        "product_id": 155,
+        "leader_skin_id": 3703,
+        "product_name_key": "LSPPN_シャドウバースF_3",
+        "introduction_key": "LSPI_シャドウバースF_3",
+        "cv_name_key": "LSPCN_シャドウバースF_3",
+        "single_price_crystal": 500,
+        "single_price_rupy": null,
+        "single_price_ticket": null,
+        "ticket_number": null,
+        "ticket_item_id": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 10,
+            "reward_detail_id": 3703,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 7,
+            "reward_detail_id": 400004303,
+            "reward_number": 1
+          },
+          {
+            "order_index": 2,
+            "reward_type": 7,
+            "reward_detail_id": 400004309,
+            "reward_number": 1
+          },
+          {
+            "order_index": 3,
+            "reward_type": 6,
+            "reward_detail_id": 717334020,
+            "reward_number": 1
+          },
+          {
+            "order_index": 4,
+            "reward_type": 8,
+            "reward_detail_id": 303403,
+            "reward_number": 1
+          }
+        ]
+      },
+      {
+        "product_id": 156,
+        "leader_skin_id": 3705,
+        "product_name_key": "LSPPN_シャドウバースF_4",
+        "introduction_key": "LSPI_シャドウバースF_4",
+        "cv_name_key": "LSPCN_シャドウバースF_4",
+        "single_price_crystal": 500,
+        "single_price_rupy": null,
+        "single_price_ticket": null,
+        "ticket_number": null,
+        "ticket_item_id": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 10,
+            "reward_detail_id": 3705,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 7,
+            "reward_detail_id": 400004304,
+            "reward_number": 1
+          },
+          {
+            "order_index": 2,
+            "reward_type": 7,
+            "reward_detail_id": 400004310,
+            "reward_number": 1
+          },
+          {
+            "order_index": 3,
+            "reward_type": 6,
+            "reward_detail_id": 717514020,
+            "reward_number": 1
+          },
+          {
+            "order_index": 4,
+            "reward_type": 8,
+            "reward_detail_id": 303405,
+            "reward_number": 1
+          }
+        ]
+      },
+      {
+        "product_id": 157,
+        "leader_skin_id": 3706,
+        "product_name_key": "LSPPN_シャドウバースF_5",
+        "introduction_key": "LSPI_シャドウバースF_5",
+        "cv_name_key": "LSPCN_シャドウバースF_5",
+        "single_price_crystal": 500,
+        "single_price_rupy": null,
+        "single_price_ticket": null,
+        "ticket_number": null,
+        "ticket_item_id": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 10,
+            "reward_detail_id": 3706,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 7,
+            "reward_detail_id": 400004305,
+            "reward_number": 1
+          },
+          {
+            "order_index": 2,
+            "reward_type": 7,
+            "reward_detail_id": 400004311,
+            "reward_number": 1
+          },
+          {
+            "order_index": 3,
+            "reward_type": 6,
+            "reward_detail_id": 717614020,
+            "reward_number": 1
+          },
+          {
+            "order_index": 4,
+            "reward_type": 8,
+            "reward_detail_id": 303406,
+            "reward_number": 1
+          }
+        ]
+      },
+      {
+        "product_id": 158,
+        "leader_skin_id": 3707,
+        "product_name_key": "LSPPN_シャドウバースF_6",
+        "introduction_key": "LSPI_シャドウバースF_6",
+        "cv_name_key": "LSPCN_シャドウバースF_6",
+        "single_price_crystal": 500,
+        "single_price_rupy": null,
+        "single_price_ticket": null,
+        "ticket_number": null,
+        "ticket_item_id": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 10,
+            "reward_detail_id": 3707,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 7,
+            "reward_detail_id": 400004306,
+            "reward_number": 1
+          },
+          {
+            "order_index": 2,
+            "reward_type": 7,
+            "reward_detail_id": 400004312,
+            "reward_number": 1
+          },
+          {
+            "order_index": 3,
+            "reward_type": 6,
+            "reward_detail_id": 717732010,
+            "reward_number": 1
+          },
+          {
+            "order_index": 4,
+            "reward_type": 8,
+            "reward_detail_id": 303407,
+            "reward_number": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "series_id": 129,
+    "is_new": false,
+    "set_sales_status": 1,
+    "set_price_crystal": 2000,
+    "set_price_rupy": null,
+    "set_price_ticket": null,
+    "set_price_ticket_id": null,
+    "set_completion_rewards": [
+      {
+        "order_index": 0,
+        "reward_type": 6,
+        "reward_detail_id": 200000037,
+        "reward_number": 1
+      }
+    ],
+    "products": [
+      {
+        "product_id": 165,
+        "leader_skin_id": 2501,
+        "product_name_key": "LSPPN_7周年スキン_1",
+        "introduction_key": "LSPI_7周年スキン_1",
+        "cv_name_key": "LSPCN_7周年スキン_1",
+        "single_price_crystal": 500,
+        "single_price_rupy": null,
+        "single_price_ticket": null,
+        "ticket_number": null,
+        "ticket_item_id": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 10,
+            "reward_detail_id": 2501,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 7,
+            "reward_detail_id": 210000008,
+            "reward_number": 1
+          },
+          {
+            "order_index": 2,
+            "reward_type": 6,
+            "reward_detail_id": 900134030,
+            "reward_number": 1
+          },
+          {
+            "order_index": 3,
+            "reward_type": 8,
+            "reward_detail_id": 123001,
+            "reward_number": 1
+          }
+        ]
+      },
+      {
+        "product_id": 166,
+        "leader_skin_id": 2523,
+        "product_name_key": "LSPPN_7周年スキン_2",
+        "introduction_key": "LSPI_7周年スキン_2",
+        "cv_name_key": "LSPCN_7周年スキン_2",
+        "single_price_crystal": 500,
+        "single_price_rupy": null,
+        "single_price_ticket": null,
+        "ticket_number": null,
+        "ticket_item_id": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 10,
+            "reward_detail_id": 2523,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 7,
+            "reward_detail_id": 210000009,
+            "reward_number": 1
+          },
+          {
+            "order_index": 2,
+            "reward_type": 6,
+            "reward_detail_id": 900334090,
+            "reward_number": 1
+          },
+          {
+            "order_index": 3,
+            "reward_type": 8,
+            "reward_detail_id": 123002,
+            "reward_number": 1
+          }
+        ]
+      },
+      {
+        "product_id": 167,
+        "leader_skin_id": 2513,
+        "product_name_key": "LSPPN_7周年スキン_3",
+        "introduction_key": "LSPI_7周年スキン_3",
+        "cv_name_key": "LSPCN_7周年スキン_3",
+        "single_price_crystal": 500,
+        "single_price_rupy": null,
+        "single_price_ticket": null,
+        "ticket_number": null,
+        "ticket_item_id": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 10,
+            "reward_detail_id": 2513,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 7,
+            "reward_detail_id": 210000010,
+            "reward_number": 1
+          },
+          {
+            "order_index": 2,
+            "reward_type": 6,
+            "reward_detail_id": 900344090,
+            "reward_number": 1
+          },
+          {
+            "order_index": 3,
+            "reward_type": 8,
+            "reward_detail_id": 123003,
+            "reward_number": 1
+          }
+        ]
+      },
+      {
+        "product_id": 168,
+        "leader_skin_id": 3504,
+        "product_name_key": "LSPPN_7周年スキン_4",
+        "introduction_key": "LSPI_7周年スキン_4",
+        "cv_name_key": "LSPCN_7周年スキン_4",
+        "single_price_crystal": 500,
+        "single_price_rupy": null,
+        "single_price_ticket": null,
+        "ticket_number": null,
+        "ticket_item_id": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 10,
+            "reward_detail_id": 3504,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 7,
+            "reward_detail_id": 210000011,
+            "reward_number": 1
+          },
+          {
+            "order_index": 2,
+            "reward_type": 6,
+            "reward_detail_id": 820444060,
+            "reward_number": 1
+          },
+          {
+            "order_index": 3,
+            "reward_type": 8,
+            "reward_detail_id": 123004,
+            "reward_number": 1
+          }
+        ]
+      },
+      {
+        "product_id": 169,
+        "leader_skin_id": 3516,
+        "product_name_key": "LSPPN_7周年スキン_5",
+        "introduction_key": "LSPI_7周年スキン_5",
+        "cv_name_key": "LSPCN_7周年スキン_5",
+        "single_price_crystal": 500,
+        "single_price_rupy": null,
+        "single_price_ticket": null,
+        "ticket_number": null,
+        "ticket_item_id": null,
+        "rewards": [
+          {
+            "order_index": 0,
+            "reward_type": 10,
+            "reward_detail_id": 3516,
+            "reward_number": 1
+          },
+          {
+            "order_index": 1,
+            "reward_type": 7,
+            "reward_detail_id": 210000012,
+            "reward_number": 1
+          },
+          {
+            "order_index": 2,
+            "reward_type": 6,
+            "reward_detail_id": 820644040,
+            "reward_number": 1
+          },
+          {
+            "order_index": 3,
+            "reward_type": 8,
+            "reward_detail_id": 123005,
+            "reward_number": 1
+          }
+        ]
+      }
+    ]
+  }
+]

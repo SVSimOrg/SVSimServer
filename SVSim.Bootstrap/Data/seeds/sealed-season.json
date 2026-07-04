@@ -1,0 +1,21 @@
+{
+  "id": 1,
+  "enable": 1,
+  "crystal_cost": 600,
+  "rupy_cost": 600,
+  "ticket_cost": 4,
+  "deck_using_num_min": 30,
+  "schedule_id": 21,
+  "is_join": false,
+  "is_deck_code_maintenance": false,
+  "pack_info": [
+    10032,
+    10032,
+    10031,
+    10030,
+    10029
+  ],
+  "sales_period_info": {
+    "sales_period_series": 33
+  }
+}

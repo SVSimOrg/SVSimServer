@@ -1,0 +1,3733 @@
+[
+  {
+    "card_id": 113041010,
+    "class": 0,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10013,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 113041020,
+    "class": 0,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10013,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 113141010,
+    "class": 1,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10013,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 113141020,
+    "class": 1,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10013,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 113144010,
+    "class": 1,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10013,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 113241010,
+    "class": 2,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10013,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 113241020,
+    "class": 2,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10013,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 113242010,
+    "class": 2,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10013,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 113341010,
+    "class": 3,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10013,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 113341020,
+    "class": 3,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10013,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 113344010,
+    "class": 3,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10013,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 113441010,
+    "class": 4,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10013,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 113441020,
+    "class": 4,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10013,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 113441030,
+    "class": 4,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10013,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 113541010,
+    "class": 5,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10013,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 113541020,
+    "class": 5,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10013,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 113541030,
+    "class": 5,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10013,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 113641010,
+    "class": 6,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10013,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 113641020,
+    "class": 6,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10013,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 113641030,
+    "class": 6,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10013,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 113741010,
+    "class": 7,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10013,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 113741020,
+    "class": 7,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10013,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 113741030,
+    "class": 7,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10013,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 113841010,
+    "class": 8,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10013,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 113841020,
+    "class": 8,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10013,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 113841030,
+    "class": 8,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10013,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 114041010,
+    "class": 0,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10014,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 114041020,
+    "class": 0,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10014,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 114141010,
+    "class": 1,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10014,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 114141020,
+    "class": 1,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10014,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 114141030,
+    "class": 1,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10014,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 114241010,
+    "class": 2,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10014,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 114241020,
+    "class": 2,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10014,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 114241030,
+    "class": 2,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10014,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 114341010,
+    "class": 3,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10014,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 114341020,
+    "class": 3,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10014,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 114341030,
+    "class": 3,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10014,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 114441010,
+    "class": 4,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10014,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 114441020,
+    "class": 4,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10014,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 114441030,
+    "class": 4,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10014,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 114541010,
+    "class": 5,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10014,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 114541020,
+    "class": 5,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10014,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 114541030,
+    "class": 5,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10014,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 114641010,
+    "class": 6,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10014,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 114641020,
+    "class": 6,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10014,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 114641030,
+    "class": 6,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10014,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 114741010,
+    "class": 7,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10014,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 114741020,
+    "class": 7,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10014,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 114741030,
+    "class": 7,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10014,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 114841010,
+    "class": 8,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10014,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 114841020,
+    "class": 8,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10014,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 114844010,
+    "class": 8,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10014,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 115041010,
+    "class": 0,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10015,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 115041020,
+    "class": 0,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10015,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 115141010,
+    "class": 1,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10015,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 115141020,
+    "class": 1,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10015,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 115141030,
+    "class": 1,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10015,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 115241010,
+    "class": 2,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10015,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 115241020,
+    "class": 2,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10015,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 115241030,
+    "class": 2,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10015,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 115341010,
+    "class": 3,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10015,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 115341020,
+    "class": 3,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10015,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 115341030,
+    "class": 3,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10015,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 115441010,
+    "class": 4,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10015,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 115441020,
+    "class": 4,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10015,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 115441030,
+    "class": 4,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10015,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 115541010,
+    "class": 5,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10015,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 115541020,
+    "class": 5,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10015,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 115541030,
+    "class": 5,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10015,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 115641010,
+    "class": 6,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10015,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 115641020,
+    "class": 6,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10015,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 115641030,
+    "class": 6,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10015,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 115741010,
+    "class": 7,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10015,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 115741020,
+    "class": 7,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10015,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 115741030,
+    "class": 7,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10015,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 115841010,
+    "class": 8,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10015,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 115841020,
+    "class": 8,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10015,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 115841030,
+    "class": 8,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10015,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 116041010,
+    "class": 0,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10016,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 116041020,
+    "class": 0,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10016,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 116141010,
+    "class": 1,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10016,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 116141020,
+    "class": 1,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10016,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 116141030,
+    "class": 1,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10016,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 116241010,
+    "class": 2,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10016,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 116241020,
+    "class": 2,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10016,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 116241030,
+    "class": 2,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10016,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 116341010,
+    "class": 3,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10016,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 116341020,
+    "class": 3,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10016,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 116341030,
+    "class": 3,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10016,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 116441010,
+    "class": 4,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10016,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 116441020,
+    "class": 4,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10016,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 116441030,
+    "class": 4,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10016,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 116541010,
+    "class": 5,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10016,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 116541020,
+    "class": 5,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10016,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 116541030,
+    "class": 5,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10016,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 116641010,
+    "class": 6,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10016,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 116641020,
+    "class": 6,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10016,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 116641030,
+    "class": 6,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10016,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 116741010,
+    "class": 7,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10016,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 116741020,
+    "class": 7,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10016,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 116741030,
+    "class": 7,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10016,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 116841010,
+    "class": 8,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10016,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 116841020,
+    "class": 8,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10016,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 116841030,
+    "class": 8,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10016,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 117041010,
+    "class": 0,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10017,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 117041020,
+    "class": 0,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10017,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 117141010,
+    "class": 1,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10017,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 117141020,
+    "class": 1,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10017,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 117141030,
+    "class": 1,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10017,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 117241010,
+    "class": 2,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10017,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 117241020,
+    "class": 2,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10017,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 117241030,
+    "class": 2,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10017,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 117341010,
+    "class": 3,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10017,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 117341020,
+    "class": 3,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10017,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 117341030,
+    "class": 3,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10017,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 117441010,
+    "class": 4,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10017,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 117441020,
+    "class": 4,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10017,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 117441030,
+    "class": 4,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10017,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 117541010,
+    "class": 5,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10017,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 117541020,
+    "class": 5,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10017,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 117541030,
+    "class": 5,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10017,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 117641010,
+    "class": 6,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10017,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 117641020,
+    "class": 6,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10017,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 117641030,
+    "class": 6,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10017,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 117741010,
+    "class": 7,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10017,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 117741020,
+    "class": 7,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10017,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 117741030,
+    "class": 7,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10017,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 117841010,
+    "class": 8,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10017,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 117841020,
+    "class": 8,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10017,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 117841030,
+    "class": 8,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10017,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 118041010,
+    "class": 0,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10018,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 118041020,
+    "class": 0,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10018,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 118141010,
+    "class": 1,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10018,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 118141020,
+    "class": 1,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10018,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 118141030,
+    "class": 1,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10018,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 118241010,
+    "class": 2,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10018,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 118241020,
+    "class": 2,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10018,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 118241030,
+    "class": 2,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10018,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 118341010,
+    "class": 3,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10018,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 118341020,
+    "class": 3,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10018,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 118341030,
+    "class": 3,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10018,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 118441010,
+    "class": 4,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10018,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 118441020,
+    "class": 4,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10018,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 118441030,
+    "class": 4,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10018,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 118541010,
+    "class": 5,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10018,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 118541020,
+    "class": 5,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10018,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 118541030,
+    "class": 5,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10018,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 118641010,
+    "class": 6,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10018,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 118641020,
+    "class": 6,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10018,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 118641030,
+    "class": 6,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10018,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 118741010,
+    "class": 7,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10018,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 118741020,
+    "class": 7,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10018,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 118741030,
+    "class": 7,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10018,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 118841010,
+    "class": 8,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10018,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 118841020,
+    "class": 8,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10018,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 118841030,
+    "class": 8,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10018,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 119041010,
+    "class": 0,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10019,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 119044010,
+    "class": 0,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10019,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 119141010,
+    "class": 1,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10019,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 119141020,
+    "class": 1,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10019,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 119141030,
+    "class": 1,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10019,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 119241010,
+    "class": 2,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10019,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 119241020,
+    "class": 2,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10019,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 119241030,
+    "class": 2,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10019,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 119341010,
+    "class": 3,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10019,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 119341020,
+    "class": 3,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10019,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 119341030,
+    "class": 3,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10019,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 119441010,
+    "class": 4,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10019,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 119441020,
+    "class": 4,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10019,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 119441030,
+    "class": 4,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10019,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 119541010,
+    "class": 5,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10019,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 119541020,
+    "class": 5,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10019,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 119541030,
+    "class": 5,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10019,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 119641010,
+    "class": 6,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10019,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 119641020,
+    "class": 6,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10019,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 119641030,
+    "class": 6,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10019,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 119741010,
+    "class": 7,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10019,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 119741020,
+    "class": 7,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10019,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 119741030,
+    "class": 7,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10019,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 119841010,
+    "class": 8,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10019,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 119841020,
+    "class": 8,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10019,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 119841030,
+    "class": 8,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10019,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 120041010,
+    "class": 0,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10020,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 120044010,
+    "class": 0,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10020,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 120141010,
+    "class": 1,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10020,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 120141020,
+    "class": 1,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10020,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 120141030,
+    "class": 1,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10020,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 120241010,
+    "class": 2,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10020,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 120241020,
+    "class": 2,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10020,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 120241030,
+    "class": 2,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10020,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 120341010,
+    "class": 3,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10020,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 120341020,
+    "class": 3,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10020,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 120341030,
+    "class": 3,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10020,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 120441010,
+    "class": 4,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10020,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 120441020,
+    "class": 4,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10020,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 120441030,
+    "class": 4,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10020,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 120541010,
+    "class": 5,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10020,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 120541020,
+    "class": 5,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10020,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 120541030,
+    "class": 5,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10020,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 120641010,
+    "class": 6,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10020,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 120641020,
+    "class": 6,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10020,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 120641030,
+    "class": 6,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10020,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 120741010,
+    "class": 7,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10020,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 120741020,
+    "class": 7,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10020,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 120741030,
+    "class": 7,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10020,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 120841010,
+    "class": 8,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10020,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 120841020,
+    "class": 8,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10020,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 120841030,
+    "class": 8,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10020,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 121041010,
+    "class": 0,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10021,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 121044010,
+    "class": 0,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10021,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 121141010,
+    "class": 1,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10021,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 121141020,
+    "class": 1,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10021,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 121141030,
+    "class": 1,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10021,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 121241010,
+    "class": 2,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10021,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 121241020,
+    "class": 2,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10021,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 121241030,
+    "class": 2,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10021,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 121341010,
+    "class": 3,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10021,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 121341020,
+    "class": 3,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10021,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 121341030,
+    "class": 3,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10021,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 121441010,
+    "class": 4,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10021,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 121441020,
+    "class": 4,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10021,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 121441030,
+    "class": 4,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10021,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 121541010,
+    "class": 5,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10021,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 121541020,
+    "class": 5,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10021,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 121541030,
+    "class": 5,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10021,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 121641010,
+    "class": 6,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10021,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 121641020,
+    "class": 6,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10021,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 121641030,
+    "class": 6,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10021,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 121741010,
+    "class": 7,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10021,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 121741020,
+    "class": 7,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10021,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 121741030,
+    "class": 7,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10021,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 121841010,
+    "class": 8,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10021,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 121841020,
+    "class": 8,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10021,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 121841030,
+    "class": 8,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10021,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 122041010,
+    "class": 0,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10022,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 122044010,
+    "class": 0,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10022,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 122141010,
+    "class": 1,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10022,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 122141020,
+    "class": 1,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10022,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 122141030,
+    "class": 1,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10022,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 122241010,
+    "class": 2,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10022,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 122241020,
+    "class": 2,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10022,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 122244010,
+    "class": 2,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10022,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 122341010,
+    "class": 3,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10022,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 122341020,
+    "class": 3,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10022,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 122341030,
+    "class": 3,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10022,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 122441010,
+    "class": 4,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10022,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 122441020,
+    "class": 4,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10022,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 122441030,
+    "class": 4,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10022,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 122541010,
+    "class": 5,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10022,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 122541020,
+    "class": 5,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10022,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 122541030,
+    "class": 5,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10022,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 122641010,
+    "class": 6,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10022,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 122641020,
+    "class": 6,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10022,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 122641030,
+    "class": 6,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10022,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 122741010,
+    "class": 7,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10022,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 122741020,
+    "class": 7,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10022,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 122741030,
+    "class": 7,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10022,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 122841010,
+    "class": 8,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10022,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 122841020,
+    "class": 8,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10022,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 122844010,
+    "class": 8,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10022,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 123041010,
+    "class": 0,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10023,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 123041020,
+    "class": 0,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10023,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 123141010,
+    "class": 1,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10023,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 123141020,
+    "class": 1,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10023,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 123141030,
+    "class": 1,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10023,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 123241010,
+    "class": 2,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10023,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 123241020,
+    "class": 2,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10023,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 123244010,
+    "class": 2,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10023,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 123341010,
+    "class": 3,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10023,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 123341020,
+    "class": 3,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10023,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 123341030,
+    "class": 3,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10023,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 123441010,
+    "class": 4,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10023,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 123441020,
+    "class": 4,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10023,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 123441030,
+    "class": 4,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10023,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 123541010,
+    "class": 5,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10023,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 123541020,
+    "class": 5,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10023,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 123541030,
+    "class": 5,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10023,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 123641010,
+    "class": 6,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10023,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 123641020,
+    "class": 6,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10023,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 123641030,
+    "class": 6,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10023,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 123741010,
+    "class": 7,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10023,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 123741020,
+    "class": 7,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10023,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 123741030,
+    "class": 7,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10023,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 123841010,
+    "class": 8,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10023,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 123841020,
+    "class": 8,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10023,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 123841030,
+    "class": 8,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10023,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 124041010,
+    "class": 0,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10024,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 124041020,
+    "class": 0,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10024,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 124141010,
+    "class": 1,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10024,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 124141020,
+    "class": 1,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10024,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 124141030,
+    "class": 1,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10024,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 124241010,
+    "class": 2,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10024,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 124241020,
+    "class": 2,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10024,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 124241030,
+    "class": 2,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10024,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 124341010,
+    "class": 3,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10024,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 124341020,
+    "class": 3,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10024,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 124341030,
+    "class": 3,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10024,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 124441010,
+    "class": 4,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10024,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 124441020,
+    "class": 4,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10024,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 124441030,
+    "class": 4,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10024,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 124541010,
+    "class": 5,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10024,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 124541020,
+    "class": 5,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10024,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 124541030,
+    "class": 5,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10024,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 124641010,
+    "class": 6,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10024,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 124641020,
+    "class": 6,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10024,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 124641030,
+    "class": 6,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10024,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 124741010,
+    "class": 7,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10024,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 124741020,
+    "class": 7,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10024,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 124741030,
+    "class": 7,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10024,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 124841010,
+    "class": 8,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10024,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 124841020,
+    "class": 8,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10024,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 124841030,
+    "class": 8,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10024,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 125041010,
+    "class": 0,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10025,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 125041020,
+    "class": 0,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10025,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 125041030,
+    "class": 0,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10025,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 125141010,
+    "class": 1,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10025,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 125141020,
+    "class": 1,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10025,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 125141030,
+    "class": 1,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10025,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 125241010,
+    "class": 2,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10025,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 125241020,
+    "class": 2,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10025,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 125241030,
+    "class": 2,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10025,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 125341010,
+    "class": 3,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10025,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 125341020,
+    "class": 3,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10025,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 125341030,
+    "class": 3,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10025,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 125441010,
+    "class": 4,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10025,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 125441020,
+    "class": 4,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10025,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 125441030,
+    "class": 4,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10025,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 125541010,
+    "class": 5,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10025,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 125541020,
+    "class": 5,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10025,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 125541030,
+    "class": 5,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10025,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 125641010,
+    "class": 6,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10025,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 125641020,
+    "class": 6,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10025,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 125641030,
+    "class": 6,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10025,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 125741010,
+    "class": 7,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10025,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 125741020,
+    "class": 7,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10025,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 125741030,
+    "class": 7,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10025,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 125841010,
+    "class": 8,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10025,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 125841020,
+    "class": 8,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10025,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 125844010,
+    "class": 8,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10025,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 126041010,
+    "class": 0,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10026,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 126041020,
+    "class": 0,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10026,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 126141010,
+    "class": 1,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10026,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 126141020,
+    "class": 1,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10026,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 126141030,
+    "class": 1,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10026,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 126241010,
+    "class": 2,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10026,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 126241020,
+    "class": 2,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10026,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 126241030,
+    "class": 2,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10026,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 126341010,
+    "class": 3,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10026,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 126341020,
+    "class": 3,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10026,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 126341030,
+    "class": 3,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10026,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 126441010,
+    "class": 4,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10026,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 126441020,
+    "class": 4,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10026,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 126441030,
+    "class": 4,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10026,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 126541010,
+    "class": 5,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10026,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 126541020,
+    "class": 5,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10026,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 126541030,
+    "class": 5,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10026,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 126641010,
+    "class": 6,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10026,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 126641020,
+    "class": 6,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10026,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 126641030,
+    "class": 6,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10026,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 126741010,
+    "class": 7,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10026,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 126741020,
+    "class": 7,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10026,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 126741030,
+    "class": 7,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10026,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 126841010,
+    "class": 8,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10026,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 126841020,
+    "class": 8,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10026,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 126841030,
+    "class": 8,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10026,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 127041010,
+    "class": 0,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10027,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 127041020,
+    "class": 0,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10027,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 127041030,
+    "class": 0,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10027,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 127141010,
+    "class": 1,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10027,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 127141020,
+    "class": 1,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10027,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 127141030,
+    "class": 1,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10027,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 127241010,
+    "class": 2,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10027,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 127241020,
+    "class": 2,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10027,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 127241030,
+    "class": 2,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10027,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 127341010,
+    "class": 3,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10027,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 127341020,
+    "class": 3,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10027,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 127341030,
+    "class": 3,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10027,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 127441010,
+    "class": 4,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10027,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 127441020,
+    "class": 4,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10027,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 127441030,
+    "class": 4,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10027,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 127541010,
+    "class": 5,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10027,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 127541020,
+    "class": 5,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10027,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 127541030,
+    "class": 5,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10027,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 127641010,
+    "class": 6,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10027,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 127641020,
+    "class": 6,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10027,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 127641030,
+    "class": 6,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10027,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 127741010,
+    "class": 7,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10027,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 127741020,
+    "class": 7,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10027,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 127741030,
+    "class": 7,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10027,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 127841010,
+    "class": 8,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10027,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 127841020,
+    "class": 8,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10027,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 127841030,
+    "class": 8,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10027,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 128041010,
+    "class": 0,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10028,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 128041020,
+    "class": 0,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10028,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 128141010,
+    "class": 1,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10028,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 128141020,
+    "class": 1,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10028,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 128141030,
+    "class": 1,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10028,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 128241010,
+    "class": 2,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10028,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 128241020,
+    "class": 2,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10028,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 128241030,
+    "class": 2,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10028,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 128341010,
+    "class": 3,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10028,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 128341020,
+    "class": 3,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10028,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 128341030,
+    "class": 3,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10028,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 128441010,
+    "class": 4,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10028,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 128441020,
+    "class": 4,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10028,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 128441030,
+    "class": 4,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10028,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 128541010,
+    "class": 5,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10028,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 128541020,
+    "class": 5,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10028,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 128541030,
+    "class": 5,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10028,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 128641010,
+    "class": 6,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10028,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 128641020,
+    "class": 6,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10028,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 128641030,
+    "class": 6,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10028,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 128741010,
+    "class": 7,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10028,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 128741020,
+    "class": 7,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10028,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 128741030,
+    "class": 7,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10028,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 128841010,
+    "class": 8,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10028,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 128841020,
+    "class": 8,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10028,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 128841030,
+    "class": 8,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10028,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 129041010,
+    "class": 0,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10029,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 129041020,
+    "class": 0,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10029,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 129041030,
+    "class": 0,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10029,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 129141010,
+    "class": 1,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10029,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 129141020,
+    "class": 1,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10029,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 129141030,
+    "class": 1,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10029,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 129241010,
+    "class": 2,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10029,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 129241020,
+    "class": 2,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10029,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 129241030,
+    "class": 2,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10029,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 129341010,
+    "class": 3,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10029,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 129341020,
+    "class": 3,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10029,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 129341030,
+    "class": 3,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10029,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 129441010,
+    "class": 4,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10029,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 129441020,
+    "class": 4,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10029,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 129441030,
+    "class": 4,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10029,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 129541010,
+    "class": 5,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10029,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 129541020,
+    "class": 5,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10029,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 129541030,
+    "class": 5,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10029,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 129641010,
+    "class": 6,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10029,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 129641020,
+    "class": 6,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10029,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 129641030,
+    "class": 6,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10029,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 129741010,
+    "class": 7,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10029,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 129741020,
+    "class": 7,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10029,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 129741030,
+    "class": 7,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10029,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 129841010,
+    "class": 8,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10029,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 129841020,
+    "class": 8,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10029,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 129841030,
+    "class": 8,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10029,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 130041010,
+    "class": 0,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10030,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 130041020,
+    "class": 0,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10030,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 130141010,
+    "class": 1,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10030,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 130141020,
+    "class": 1,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10030,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 130141030,
+    "class": 1,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10030,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 130241010,
+    "class": 2,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10030,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 130241020,
+    "class": 2,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10030,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 130241030,
+    "class": 2,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10030,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 130341010,
+    "class": 3,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10030,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 130341020,
+    "class": 3,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10030,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 130341030,
+    "class": 3,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10030,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 130441010,
+    "class": 4,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10030,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 130441020,
+    "class": 4,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10030,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 130441030,
+    "class": 4,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10030,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 130541010,
+    "class": 5,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10030,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 130541020,
+    "class": 5,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10030,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 130541030,
+    "class": 5,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10030,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 130641010,
+    "class": 6,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10030,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 130641020,
+    "class": 6,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10030,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 130641030,
+    "class": 6,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10030,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 130741010,
+    "class": 7,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10030,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 130741020,
+    "class": 7,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10030,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 130743010,
+    "class": 7,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10030,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 130841010,
+    "class": 8,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10030,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 130841020,
+    "class": 8,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10030,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 130841030,
+    "class": 8,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10030,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 131041010,
+    "class": 0,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10031,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 131044010,
+    "class": 0,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10031,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 131141010,
+    "class": 1,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10031,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 131141020,
+    "class": 1,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10031,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 131141030,
+    "class": 1,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10031,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 131241010,
+    "class": 2,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10031,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 131241020,
+    "class": 2,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10031,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 131241030,
+    "class": 2,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10031,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 131341010,
+    "class": 3,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10031,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 131341020,
+    "class": 3,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10031,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 131341030,
+    "class": 3,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10031,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 131441010,
+    "class": 4,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10031,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 131441020,
+    "class": 4,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10031,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 131441030,
+    "class": 4,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10031,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 131541010,
+    "class": 5,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10031,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 131541020,
+    "class": 5,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10031,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 131541030,
+    "class": 5,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10031,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 131641010,
+    "class": 6,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10031,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 131641020,
+    "class": 6,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10031,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 131641030,
+    "class": 6,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10031,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 131741010,
+    "class": 7,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10031,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 131741020,
+    "class": 7,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10031,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 131741030,
+    "class": 7,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10031,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 131841010,
+    "class": 8,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10031,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 131841020,
+    "class": 8,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10031,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 131841030,
+    "class": 8,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10031,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 132041010,
+    "class": 0,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10032,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 132041020,
+    "class": 0,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10032,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 132041030,
+    "class": 0,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10032,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 132044010,
+    "class": 0,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10032,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 132141010,
+    "class": 1,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10032,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 132141020,
+    "class": 1,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10032,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 132141030,
+    "class": 1,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10032,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 132141040,
+    "class": 1,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10032,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 132241010,
+    "class": 2,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10032,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 132241020,
+    "class": 2,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10032,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 132241030,
+    "class": 2,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10032,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 132241040,
+    "class": 2,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10032,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 132341010,
+    "class": 3,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10032,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 132341020,
+    "class": 3,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10032,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 132341030,
+    "class": 3,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10032,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 132341040,
+    "class": 3,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10032,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 132441010,
+    "class": 4,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10032,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 132441020,
+    "class": 4,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10032,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 132441030,
+    "class": 4,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10032,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 132441040,
+    "class": 4,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10032,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 132541010,
+    "class": 5,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10032,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 132541020,
+    "class": 5,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10032,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 132541030,
+    "class": 5,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10032,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 132541040,
+    "class": 5,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10032,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 132641010,
+    "class": 6,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10032,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 132641020,
+    "class": 6,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10032,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 132641030,
+    "class": 6,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10032,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 132641040,
+    "class": 6,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10032,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 132741010,
+    "class": 7,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10032,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 132741020,
+    "class": 7,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10032,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 132741030,
+    "class": 7,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10032,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 132741040,
+    "class": 7,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10032,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 132841010,
+    "class": 8,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10032,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 132841020,
+    "class": 8,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10032,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 132841030,
+    "class": 8,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10032,
+    "is_pre_release": false
+  },
+  {
+    "card_id": 132841040,
+    "class": 8,
+    "exchange_point": 3500,
+    "ts_rotation_id": 10032,
+    "is_pre_release": false
+  }
+]

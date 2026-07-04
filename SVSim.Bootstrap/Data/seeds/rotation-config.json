@@ -1,0 +1,14 @@
+{
+  "ts_rotation_id": "10015",
+  "is_battle_pass_period": true,
+  "is_beginner_mission": false,
+  "card_set_id_for_resource_dl_view": 1,
+  "rotation_card_set_ids": [
+    10000,
+    10011,
+    10012,
+    10013,
+    10014,
+    10015
+  ]
+}

@@ -1,0 +1,231 @@
+[
+  {
+    "parent_gacha_id": 10001,
+    "base_pack_id": 10001,
+    "gacha_type": 1,
+    "pack_category": 0,
+    "poster_type": 0,
+    "commence_date": "2015-04-01 00:00:00",
+    "complete_date": "2030-12-31 23:59:59",
+    "sleeve_id": 3000011,
+    "special_sleeve_id": 0,
+    "override_draw_effect_pack_id": 10001,
+    "override_ui_effect_pack_id": 10001,
+    "gacha_detail": "A pack contains 8 cards, including at least one silver, gold, or legendary card.",
+    "is_hide": false,
+    "is_new": false,
+    "is_pre_release": false,
+    "open_count_limit": 0,
+    "sales_period_time": null,
+    "gacha_point": {
+      "exchangeable_point": 400,
+      "increase_gacha_point": 1
+    },
+    "child_gachas": [
+      {
+        "gacha_id": 100002,
+        "type_detail": 2,
+        "cost": 100,
+        "card_count": 8,
+        "item_id": null,
+        "is_daily_single": false,
+        "override_increase_gacha_point": 1,
+        "purchase_limit_count": 0,
+        "free_gacha_campaign_id": null,
+        "campaign_name": null
+      },
+      {
+        "gacha_id": 200001,
+        "type_detail": 3,
+        "cost": 50,
+        "card_count": 8,
+        "item_id": null,
+        "is_daily_single": true,
+        "override_increase_gacha_point": 1,
+        "purchase_limit_count": 0,
+        "free_gacha_campaign_id": null,
+        "campaign_name": null
+      },
+      {
+        "gacha_id": 400002,
+        "type_detail": 7,
+        "cost": 100,
+        "card_count": 8,
+        "item_id": null,
+        "is_daily_single": false,
+        "override_increase_gacha_point": 1,
+        "purchase_limit_count": 0,
+        "free_gacha_campaign_id": null,
+        "campaign_name": null
+      }
+    ],
+    "banners": []
+  },
+  {
+    "parent_gacha_id": 99047,
+    "base_pack_id": 90001,
+    "gacha_type": 1,
+    "pack_category": 1,
+    "poster_type": 0,
+    "commence_date": "2026-05-01 02:00:00",
+    "complete_date": "2030-12-31 23:59:59",
+    "sleeve_id": 5090001,
+    "special_sleeve_id": 0,
+    "override_draw_effect_pack_id": 90001,
+    "override_ui_effect_pack_id": 90001,
+    "gacha_detail": "A pack contains 8 cards, including at least one legendary card from Throwback Rotation (Altersphere - Colosseum)!",
+    "is_hide": true,
+    "is_new": false,
+    "is_pre_release": false,
+    "open_count_limit": 0,
+    "sales_period_time": null,
+    "gacha_point": null,
+    "child_gachas": [
+      {
+        "gacha_id": 990047,
+        "type_detail": 5,
+        "cost": 1,
+        "card_count": 8,
+        "item_id": 90001,
+        "is_daily_single": false,
+        "override_increase_gacha_point": 0,
+        "purchase_limit_count": 0,
+        "free_gacha_campaign_id": null,
+        "campaign_name": null
+      }
+    ],
+    "banners": [
+      {
+        "banner_name": "card_pack_99047_dialog",
+        "dialog_title": "Dia_BuyCard_006_Title"
+      }
+    ]
+  },
+  {
+    "parent_gacha_id": 92001,
+    "base_pack_id": 90001,
+    "gacha_type": 1,
+    "pack_category": 1,
+    "poster_type": 0,
+    "commence_date": "2017-06-14 10:00:00",
+    "complete_date": "2030-12-31 23:59:59",
+    "sleeve_id": 5090001,
+    "special_sleeve_id": 0,
+    "override_draw_effect_pack_id": 90001,
+    "override_ui_effect_pack_id": 90001,
+    "gacha_detail": "A pack contains 8 cards, including at least one leader card!",
+    "is_hide": true,
+    "is_new": false,
+    "is_pre_release": false,
+    "open_count_limit": 0,
+    "sales_period_time": null,
+    "gacha_point": null,
+    "child_gachas": [
+      {
+        "gacha_id": 920002,
+        "type_detail": 5,
+        "cost": 1,
+        "card_count": 8,
+        "item_id": 92001,
+        "is_daily_single": false,
+        "override_increase_gacha_point": 0,
+        "purchase_limit_count": 0,
+        "free_gacha_campaign_id": null,
+        "campaign_name": null
+      }
+    ],
+    "banners": []
+  },
+  {
+    "parent_gacha_id": 16015,
+    "base_pack_id": 10015,
+    "gacha_type": 1,
+    "pack_category": 0,
+    "poster_type": 0,
+    "commence_date": "2017-07-01 03:00:00",
+    "complete_date": "2030-12-31 23:59:59",
+    "sleeve_id": 5010015,
+    "special_sleeve_id": 0,
+    "override_draw_effect_pack_id": 10015,
+    "override_ui_effect_pack_id": 10015,
+    "gacha_detail": "A pack contains 8 cards, including at least one silver, gold, or legendary card.",
+    "is_hide": false,
+    "is_new": false,
+    "is_pre_release": false,
+    "open_count_limit": 0,
+    "sales_period_time": null,
+    "gacha_point": {
+      "exchangeable_point": 400,
+      "increase_gacha_point": 1
+    },
+    "child_gachas": [
+      {
+        "gacha_id": 160152,
+        "type_detail": 2,
+        "cost": 100,
+        "card_count": 8,
+        "item_id": null,
+        "is_daily_single": false,
+        "override_increase_gacha_point": 1,
+        "purchase_limit_count": 0,
+        "free_gacha_campaign_id": null,
+        "campaign_name": null
+      },
+      {
+        "gacha_id": 460152,
+        "type_detail": 7,
+        "cost": 100,
+        "card_count": 8,
+        "item_id": null,
+        "is_daily_single": false,
+        "override_increase_gacha_point": 1,
+        "purchase_limit_count": 0,
+        "free_gacha_campaign_id": null,
+        "campaign_name": null
+      }
+    ],
+    "banners": [
+      {
+        "banner_name": "card_pack_711331010_dialog",
+        "dialog_title": "Dia_BuyCard_005_Title"
+      }
+    ]
+  },
+  {
+    "parent_gacha_id": 80032,
+    "base_pack_id": 80001,
+    "gacha_type": 1,
+    "pack_category": 1,
+    "poster_type": 0,
+    "commence_date": "2026-06-01 02:00:00",
+    "complete_date": "2026-07-01 01:59:59",
+    "sleeve_id": 5090001,
+    "special_sleeve_id": 0,
+    "override_draw_effect_pack_id": 80001,
+    "override_ui_effect_pack_id": 80001,
+    "gacha_detail": "Throwback test pack with a free-pack-of-the-day child.",
+    "is_hide": true,
+    "is_new": false,
+    "is_pre_release": false,
+    "is_enabled": false,
+    "open_count_limit": 0,
+    "sales_period_time": "2026-07-01 01:59:59",
+    "gacha_point": null,
+    "child_gachas": [
+      {
+        "gacha_id": 780032,
+        "type_detail": 10,
+        "cost": 1,
+        "card_count": 8,
+        "item_id": null,
+        "is_daily_single": false,
+        "override_increase_gacha_point": 0,
+        "purchase_limit_count": 1,
+        "daily_free_gacha_count": 1,
+        "free_gacha_campaign_id": 49,
+        "campaign_name": "New Season Release Bonus"
+      }
+    ],
+    "banners": []
+  }
+]
